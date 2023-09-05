@@ -1,0 +1,19 @@
+{
+  "name" : "Yuliverse NFT",
+  "website" : "https://www.yuliverse.com",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x35017D8322dc1fAb2156D6799F7144393b6EA605",
+  "type" : "BEP721",
+  "symbol" : "YOG1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x35017D8322dc1fAb2156D6799F7144393b6EA605",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheYuliverse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/yuliverseofficial"
+  } ]
+}

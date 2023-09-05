@@ -1,0 +1,22 @@
+{
+  "name" : "RTFKT - MNLTH",
+  "website" : "https://www.rtfkt.com/",
+  "description" : "Behold a mysterious MNLTH, etched with NIKE & RTFKT markings. It seems to be sentient . . . What does it do? 👁‍🗨",
+  "explorer" : "https://etherscan.io/token/0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1",
+  "type" : "ERC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RTFKT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/rtfkt"
+  }, {
+    "name" : "instagram",
+    "url" : "rtfkt"
+  } ]
+}

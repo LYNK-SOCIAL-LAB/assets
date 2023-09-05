@@ -1,0 +1,25 @@
+{
+  "name" : "StarryNift",
+  "website" : "https://t.co/Erp5fzHb2n",
+  "description" : "A series of alien viruses started to plot a grand vision to reign on the throne of the whole metaverse. The metaverse residents decide to fight back, who will own the supremacy?\n",
+  "explorer" : "https://bscscan.com/token/0xD9de8f63EA0F18264fA5C17A8f17e8eA06367649",
+  "type" : "BEP721",
+  "symbol" : "SNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD9de8f63EA0F18264fA5C17A8f17e8eA06367649",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/StarryNift"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/vMUY1FWXbH"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/ow4ixFI5A0"
+  }, {
+    "name" : "medium",
+    "url" : "https://starrynift.medium.com/"
+  } ]
+}

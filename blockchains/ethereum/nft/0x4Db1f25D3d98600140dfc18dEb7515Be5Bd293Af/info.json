@@ -1,0 +1,22 @@
+{
+  "name" : "HAPE PRIME",
+  "website" : "https://hape.io/",
+  "description" : "8K NEXT-GENERATION, HIGH FASHION HAPES\r\n\r\nUnique, fully 3D and built to unite the ape multiverse.\r\nDesigned and styled by Digimental.",
+  "explorer" : "https://etherscan.io/token/0x4Db1f25D3d98600140dfc18dEb7515Be5Bd293Af",
+  "type" : "ERC721",
+  "symbol" : "HAPE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4Db1f25D3d98600140dfc18dEb7515Be5Bd293Af",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/HAPEsocial"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/hape"
+  }, {
+    "name" : "instagram",
+    "url" : "hapesocial"
+  } ]
+}

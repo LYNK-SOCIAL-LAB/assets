@@ -1,0 +1,19 @@
+{
+  "name" : "GensoKishiOnline",
+  "website" : "https://genso.game/",
+  "description" : "The only play-to-earn game with a 13 year old history.\r\n\r\nGensoKishi Online, is the new GameFi and metaverse incarnation of the award winning Nintendo Switch/PS4 game “Elemental Knights”. We are a community based game that has accumulated a total of 8 million downloads worldwide. \r\n\r\nAs we did in our past game, we will be collaborating with talents from around the world to announce exciting, mouth-watering Cosplay NFTs here. Those who own the Cosplay NFTs will of course have the right to use it in our Chibi-themed metaverse.\r\n\r\nFellow knights, join us now!",
+  "explorer" : "https://polygonscan.com/token/0xC7a096b4c6610ba3a836070333ff7922b9866a36",
+  "type" : "PRC721",
+  "symbol" : "Genso_NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC7a096b4c6610ba3a836070333ff7922b9866a36",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/gensometa"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/gensometamain"
+  } ]
+}

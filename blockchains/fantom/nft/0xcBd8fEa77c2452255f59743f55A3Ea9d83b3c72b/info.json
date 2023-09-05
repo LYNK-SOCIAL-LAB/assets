@@ -1,0 +1,19 @@
+{
+  "name" : "veNFT",
+  "website" : "https://solidly.exchange/",
+  "description" : "Solidly locks are ve(3,3) NFTs holding locked $SOLID tokens. They can be used to boost gauge yields, vote on token emissions and receive bribes. Solidly officially launched in February 2022 with a collective goal of fair and balanced access to DeFi. Solidly is a decentralized exchange that has launched on the Fantom network with low fees, near 0 slippage on correlated assets and a strong focus on secondary markets for tokenized locks as NFT’s (veToken = lpNFTs).",
+  "explorer" : "https://ftmscan.com/token/0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b",
+  "type" : "FRC721",
+  "symbol" : "veNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@solidlyexchange"
+  }, {
+    "name" : "medium",
+    "url" : "https://andrecronje.medium.com/solidly-feature-updates-and-launch-date-97be7e50e282"
+  } ]
+}

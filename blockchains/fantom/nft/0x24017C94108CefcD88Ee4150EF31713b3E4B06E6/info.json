@@ -1,0 +1,25 @@
+{
+  "name" : "Mars Wasteland",
+  "website" : "https://www.projectmars.finance/wasteland",
+  "description" : "Time to explore Mars Wasteland, a risk protocol for NFTs with novel tokenomics. It shows what’s possible with interactions between the ERC-20 and ERC-721 protocols. For the very first time, your NFT can steal other NFTs (ERC-721 tokens) for you. The rarer your NFT is, the more tokens you'll accumulate probabilistically. Mars Wasteland game is pioneering new types of NFT mechanics. Fully decentralized. No empty promises. Just a game in the metaverse that’s ready to play at launch.",
+  "explorer" : "https://ftmscan.com/token/0x24017C94108CefcD88Ee4150EF31713b3E4B06E6",
+  "type" : "FRC721",
+  "symbol" : "MarsWasteland",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x24017C94108CefcD88Ee4150EF31713b3E4B06E6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@ProjectMarsFTM"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/XeTZEjtbZC"
+  }, {
+    "name" : "telegram",
+    "url" : "@projectmars_ftm"
+  }, {
+    "name" : "medium",
+    "url" : "https://projectmars.medium.com/"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "CryptoPunks V1 (wrapped)",
+  "website" : "https://www.v1punks.io/",
+  "description" : "CryptoPunks, released on June 9, 2017 by Larva Labs. \n\nThis is the original ERC-20 token now tradeable via a modern ERC-721 wrapper. \n\n[Wiki](https://v1punks.gitbook.io/) | [Twitter](https://twitter.com/v1punks)",
+  "explorer" : "https://etherscan.io/token/0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D",
+  "type" : "ERC721",
+  "symbol" : "WPV1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/v1punks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/R4n5vq7qwm"
+  } ]
+}

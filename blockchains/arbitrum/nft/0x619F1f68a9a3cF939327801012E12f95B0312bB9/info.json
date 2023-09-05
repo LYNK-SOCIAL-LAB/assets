@@ -1,0 +1,16 @@
+{
+  "name" : "Bro Kwon's Booty",
+  "website" : "http://www.shellprotocol.io",
+  "description" : "Bro Kwon's Booty is a mysterious set of Arbitrum NFTs that were discovered when Bro Kwon's yacht was destroyed and his ill-gotten gains were scattered across Shell World. The collection contains both Crates and Artifacts. Each Crate contains a surprise Artifact. Artifacts can help you earn Shell Points and may have other secret qualities. You can open Crates or activate Artifacts via the Shell Protocol app.",
+  "explorer" : "https://arbiscan.io/token/0x619F1f68a9a3cF939327801012E12f95B0312bB9",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x619F1f68a9a3cF939327801012E12f95B0312bB9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/shellprotocol"
+  } ]
+}

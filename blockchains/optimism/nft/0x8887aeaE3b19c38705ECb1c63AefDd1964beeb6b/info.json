@@ -1,0 +1,19 @@
+{
+  "name" : "Ganland",
+  "website" : "https://ganland.art/",
+  "description" : "( 222 ) Images Total ~ Secondary sales royalty profits go to the Ethereal Art Museum DAO ~ This is a generative art project using A.I. to help enhance the efficiency of thoughts between two key leadership roles responsible for shaping an NFT Visionary art community.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x8887aeaE3b19c38705ECb1c63AefDd1964beeb6b",
+  "type" : "OP721",
+  "symbol" : "GAN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8887aeaE3b19c38705ECb1c63AefDd1964beeb6b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GanlandNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/3nkqePT9F8"
+  } ]
+}

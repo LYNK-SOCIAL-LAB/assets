@@ -1,0 +1,25 @@
+{
+  "name" : "Freedom Dao NFT",
+  "website" : "https://www.freedomprot.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x0DD6975Af0a3cf41D4C12fA6dBD0d9e2A8aaFD12",
+  "type" : "BEP721",
+  "symbol" : "FREENFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0DD6975Af0a3cf41D4C12fA6dBD0d9e2A8aaFD12",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/freedomprot"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/jd8AXDrhVx"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FreedomProt_Group"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@freedomprot"
+  } ]
+}

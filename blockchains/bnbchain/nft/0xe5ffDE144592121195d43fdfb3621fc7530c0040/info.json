@@ -1,0 +1,25 @@
+{
+  "name" : "BINO Vesting Voucher",
+  "website" : "https://www.binopoly.co/",
+  "description" : "You may not entirely happy with your current life, you find difficulties everywhere in your daily life. But you are still ambitious to break the hassle with your enthusiasm. We are not able to choose where we came from. But have you ever dreamed a place where you were reborn and have a new chance to come over again. This is the Binopoly world. Here, you may have your own lands, companies, mine，stores，artworks, identity medals. In this enormous business environment, with your wisdoms and guts, your will dominate your life. By tactful investment and trading, you will have plenty of chance to embrace great return, so as to wealth freedom. In Binopoly world, you will start your Marching to your pinnacle of life with no regret left.\n",
+  "explorer" : "https://bscscan.com/token/0xe5ffDE144592121195d43fdfb3621fc7530c0040",
+  "type" : "BEP721",
+  "symbol" : "avBINO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xe5ffDE144592121195d43fdfb3621fc7530c0040",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/binopoly"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/1VqWuJ2LJe"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/tt6bFrEW2z"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@binopolyofficial"
+  } ]
+}

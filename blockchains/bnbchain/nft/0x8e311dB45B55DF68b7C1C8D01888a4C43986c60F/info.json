@@ -1,0 +1,22 @@
+{
+  "name" : "DegenApeClub",
+  "website" : "degenape.club",
+  "description" : "Degen Ape Club is a collection of 5,555 unique BAYC inspired NFT's built on the #binance smart chain ",
+  "explorer" : "https://bscscan.com/token/0x8e311dB45B55DF68b7C1C8D01888a4C43986c60F",
+  "type" : "BEP721",
+  "symbol" : "DegenApeClub",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8e311dB45B55DF68b7C1C8D01888a4C43986c60F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/DegenApeClub"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/degenapeclub"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/DegenApeClubBSC"
+  } ]
+}

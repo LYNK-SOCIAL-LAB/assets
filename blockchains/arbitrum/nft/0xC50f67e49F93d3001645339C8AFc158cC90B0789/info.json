@@ -1,0 +1,16 @@
+{
+  "name" : "AIPEPE VIP",
+  "website" : null,
+  "description" : "AIPEPE VIP members can receive $PEPEAI airdrop. Stay tuned for more information.",
+  "explorer" : "https://arbiscan.io/token/0xC50f67e49F93d3001645339C8AFc158cC90B0789",
+  "type" : "ARC721",
+  "symbol" : "AIPEPE VIP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC50f67e49F93d3001645339C8AFc158cC90B0789",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AiPePe444"
+  } ]
+}

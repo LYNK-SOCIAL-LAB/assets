@@ -1,0 +1,22 @@
+{
+  "name" : "HC MayinHara",
+  "website" : "https://heroeschained.com/",
+  "description" : "The MayinHara are uniquely crafted NFT artworks and fully playable\nin-game characters. These immortal heroes were created by the Mayin\nSandar light crystal to bring back the balance to Ventuna from the\nforces of evil. Playing as a MayinHara gives you celestial-like powers\nin the game. The MayinHara NFT Heroes are only available to purchase in\npre-game sales and are limited to 10,000. Their special features\ndistinguish them from other heroes",
+  "explorer" : "https://snowtrace.io/token/0xF7B6c94837d9fA6162EDA75F0909b21eE54534BB",
+  "type" : "AVA721",
+  "symbol" : "HCMH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF7B6c94837d9fA6162EDA75F0909b21eE54534BB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/HeroesChained"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/heroeschained"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/HeroesChainedOfficial"
+  } ]
+}

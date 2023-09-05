@@ -1,0 +1,22 @@
+{
+  "name" : "Islands of AVAX",
+  "website" : "https://islandsofavax.com/",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0xf21A42e203DB80593478f2e7ed8F97a8DB9b3391",
+  "type" : "AVA721",
+  "symbol" : "IoA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf21A42e203DB80593478f2e7ed8F97a8DB9b3391",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/IslandsOfAvax"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/u4VRNh5eSP"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/islandsofavax"
+  } ]
+}

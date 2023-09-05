@@ -1,0 +1,37 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"43114",
+            "name":"Approve",
+            "locale":"{\"zh_CN\":\"授权检测\"}",
+            "url":"https://tools.lynk.social/#/approval?locale=${locale}&chainId=${chainId}&address=${address}&type=${type}",
+            "logoURI":"https://assets.lynk.social/dapps/icon/approval.png",
+            "sorts":0
+        },
+        {
+            "chainId":"43114",
+            "name":"Contract security",
+            "locale":"{\"zh_CN\":\"合约检测\"}",
+            "url":"https://tools.lynk.social/#/contract/check?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
+            "logoURI":"https://assets.lynk.social/dapps/icon/contract.png",
+            "sorts":1
+        },
+        {
+            "chainId":"43114",
+            "name":"Batch transfer",
+            "locale":"{\"zh_CN\":\"批量转账\"}",
+            "url":"https://tools.lynk.social/#/asset/transfer?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
+            "logoURI":"https://assets.lynk.social/dapps/icon/transfer.png",
+            "sorts":2
+        },
+        {
+            "chainId":"43114",
+            "name":"Explorer",
+            "locale":"{\"zh_CN\":\"区块浏览器\"}",
+            "url":"https://avascan.info/",
+            "logoURI":"https://assets.lynk.social/dapps/icon/explorer.png",
+            "sorts":3
+        }
+    ]
+}

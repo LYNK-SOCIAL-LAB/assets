@@ -1,0 +1,19 @@
+{
+  "name" : "Aavegotchi",
+  "website" : "https://aavegotchi.com",
+  "description" : "The official Aavegotchi NFT collection on Polygon. ",
+  "explorer" : "https://polygonscan.com/token/0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+  "type" : "PRC1155",
+  "symbol" : "GOTCHI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/aavegotchi"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/gg"
+  } ]
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "Kiss-up State Land",
+  "website" : "radiocaca.com",
+  "description" : "Terrains of the Kiss-up States are very similar to that of Mars: tough and unforgiving. The pioneers must build on the planet to transform it into a habitable place.\n",
+  "explorer" : "https://bscscan.com/token/0x8460cc2f040828fF59F72d2bD6cc672faFFF1941",
+  "type" : "BEP721",
+  "symbol" : "KISS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8460cc2f040828fF59F72d2bD6cc672faFFF1941",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/RadioCacaNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/34qREVgv3h"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RadioCaca"
+  }, {
+    "name" : "medium",
+    "url" : "https://radiocaca.medium.com/"
+  } ]
+}

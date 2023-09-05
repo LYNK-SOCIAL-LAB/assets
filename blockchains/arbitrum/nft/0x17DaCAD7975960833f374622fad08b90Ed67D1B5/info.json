@@ -1,0 +1,16 @@
+{
+  "name" : "Smol Bodies",
+  "website" : "http://smolverse.lol",
+  "description" : "The Smol Bodies inhabit a gym near you, stacking $plates to earn muscle and be not smol. Smol Bodies are a part of Smolverse, a fun and playful world of progressively-evolving NFTs on Arbitrum. Community-driven and built on good vibes.\n\nhttps://trove.treasure.lol/collection/smol-bodies",
+  "explorer" : "https://arbiscan.io/token/0x17DaCAD7975960833f374622fad08b90Ed67D1B5",
+  "type" : "ARC721",
+  "symbol" : "SmolBodies",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x17DaCAD7975960833f374622fad08b90Ed67D1B5",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/smolbrains"
+  } ]
+}

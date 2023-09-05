@@ -1,0 +1,22 @@
+{
+  "name" : "BITSHADOWZ",
+  "website" : "https://southernempire.art/bitshadowz",
+  "description" : "The SHADOWZ have been captured by RETRO, the evil master of arcades! The SOUTHERN EMPIRE has issued the call to save the SHADOWZ from his neon domain! This is the first generative collection from SOUTHERN EMPIRE, an NFT art collective founded by CZEPTA and LIMITBREAK.",
+  "explorer" : "https://ftmscan.com/token/0xe92752C25111DB288665766aD8aDB624CCf91045",
+  "type" : "FRC721",
+  "symbol" : "BSZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xe92752C25111DB288665766aD8aDB624CCf91045",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@SEArtCollective"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/QFd4U7umuq"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@southernempire"
+  } ]
+}

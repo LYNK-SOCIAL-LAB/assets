@@ -1,0 +1,16 @@
+{
+  "name" : "AiPepe",
+  "website" : null,
+  "description" : "AiPepe is a membership NFT for pepes around the world",
+  "explorer" : "https://arbiscan.io/token/0x42B0238e14404E3E8f28FbfA4736531FE2dD0375",
+  "type" : "ARC721",
+  "symbol" : "PEPE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x42B0238e14404E3E8f28FbfA4736531FE2dD0375",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AiPepe_Arb"
+  } ]
+}

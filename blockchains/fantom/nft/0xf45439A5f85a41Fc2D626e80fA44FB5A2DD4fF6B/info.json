@@ -1,0 +1,13 @@
+{
+  "name" : "Barrel",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0xf45439A5f85a41Fc2D626e80fA44FB5A2DD4fF6B",
+  "type" : "FRC721",
+  "symbol" : "BARL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf45439A5f85a41Fc2D626e80fA44FB5A2DD4fF6B",
+  "tags" : null,
+  "links" : [ ]
+}

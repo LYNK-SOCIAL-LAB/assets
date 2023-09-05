@@ -1,0 +1,19 @@
+{
+  "name" : "MetaLine Hero&Pet NFT",
+  "website" : "https://metaline.games",
+  "description" : "MetaLine Hero&Pet NFT is asset from MetaLine, important asset for game play.",
+  "explorer" : "https://arbiscan.io/token/0x1B61124b5D80407d6a2E03bf2D9ADf76F4275176",
+  "type" : "ARC721",
+  "symbol" : "HERO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1B61124b5D80407d6a2E03bf2D9ADf76F4275176",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Metaline001"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/FeKEExH8XD"
+  } ]
+}

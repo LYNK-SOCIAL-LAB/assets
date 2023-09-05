@@ -1,0 +1,22 @@
+{
+  "name" : "AvaPepes",
+  "website" : "https://avapepes.com/home",
+  "description" : "We are a collection of 10.000 unique, randomly generated pepes hopping\nthrough the Avalanche blockchain.",
+  "explorer" : "https://snowtrace.io/token/0x65787a9ABC4563316B20ce6c46d0f46F4e357c36",
+  "type" : "AVA721",
+  "symbol" : "AVAPEPE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x65787a9ABC4563316B20ce6c46d0f46F4e357c36",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/avapepes"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/SHPZZ6dKbk"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/avapepe"
+  } ]
+}

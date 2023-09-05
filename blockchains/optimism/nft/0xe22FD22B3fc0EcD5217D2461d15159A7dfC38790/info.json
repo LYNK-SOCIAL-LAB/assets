@@ -1,0 +1,13 @@
+{
+  "name" : "Base Subscription",
+  "website" : null,
+  "description" : "The Base Subscription Collection is a series of free to mint NFTs available to those who subscribe to Base's Mirror. https://base.mirror.xyz/",
+  "explorer" : "https://optimistic.etherscan.io/token/0xe22FD22B3fc0EcD5217D2461d15159A7dfC38790",
+  "type" : "OP1155",
+  "symbol" : "BASE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xe22FD22B3fc0EcD5217D2461d15159A7dfC38790",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Potluck Pigs",
+  "website" : "https://potluckprotocol.com",
+  "description" : "Here, piggy, piggy....Gen 2 coming soon. Prepare for the bats and they are...MATING?!",
+  "explorer" : "https://ftmscan.com/token/0x5439232D0F01F53BdEAbE3a8f19588efdfBf9c64",
+  "type" : "FRC721",
+  "symbol" : "PLPG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5439232D0F01F53BdEAbE3a8f19588efdfBf9c64",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@potlucklabs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/potluckprotocol"
+  } ]
+}

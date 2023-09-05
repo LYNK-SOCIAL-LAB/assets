@@ -1,0 +1,19 @@
+{
+  "name" : "Gotchiverse REALM Parcels",
+  "website" : "https://gotchiverse.io",
+  "description" : "",
+  "explorer" : "https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
+  "type" : "PRC721",
+  "symbol" : "REALM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/aavegotchi"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/aavegotchi"
+  } ]
+}

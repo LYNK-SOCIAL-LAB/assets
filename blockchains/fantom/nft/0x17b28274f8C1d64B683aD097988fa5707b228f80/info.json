@@ -1,0 +1,19 @@
+{
+  "name" : "PepeTarot Cards",
+  "website" : "https://foracle.art/",
+  "description" : "fOracle is an RNG based divination protocol built on Fantom Opera. Using fOracle, diviners may seek their fortune by drawing a PepeTarot card and receive that card as an NFT. PepeTarot is a digital tarot card deck based on the original Rider-Waite Tarot deck art and symbolism. The first fOracle drop-PepeTarot Edition 0- launched on July 13th, 2021 with a total of 111 PepeTarot Cards minted.",
+  "explorer" : "https://ftmscan.com/token/0x17b28274f8C1d64B683aD097988fa5707b228f80",
+  "type" : "FRC721",
+  "symbol" : "PTC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x17b28274f8C1d64B683aD097988fa5707b228f80",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/fOracle_"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/U25QKCuFNt"
+  } ]
+}

@@ -1,0 +1,17 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"250",
+            "name":"1RPC",
+            "url":"https://1rpc.io/ftm",
+            "selected":1
+        },
+        {
+            "chainId":"250",
+            "name":"Ankr",
+            "url":"https://rpc.ankr.com/fantom",
+            "selected":0
+        }
+    ]
+}

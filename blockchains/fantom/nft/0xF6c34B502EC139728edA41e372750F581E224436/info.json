@@ -1,0 +1,19 @@
+{
+  "name" : "Lost Fantom Warriors",
+  "website" : "https://www.lostftmwarrior.com/",
+  "description" : "Collection of 64x64 px Fantom Warriors . Help us find all 200 Lost Fantom Warriors within Opera!",
+  "explorer" : "https://ftmscan.com/token/0xF6c34B502EC139728edA41e372750F581E224436",
+  "type" : "FRC721",
+  "symbol" : "LFW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF6c34B502EC139728edA41e372750F581E224436",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/LostFtmWarriors"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/"
+  } ]
+}

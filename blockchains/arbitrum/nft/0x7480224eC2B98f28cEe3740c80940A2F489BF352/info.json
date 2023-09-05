@@ -1,0 +1,16 @@
+{
+  "name" : "EllerianHeroes",
+  "website" : "https://app.talesofelleria.com",
+  "description" : "REFRESH METADATA BEFORE BUYING TO GET UPDATED STATS!\n\nTales of Elleria is an immersive three-dimensional role-playing GameFi project built on Arbitrum One. Summon heroes, take on assignments, go on quests and epic adventures to battle dangerous monsters and earn tremendous rewards.",
+  "explorer" : "https://arbiscan.io/token/0x7480224eC2B98f28cEe3740c80940A2F489BF352",
+  "type" : "ARC721",
+  "symbol" : "EllerianHeroes",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7480224eC2B98f28cEe3740c80940A2F489BF352",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/VcaN256mps"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "TubbyReindeer",
+  "website" : "https://tubbyreindeer.com/",
+  "description" : "5,000 unique Tubby Reindeer ride the Avalanche to bring you gifts. Made by Avalanche fans, for Avalanche fans on Avalanche Network. ",
+  "explorer" : "https://snowtrace.io/token/0xA5A0958Aac97C89406ae14666A42EEF91D8801d4",
+  "type" : "AVA721",
+  "symbol" : "TR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA5A0958Aac97C89406ae14666A42EEF91D8801d4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/Tubby_Reindeer"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/vyfPpRVqmm"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/Tubby_Reindeer"
+  } ]
+}

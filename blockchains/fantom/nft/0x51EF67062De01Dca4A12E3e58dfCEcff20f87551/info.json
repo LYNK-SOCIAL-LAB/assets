@@ -1,0 +1,22 @@
+{
+  "name" : "JEFE ZOMBIE NFT",
+  "website" : "https://jefetoken.com",
+  "description" : "JEFE ZOMBIES IS A NFT COLLECTION USED IN GAMES WITH WEB3 OVER THE FANTOM NETWORK, WORKING IN A FUTURE OF GAMES IN A METAVERSE WITH VIRTUAL REALITY, AUGMENTED REALITY AND THE UNLOCK OF ITEMS USING NFTS. BUY US IF YOU LIKE US. ",
+  "explorer" : "https://ftmscan.com/token/0x51EF67062De01Dca4A12E3e58dfCEcff20f87551",
+  "type" : "FRC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x51EF67062De01Dca4A12E3e58dfCEcff20f87551",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@JEFETOKEN"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/22eAdTxenM"
+  }, {
+    "name" : "telegram",
+    "url" : "@jefetokencryptochat"
+  } ]
+}

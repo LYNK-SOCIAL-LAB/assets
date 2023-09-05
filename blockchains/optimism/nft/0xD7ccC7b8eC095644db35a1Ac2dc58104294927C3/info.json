@@ -1,0 +1,16 @@
+{
+  "name" : "Bonga Bera 101",
+  "website" : "https://mirror.xyz/10/0xd7ccc7b8ec095644db35a1ac2dc58104294927c3",
+  "description" : "The Collective History of The Bong Bears NFT and Berachain\n\nFor all the Beras that came before, Present, and in da Future: Here is our Collective History, Bonga Bera 101",
+  "explorer" : "https://optimistic.etherscan.io/token/0xD7ccC7b8eC095644db35a1Ac2dc58104294927C3",
+  "type" : "OP721",
+  "symbol" : "BONGABERA101",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD7ccC7b8eC095644db35a1Ac2dc58104294927C3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0xhoneyjar"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Skullys... Join the cult.",
+  "website" : "https://skullys.club",
+  "description" : "Join the cult",
+  "explorer" : "https://ftmscan.com/token/0x25ff0d27395A7AAD578569f83E30C82a07b4ee7d",
+  "type" : "FRC721",
+  "symbol" : "SKULLY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x25ff0d27395A7AAD578569f83E30C82a07b4ee7d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/SkullysNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cultnfts"
+  } ]
+}

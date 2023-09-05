@@ -1,0 +1,16 @@
+{
+  "name" : "goblintown",
+  "website" : "https://twitter.com/goblin_town_",
+  "description" : "FREE MINT GoBlIn tOWn gOBlin GoBlin TowN gOBLin TOWn TOWn gObliN TowN goBlIN GOBliN TOWn GobLiN ToWN GoBLIN GobliN ToWn gobLin toWN toWN GObliN TowN gOBLin GoBLiN TOwn GOBlIn TOWN gOblIN gobLIN TOWn GOBliN tOwn towN gobLIn tOwN GOBLiN GobLIN TOwn GoBLIN tOwN gOblIn gOblIN towN gOBlin TOwn toWN GObliN Town goBLIn GoBlIn tOWN GoBlIn ToWn goBlIn gobliN town gOBliN Town TOwN gobLin TOwN GoBlin gOblIn town",
+  "explorer" : "https://etherscan.io/token/0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+  "type" : "ERC721",
+  "symbol" : "GOBLIN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/goblin_town_"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "MetaWarden",
+  "website" : "https://www.wardenswap.com/",
+  "description" : "First best-rate AI swap with lowest gas fees on multi-chains.\nSwap and 'earn more' with the first DEX AI power ? Privilege to $WAD holders ⭐️ ",
+  "explorer" : "https://bscscan.com/token/0xA5FDb0822bf82De3315f1766574547115E99016f",
+  "type" : "BEP721",
+  "symbol" : "MWAD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA5FDb0822bf82De3315f1766574547115E99016f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/WardenSwap"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/UzJTisS7Ve"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/wardenfi"
+  } ]
+}

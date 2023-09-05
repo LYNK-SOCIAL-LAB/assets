@@ -1,0 +1,22 @@
+{
+  "name" : "MoonMastersNFT",
+  "website" : "https://www.moonmasters.io/",
+  "description" : "Moon Masters NFT gives you access to the 'TSD' Discord, where many events are held such as the 'TSD Auctions', Art Streams, Giveaway Game Nights, Moon Master Battles, as well as info channels on dozens of crypto and Nft projects.<br><br>Moon Masters NFT emits BAY Tokens, a yield barring token, and the main currency in the Moon Masters ecosystem. Moon Masters NFT can claim BAY Tokens every 24 hours on the Moon Bay Web App.",
+  "explorer" : "https://ftmscan.com/token/0xFCC623D35fdBC20F41583176b8cd9C20E988eEA6",
+  "type" : "FRC721",
+  "symbol" : "MOONMASTERS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xFCC623D35fdBC20F41583176b8cd9C20E988eEA6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@moon_masters"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/trippystevedao"
+  }, {
+    "name" : "medium",
+    "url" : "https://moon-bay.gitbook.io/moon-bay/"
+  } ]
+}

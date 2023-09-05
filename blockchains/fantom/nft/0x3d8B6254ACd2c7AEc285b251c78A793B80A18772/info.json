@@ -1,0 +1,13 @@
+{
+  "name" : "CONKPunks",
+  "website" : "",
+  "description" : "ConkPunks for the biggest $CONKs. You need $CONK and $CONK needs you. $CONK is life.",
+  "explorer" : "https://ftmscan.com/token/0x3d8B6254ACd2c7AEc285b251c78A793B80A18772",
+  "type" : "FRC721",
+  "symbol" : "CPUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3d8B6254ACd2c7AEc285b251c78A793B80A18772",
+  "tags" : null,
+  "links" : [ ]
+}

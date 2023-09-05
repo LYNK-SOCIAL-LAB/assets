@@ -1,0 +1,16 @@
+{
+  "name" : "Day of right club token",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xaCc4616c64b7e2259AA1bfB370b8Ae704E6BF653",
+  "type" : "BEP721",
+  "symbol" : "DORCT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xaCc4616c64b7e2259AA1bfB370b8Ae704E6BF653",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DayofrightsDAO"
+  } ]
+}

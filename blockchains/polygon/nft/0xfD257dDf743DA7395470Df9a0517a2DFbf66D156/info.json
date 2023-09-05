@@ -1,0 +1,25 @@
+{
+  "name" : "DEFYGenesisMask",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0xfD257dDf743DA7395470Df9a0517a2DFbf66D156",
+  "type" : "PRC721",
+  "symbol" : "DGM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfD257dDf743DA7395470Df9a0517a2DFbf66D156",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/defydisrupt"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/defydisrupt"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/defydisrupt"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@DEFY-Labs"
+  } ]
+}

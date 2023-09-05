@@ -1,0 +1,19 @@
+{
+  "name" : "AirNFTs",
+  "website" : "https://app.airnfts.com/",
+  "description" : "NFT marketplace that connects artists and collectors. ? Mint under 1$. Buy and Sell NFTs. Earn $AIRT and $BNB Money bag in the app now.",
+  "explorer" : "https://bscscan.com/token/0xF5db804101d8600c26598A1Ba465166c33CdAA4b",
+  "type" : "BEP721",
+  "symbol" : "AIRT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF5db804101d8600c26598A1Ba465166c33CdAA4b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/airnfts"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/QcKNSQsu6X"
+  } ]
+}

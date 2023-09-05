@@ -1,0 +1,19 @@
+{
+  "name" : "Foxes Of The Opera",
+  "website" : "https://foxopera.house/",
+  "description" : "Foxes of the Opera are the first high-quality 3D-art NFT series launched on the Fantom Opera blockchain. Join 10,000 art-loving foxes at the fox house today and be a part of an endless growing community. Your Foxes will grant you access to the Fox Opera House membership card and give you reign over numerous members-only perks. Check out the www.foxopera.house for more details and follow us at @FoxesOfTheOpera to hear the latest updates.",
+  "explorer" : "https://ftmscan.com/token/0x93C7B19df2DeA70C7FA3f355F079d6ed077998A7",
+  "type" : "FRC721",
+  "symbol" : "FOTO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x93C7B19df2DeA70C7FA3f355F079d6ed077998A7",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@FoxesOfTheOpera"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/FOTO"
+  } ]
+}

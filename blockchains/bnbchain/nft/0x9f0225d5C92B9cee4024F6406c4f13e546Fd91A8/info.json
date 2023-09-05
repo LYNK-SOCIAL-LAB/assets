@@ -1,0 +1,25 @@
+{
+  "name" : "Non-Fungible Baby",
+  "website" : "http://home.babyswap.finance/",
+  "description" : "A supportive Baby #MetaFi including #AMM, #NFT, and #GameFi for newborn projects on #BSC. \n",
+  "explorer" : "https://bscscan.com/token/0x9f0225d5C92B9cee4024F6406c4f13e546Fd91A8",
+  "type" : "BEP721",
+  "symbol" : "NFB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9f0225d5C92B9cee4024F6406c4f13e546Fd91A8",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/babyswap_bsc"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/babyswap"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/baby_swap"
+  }, {
+    "name" : "medium",
+    "url" : "https://babyswap.medium.com/"
+  } ]
+}

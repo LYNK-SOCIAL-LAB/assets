@@ -1,0 +1,19 @@
+{
+  "name" : "Terraforms",
+  "website" : "http://mathcastles.xyz",
+  "description" : "Onchain land art from a dynamically generated onchain 3D world.",
+  "explorer" : "https://etherscan.io/token/0x4E1f41613c9084FdB9E34E11fAE9412427480e56",
+  "type" : "ERC721",
+  "symbol" : "TERRAFORMS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4E1f41613c9084FdB9E34E11fAE9412427480e56",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/mathcastles"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mathcastles"
+  } ]
+}

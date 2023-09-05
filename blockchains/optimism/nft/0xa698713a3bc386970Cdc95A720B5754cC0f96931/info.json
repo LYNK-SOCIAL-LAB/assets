@@ -1,0 +1,16 @@
+{
+  "name" : "Words",
+  "website" : "https://mirror.xyz/",
+  "description" : "Words is a simple ERC721 that allows you to mint strings of text that get stored on-chain!",
+  "explorer" : "https://optimistic.etherscan.io/token/0xa698713a3bc386970Cdc95A720B5754cC0f96931",
+  "type" : "OP721",
+  "symbol" : "WORDS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa698713a3bc386970Cdc95A720B5754cC0f96931",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/viamirror"
+  } ]
+}

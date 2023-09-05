@@ -1,0 +1,19 @@
+{
+  "name" : "PixelSweeper",
+  "website" : "https://pixelsweeper.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x5F41842CFF838120271d772C6994F051d418a4aD",
+  "type" : "BEP721",
+  "symbol" : "SWPR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5F41842CFF838120271d772C6994F051d418a4aD",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PixelSweeper"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/pixelsweeper"
+  } ]
+}

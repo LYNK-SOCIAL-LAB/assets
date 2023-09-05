@@ -1,0 +1,13 @@
+{
+  "name" : "Dopex Bridgoor NFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://arbiscan.io/token/0x4Ee9fe9500E7C4Fe849AdD9b14beEc5eC5b7d955",
+  "type" : "ARC721",
+  "symbol" : "DPX_BRIDGOOR_NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4Ee9fe9500E7C4Fe849AdD9b14beEc5eC5b7d955",
+  "tags" : null,
+  "links" : [ ]
+}

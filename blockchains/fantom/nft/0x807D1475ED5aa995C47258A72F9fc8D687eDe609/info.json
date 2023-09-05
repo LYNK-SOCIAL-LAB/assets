@@ -1,0 +1,16 @@
+{
+  "name" : "honeypot DAO",
+  "website" : "https://honeypot-dao.gitbook.io/honeypot-dao/",
+  "description" : "蜜罐DAO 是一個投資 DeFi 項目的 NFT 社群，致力於讓沒有經驗的投資小白與幣圈內的交易者都能一同參與，賺取穩定的被動收益。<br>NFT持有者還可以獲得專屬福利，包括但不限於：不定期舉辦的幣圈投資教學、粉絲回饋活動，還有最重要的提案權與投票權。<br>讓所有蜜罐DAO的NFT持有者決定蜜罐未來的走向。",
+  "explorer" : "https://ftmscan.com/token/0x807D1475ED5aa995C47258A72F9fc8D687eDe609",
+  "type" : "FRC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x807D1475ED5aa995C47258A72F9fc8D687eDe609",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@BOBBOB15047599"
+  } ]
+}

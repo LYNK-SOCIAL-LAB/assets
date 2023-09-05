@@ -1,0 +1,22 @@
+{
+  "name" : "CALO ShoeBox",
+  "website" : "https://calo.run/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xc41D78eab56342d4e00bc48b8301119d2d0E6942",
+  "type" : "BEP721",
+  "symbol" : "CLSB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc41D78eab56342d4e00bc48b8301119d2d0E6942",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AppCalo"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/caloapp"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/caloappvn/"
+  } ]
+}

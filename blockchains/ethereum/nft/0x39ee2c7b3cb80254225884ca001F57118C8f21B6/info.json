@@ -1,0 +1,22 @@
+{
+  "name" : "Potatoz",
+  "website" : "https://www.memeland.com/potatoz",
+  "description" : "9,999 SMALL SPECIES LEADING THE WAY TO MEMELAND.\n\nA long time ago, in a memetaverse far, far away… Memeland was a deserted land unsuitable for life. Until [redacted] years ago, early lifeforms started to appear. Memeland's first residents, it turns out, were a bunch of Potatoz. Who left the Potatoz there?\n\nThe Potatoz is a collection of 9,999 utility-enabled PFPs. Each Potatoz is your entry ticket into the great [Memeland](https://www.memeland.com/) ecosystem. They make for a great side dish, but some may feel a calling to become the main course. Rumour has it they are secretly related to the Memelist, $MEME, [MVP](https://opensea.io/collection/youtherealmvp), and more!",
+  "explorer" : "https://etherscan.io/token/0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
+  "type" : "ERC721",
+  "symbol" : "Potatoz",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x39ee2c7b3cb80254225884ca001F57118C8f21B6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/memeland"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/memeland"
+  }, {
+    "name" : "instagram",
+    "url" : "memeland"
+  } ]
+}

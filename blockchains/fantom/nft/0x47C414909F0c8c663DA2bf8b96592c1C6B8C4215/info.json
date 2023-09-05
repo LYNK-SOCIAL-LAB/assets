@@ -1,0 +1,19 @@
+{
+  "name" : "Netizens",
+  "website" : "https://www.8bitnostalgia.io/",
+  "description" : "Netizens are in game characters that are playable in 8Bit Nostalgia Metaverse, Netizens can socialize, breed, play, and earn multiple tokens! Own your Netizen and enter our Metaverse today!",
+  "explorer" : "https://ftmscan.com/token/0x47C414909F0c8c663DA2bf8b96592c1C6B8C4215",
+  "type" : "FRC721",
+  "symbol" : "NTZN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x47C414909F0c8c663DA2bf8b96592c1C6B8C4215",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@8bit_metaverse"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/8bitmetaverse"
+  } ]
+}

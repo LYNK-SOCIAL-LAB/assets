@@ -1,0 +1,19 @@
+{
+  "name" : "CryptoKitties",
+  "website" : "https://www.cryptokitties.co/",
+  "description" : "CryptoKitties is a game centered around breedable, collectible, and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.",
+  "explorer" : "https://etherscan.io/token/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+  "type" : "ERC721",
+  "symbol" : "CKITTY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CryptoKitties"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cryptokitties"
+  } ]
+}

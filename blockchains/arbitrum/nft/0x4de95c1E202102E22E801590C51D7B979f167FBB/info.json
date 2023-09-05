@@ -1,0 +1,22 @@
+{
+  "name" : "Realm",
+  "website" : "https://www.rlm.land",
+  "description" : "Realm is a World-Building and Exploration game rooted in GameFi.\nhttps://app.rlm.land\n\n---\n\nBecome an Adventurer of the Void and roam the Realmverse. Start off as one of the six Archetypes and Transcend into NEW Variants every month. https://opensea.io/collection/aovs\n\n---\n\nSee the value of a Realm by using this link and replacing REALM_ID with the Realm you are looking at: https://app.rlm.land/realms/REALM_ID",
+  "explorer" : "https://arbiscan.io/token/0x4de95c1E202102E22E801590C51D7B979f167FBB",
+  "type" : "ARC721",
+  "symbol" : "REALM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4de95c1E202102E22E801590C51D7B979f167FBB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/rlmverse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/realmverse"
+  }, {
+    "name" : "medium",
+    "url" : "https://realmdao.medium.com/"
+  } ]
+}

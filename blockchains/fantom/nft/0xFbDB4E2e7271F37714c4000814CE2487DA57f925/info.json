@@ -1,0 +1,22 @@
+{
+  "name" : "PaintSwap Colorful Coal",
+  "website" : "https://paintswap.finance/",
+  "description" : "Special colorful coal airdropped to all Beardies holders as a Xmas present (2021). The ID matches the Beardie ID. Coal colors are randomly generated from the holder address, token ID and previous block hashes, each one is unique. Announced in Feb 2022 these are eligible for a share of marketplace sales fees in FTM if the holder has the matching Beardie ID. The image is stored fully on-chain.",
+  "explorer" : "https://ftmscan.com/token/0xFbDB4E2e7271F37714c4000814CE2487DA57f925",
+  "type" : "FRC721",
+  "symbol" : "COAL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xFbDB4E2e7271F37714c4000814CE2487DA57f925",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@paint_swap"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/3fVYdk9ugv"
+  }, {
+    "name" : "medium",
+    "url" : "https://paint-swap-finance.medium.com/6161a72ae3da"
+  } ]
+}

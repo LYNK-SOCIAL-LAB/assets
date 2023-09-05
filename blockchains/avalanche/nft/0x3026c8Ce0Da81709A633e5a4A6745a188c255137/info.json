@@ -1,0 +1,22 @@
+{
+  "name" : "Redlight Node District",
+  "website" : "https://redlight.finance/",
+  "description" : "Redlight Finance a collection of all our projects coming under the\nRedlight District brand. For more information please visit our website\nhttps://Redlight.Finance!",
+  "explorer" : "https://snowtrace.io/token/0x3026c8Ce0Da81709A633e5a4A6745a188c255137",
+  "type" : "AVA721",
+  "symbol" : "RND",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3026c8Ce0Da81709A633e5a4A6745a188c255137",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RLNodeDistrict"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/RedlightNodeDistrict"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RLNodeDistrict"
+  } ]
+}

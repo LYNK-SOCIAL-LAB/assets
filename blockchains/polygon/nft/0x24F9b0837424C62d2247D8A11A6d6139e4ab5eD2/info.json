@@ -1,0 +1,25 @@
+{
+  "name" : "ApeironPlanet",
+  "website" : "https://apeironnft.com/",
+  "description" : "The Apeiron Planets allow you to play \"GOD\" in the Apeiron Godiverse, this is where our gameplay takes place, from ruling over your world as a benevolent (or cruel) god to diving into dungeons. Each Planet is composed of some combination of up to four elements: Air, Water, Earth, and Fire. Users may engage in the divine ritual of Celestial Conjunction to combine the spiritual essence of their Planets and attempt to breed \"Primal\" Planets. Each Planet has a corresponding unique Avatar, which players control directly in combat.\r\n\r\nApeiron is the world's first ever play-and-earn god-game. With an innovative tri-token system and fully tradeable NFTs, Apeiron combines classic god-gameplay with a modern blockchain-based economy. Step into your role as a divine Godling and build up planets, explore celestial waygates, answer the prayers of cute'n'chubby Doods, and battle the Taint of Chaos! Join our Discord, where we always have exciting community events ongoing! https://discord.gg/NVPQPxGP36",
+  "explorer" : "https://polygonscan.com/token/0x24F9b0837424C62d2247D8A11A6d6139e4ab5eD2",
+  "type" : "PRC721",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x24F9b0837424C62d2247D8A11A6d6139e4ab5eD2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ApeironNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/apeironnft"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/apeiron_official"
+  }, {
+    "name" : "medium",
+    "url" : "https://apeironnft.medium.com/"
+  } ]
+}

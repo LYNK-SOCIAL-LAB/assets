@@ -1,0 +1,22 @@
+{
+  "name" : "Dreadfulz",
+  "website" : "https://stake.dreadfulz.com",
+  "description" : "73.82% Staked\r\n\r\nHolder count on Opensea is incorrect due to staking contract\r\n\r\nStake & Earn $DREAD: https://stake.dreadfulz.com\r\n\r\n7,777 Dreadfulz have inked their name in fealty to the Grand Inquisitor. Bound by avarice, lustful for $DREAD.",
+  "explorer" : "https://etherscan.io/token/0x81Ae0bE3A8044772D04F32398bac1E1B4B215aa8",
+  "type" : "ERC721",
+  "symbol" : "Dreadfulz",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x81Ae0bE3A8044772D04F32398bac1E1B4B215aa8",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DreadfulzNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/dreadfulz"
+  }, {
+    "name" : "medium",
+    "url" : "dreadfulznft"
+  } ]
+}

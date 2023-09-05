@@ -1,0 +1,22 @@
+{
+  "name" : "Radio Caca",
+  "website" : "https://www.radiocaca.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xbE96EE936C45b4CC8C65B803c851D1d4ed15a27B",
+  "type" : "BEP721",
+  "symbol" : "MNM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbE96EE936C45b4CC8C65B803c851D1d4ed15a27B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RadioCacaNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/34qREVgv3h"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RadioCacagroup2"
+  } ]
+}

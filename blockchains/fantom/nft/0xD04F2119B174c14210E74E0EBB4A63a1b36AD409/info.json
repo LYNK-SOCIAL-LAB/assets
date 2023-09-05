@@ -1,0 +1,19 @@
+{
+  "name" : "Wolf Game",
+  "website" : "https://ftmwolfgame.com/",
+  "description" : "Fantom Wolf Game is a funny on chain game where people can play to earn. ",
+  "explorer" : "https://ftmscan.com/token/0xD04F2119B174c14210E74E0EBB4A63a1b36AD409",
+  "type" : "FRC721",
+  "symbol" : "WGAME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD04F2119B174c14210E74E0EBB4A63a1b36AD409",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@FantomWolfGame"
+  }, {
+    "name" : "telegram",
+    "url" : "@FantomWolfGame"
+  } ]
+}

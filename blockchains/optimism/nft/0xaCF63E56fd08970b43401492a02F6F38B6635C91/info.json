@@ -1,0 +1,16 @@
+{
+  "name" : "Yakuza Pandas",
+  "website" : "https://kanpaipandas.io/",
+  "description" : "Kanpai Pandas is an omnichain NFT collection that merges exclusive luxurious collaborations and major brand partnerships with on-chain game theory to provide tangible real-world utility to holders. This collection shows Pandas that are currently roaming Optimism Mainnet.\r\n\r\nKanpai Collections: [Infinity Collection](https://opensea.io/collection/kanpai-pandas-infinity-collection) | [Kanpai Pandas Polygon](https://opensea.io/collection/kanpai-pandas-polygon) | [Kanpai Pandas Arbitrum](https://opensea.io/collection/kanpai-pandas-arbi) | [Kanpai Pandas](https://opensea.io/collection/kanpai-pandas) | [Kanpai Pandas Avalanche](https://opensea.io/collection/kanpai-pandas-avax)",
+  "explorer" : "https://optimistic.etherscan.io/token/0xaCF63E56fd08970b43401492a02F6F38B6635C91",
+  "type" : "OP721",
+  "symbol" : "YKPS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xaCF63E56fd08970b43401492a02F6F38B6635C91",
+  "tags" : null,
+  "links" : [ {
+    "name" : "medium",
+    "url" : "https://medium.com/@KanpaiPandas"
+  } ]
+}

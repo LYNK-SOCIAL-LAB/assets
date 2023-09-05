@@ -1,0 +1,13 @@
+{
+  "name" : "Connectivity",
+  "website" : null,
+  "description" : "\"CircularArt Collection #2. 450 unique generative art pieces on Optimism 50% of funds donated to support Ukraine\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0xD5f027a493848C925fD6984459F72142B42EbBBD",
+  "type" : "OP721",
+  "symbol" : "CONN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD5f027a493848C925fD6984459F72142B42EbBBD",
+  "tags" : null,
+  "links" : [ ]
+}

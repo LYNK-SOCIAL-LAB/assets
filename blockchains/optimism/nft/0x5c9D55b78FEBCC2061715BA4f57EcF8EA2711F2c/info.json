@@ -1,0 +1,16 @@
+{
+  "name" : "motorheadz",
+  "website" : "https://motorheadz.xyz/",
+  "description" : "</p>✨ nostalgic illustrations by JVMI ❤️‍🔥_❤️‍🔥 to be on the allow-list fill out: https://forms.gle/92gAYDuJTq5w5xmT6</p>",
+  "explorer" : "https://optimistic.etherscan.io/token/0x5c9D55b78FEBCC2061715BA4f57EcF8EA2711F2c",
+  "type" : "OP721",
+  "symbol" : "FLAMEBOY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5c9D55b78FEBCC2061715BA4f57EcF8EA2711F2c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/jvmi_"
+  } ]
+}

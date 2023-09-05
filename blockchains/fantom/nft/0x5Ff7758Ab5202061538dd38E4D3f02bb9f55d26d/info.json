@@ -1,0 +1,22 @@
+{
+  "name" : "ChillPillFTM",
+  "website" : "https://chillpill.fyi",
+  "description" : "Welcome to the $CHILL pill family!<br><br>If you collect 7 pills of different colors, you can redeem a rainbow pill which gives you a ticket to enter raffles.<br>Contact us on telegram/twitter/discord if you want to redeem your rainbow pill(s)",
+  "explorer" : "https://ftmscan.com/token/0x5Ff7758Ab5202061538dd38E4D3f02bb9f55d26d",
+  "type" : "FRC721",
+  "symbol" : "CHILLPILLFTM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5Ff7758Ab5202061538dd38E4D3f02bb9f55d26d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@chillpillfi"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/QYWHyBcgw2"
+  }, {
+    "name" : "telegram",
+    "url" : "@Chill_Pill_Fi_Group"
+  } ]
+}

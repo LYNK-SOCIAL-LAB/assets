@@ -1,0 +1,19 @@
+{
+  "name" : "BitKittens",
+  "website" : "https://pumpkitten.com",
+  "description" : "BitKittens are the second collection from Pumpkittens GameFi. The first NFT project that introduced revenue sharing for it's collectors. Pumpkittens GameFi is the first on Fantom that brought NFT farming and staking.",
+  "explorer" : "https://ftmscan.com/token/0x4a0FBe0Af74Cf38bcd5C68f1D6bf2Cc0899cc0FF",
+  "type" : "FRC721",
+  "symbol" : "BK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4a0FBe0Af74Cf38bcd5C68f1D6bf2Cc0899cc0FF",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Pumpkittens"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Gj7JqN2mXZ"
+  } ]
+}

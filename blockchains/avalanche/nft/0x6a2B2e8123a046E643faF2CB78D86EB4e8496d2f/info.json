@@ -1,0 +1,19 @@
+{
+  "name" : "AVAXWARRIORS",
+  "website" : "https://avaxwarriors.io/home",
+  "description" : "In 2077 Alfa created 8,888 cloned versions of her consciousness. They\nwere each placed into a robotic suit that the conscious could control.\nIn essence, each Warrior is Alfa. They work to her regime, order and\ndemands. Their mission is to defend Alfa at all costs and to further the\nknowledge and evolution of the human species. Alfa has stated that only\n8,888 AVAXWARRIORS will be created. They will all be unique 1 of 1's.",
+  "explorer" : "https://snowtrace.io/token/0x6a2B2e8123a046E643faF2CB78D86EB4e8496d2f",
+  "type" : "AVA721",
+  "symbol" : "AVAXWARRIORS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6a2B2e8123a046E643faF2CB78D86EB4e8496d2f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AVAXWARRIORS"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/avaxwarriors"
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "EggPlus",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x9f278be3867CA5e6DDb99ED85C3F035CbA1A02D5",
+  "type" : "BEP721",
+  "symbol" : "EGGPLUS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9f278be3867CA5e6DDb99ED85C3F035CbA1A02D5",
+  "tags" : null,
+  "links" : [ ]
+}

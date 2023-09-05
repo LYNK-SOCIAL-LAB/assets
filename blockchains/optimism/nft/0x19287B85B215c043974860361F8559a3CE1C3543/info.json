@@ -1,0 +1,13 @@
+{
+  "name" : "OAYC Mutagen II",
+  "website" : "https://oayc.io",
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0x19287B85B215c043974860361F8559a3CE1C3543",
+  "type" : "OP721",
+  "symbol" : "MII",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x19287B85B215c043974860361F8559a3CE1C3543",
+  "tags" : null,
+  "links" : [ ]
+}

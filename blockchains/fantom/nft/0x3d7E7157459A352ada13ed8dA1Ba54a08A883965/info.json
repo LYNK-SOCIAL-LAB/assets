@@ -1,0 +1,19 @@
+{
+  "name" : "Astro Kid",
+  "website" : "https://astrokidtoa.com",
+  "description" : "Teens On Acid and Potluck Labs present: Astro Kid",
+  "explorer" : "https://ftmscan.com/token/0x3d7E7157459A352ada13ed8dA1Ba54a08A883965",
+  "type" : "FRC721",
+  "symbol" : "ASTRO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3d7E7157459A352ada13ed8dA1Ba54a08A883965",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@potlucklabs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/potluckprotocol"
+  } ]
+}

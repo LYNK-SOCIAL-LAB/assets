@@ -1,0 +1,19 @@
+{
+  "name" : "Crypto Raiders Characters",
+  "website" : "https://www.cryptoraiders.xyz",
+  "description" : "CryptoRaiders is a utility-based NFT RPG game where you raid weekly\ndungeons for gear & loot, but be careful… death is permanent ☠️\nThis is the **official CryptoRaiders Polygon** character collection.",
+  "explorer" : "https://polygonscan.com/token/0xfD12ec7ea4B381a79C78FE8b2248b4c559011ffb",
+  "type" : "PRC721",
+  "symbol" : "RAIDER",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfD12ec7ea4B381a79C78FE8b2248b4c559011ffb",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/crypto_raiders"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ZhWgFNQFPF"
+  } ]
+}

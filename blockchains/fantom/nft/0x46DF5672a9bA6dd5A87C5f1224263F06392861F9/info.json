@@ -1,0 +1,13 @@
+{
+  "name" : "TheCursedCircus",
+  "website" : "https://cursedcircus.com",
+  "description" : "Welcome to the Cursed Circus, a collection of 2000 clowns down on their luck and trapped in a silly purgatory, not quite Hell and definitely not Heaven.<br><br>Created by the Byte Masons, art by Noob, June 2022",
+  "explorer" : "https://ftmscan.com/token/0x46DF5672a9bA6dd5A87C5f1224263F06392861F9",
+  "type" : "FRC721",
+  "symbol" : "TCC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x46DF5672a9bA6dd5A87C5f1224263F06392861F9",
+  "tags" : null,
+  "links" : [ ]
+}

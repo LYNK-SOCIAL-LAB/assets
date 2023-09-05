@@ -1,0 +1,13 @@
+{
+  "name" : "Ascenders Land",
+  "website" : null,
+  "description" : "Ascenders: Simulation is the first foray into the Ascenders universe by allowing players to build and collect resources to kickstart the economy.  This Ascenders Land collection is part in bringing additional utility to players from day 1. For more information check https://ascenders.gg.",
+  "explorer" : "https://arbiscan.io/token/0x2E00C2A4e400A9ABaf61d9141ECfa31E2A482608",
+  "type" : "ARC721",
+  "symbol" : "ASL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2E00C2A4e400A9ABaf61d9141ECfa31E2A482608",
+  "tags" : null,
+  "links" : [ ]
+}

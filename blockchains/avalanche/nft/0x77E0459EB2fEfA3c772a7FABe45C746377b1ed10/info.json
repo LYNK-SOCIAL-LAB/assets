@@ -1,0 +1,13 @@
+{
+  "name" : "Smol Lands",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x77E0459EB2fEfA3c772a7FABe45C746377b1ed10",
+  "type" : "AVA721",
+  "symbol" : "LAND",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x77E0459EB2fEfA3c772a7FABe45C746377b1ed10",
+  "tags" : null,
+  "links" : [ ]
+}

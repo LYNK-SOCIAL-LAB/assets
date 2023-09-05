@@ -1,0 +1,16 @@
+{
+  "name" : "OptiChads",
+  "website" : "https://optichads.art/",
+  "description" : "</p>Banished from Layer 1 these Chads have crossed the bridge to live a more Optimistic lifestyle. They workout, flex, and buy protein with their gas savings! Health & Wellness in Web3! 🥗🏋️‍♂️ 50% of everything donated to Public Goods Funding!☀️</p>",
+  "explorer" : "https://optimistic.etherscan.io/token/0x9B9F542456ad12796cCB8EB6644f29E3314e68e1",
+  "type" : "OP721",
+  "symbol" : "CHAD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9B9F542456ad12796cCB8EB6644f29E3314e68e1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/OptiChads"
+  } ]
+}

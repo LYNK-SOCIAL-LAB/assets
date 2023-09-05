@@ -1,0 +1,16 @@
+{
+  "name" : "ProudKittyGang",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x1D4994885808E72d3Dc83F5794eae1d9db34892e",
+  "type" : "BEP721",
+  "symbol" : "PKG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1D4994885808E72d3Dc83F5794eae1d9db34892e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PKGNFT"
+  } ]
+}

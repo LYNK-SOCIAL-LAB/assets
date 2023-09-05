@@ -1,0 +1,19 @@
+{
+  "name" : "StrongSpartans",
+  "website" : "https://spartancapital.io",
+  "description" : "2,500 Spartan NFTs. Earn monthly passive income in $USDC that grows overtime, investing in $STRONG & protocols, Minecraft Metaverse P2Earn game",
+  "explorer" : "https://snowtrace.io/token/0x4DA15351ad01a741FdE08D5A6c1114B0C43295F0",
+  "type" : "AVA721",
+  "symbol" : "SS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4DA15351ad01a741FdE08D5A6c1114B0C43295F0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/StrongSpartaNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/SpartanCapital"
+  } ]
+}

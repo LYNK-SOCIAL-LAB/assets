@@ -1,0 +1,19 @@
+{
+  "name" : "Ancestral Umans",
+  "website" : "https://worldofumans.com",
+  "description" : "Ancestral Umans are the ancient kin to the Modern Umans, who crossed into the Fantom dimension eons ago. They were led there by the Tribune: Shamanka, the Healer; Abka, the Peacekeeper; Jigari, the Protector.",
+  "explorer" : "https://ftmscan.com/token/0x5DBc2A8B01B7E37dFD7850237a3330c9939d6457",
+  "type" : "FRC721",
+  "symbol" : "AUMAN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5DBc2A8B01B7E37dFD7850237a3330c9939d6457",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/worldofumans"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/worldofumans"
+  } ]
+}

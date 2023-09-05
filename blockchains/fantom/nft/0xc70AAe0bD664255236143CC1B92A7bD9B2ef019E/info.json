@@ -1,0 +1,19 @@
+{
+  "name" : "Bruce the Goose",
+  "website" : "https://brucethegoose.club",
+  "description" : "Generative pixel art about a goose collectible that is named Bruce.",
+  "explorer" : "https://ftmscan.com/token/0xc70AAe0bD664255236143CC1B92A7bD9B2ef019E",
+  "type" : "FRC721",
+  "symbol" : "BTG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc70AAe0bD664255236143CC1B92A7bD9B2ef019E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/BruceTheGoozNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ByWzSj9rxf"
+  } ]
+}

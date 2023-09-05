@@ -1,0 +1,13 @@
+{
+  "name" : "Dopex Halloween NFT",
+  "website" : null,
+  "description" : "Decentralized max liquidity, min exposure, options protocol",
+  "explorer" : "https://arbiscan.io/token/0x9baDE4013a7601aA1f3e9f1361a4ebE60D91B1B5",
+  "type" : "ARC721",
+  "symbol" : "DPX_HALLOWEEN_NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9baDE4013a7601aA1f3e9f1361a4ebE60D91B1B5",
+  "tags" : null,
+  "links" : [ ]
+}

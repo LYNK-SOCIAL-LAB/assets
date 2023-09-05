@@ -1,0 +1,22 @@
+{
+  "name" : "CryptoPhunksV2",
+  "website" : "https://www.cryptophunks.com",
+  "description" : "Visit the community-built 0% fee marketplace at: https://NotLarvaLabs.com\n\nNot affiliated with Larva Labs. Welcome to the first (literal) NFT Flippening.\n\nCryptoPhunks face left, because the other way just doesn't feel right.",
+  "explorer" : "https://etherscan.io/token/0xf07468eAd8cf26c752C676E43C814FEe9c8CF402",
+  "type" : "ERC721",
+  "symbol" : "PHUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf07468eAd8cf26c752C676E43C814FEe9c8CF402",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CryptoPhunks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/phunks"
+  }, {
+    "name" : "medium",
+    "url" : "eggphunk"
+  } ]
+}

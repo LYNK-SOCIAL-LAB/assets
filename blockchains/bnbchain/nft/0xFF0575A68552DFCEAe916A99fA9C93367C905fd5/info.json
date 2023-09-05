@@ -1,0 +1,22 @@
+{
+  "name" : "Memenopoly Cards",
+  "website" : "memenopoly.finance",
+  "description" : "#NFTgaming + mèmes culture + #P2E + board game =an addictive & fun game on BSC.",
+  "explorer" : "https://bscscan.com/token/0xFF0575A68552DFCEAe916A99fA9C93367C905fd5",
+  "type" : "BEP1155",
+  "symbol" : "MnopCard",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xFF0575A68552DFCEAe916A99fA9C93367C905fd5",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/Memenopoly"
+  }, {
+    "name" : "discord",
+    "url" : " http://discord.gg/Y3VdJZeTRQ"
+  }, {
+    "name" : "telegram",
+    "url" : "http://t.me/memenopoly "
+  } ]
+}

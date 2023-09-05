@@ -1,0 +1,19 @@
+{
+  "name" : "Crypto Unicorns: Items Marketplace",
+  "website" : "https://app.cryptounicorns.fun",
+  "description" : "Crypto Unicorns is a blockchain game in which you can collect, hatch, breed, and evolve your very own Crypto Unicorns in order to participate in farming your Land NFTs, gathering resources, and joining in an ever-expanding list of activities like Jousting, Racing, and Team RPG Battle! So come on in and join the Unicorn Fam! Here you’ll be able to find a variety of items to help you in your journey... Lootboxes, Golden Tickets, the coveted Shadowcorn eggs, and more!\r\n\r\nView the other official collections:  \r\nCrypto Unicorns Market: https://opensea.io/collection/crypto-unicorns-market  \r\nCrypto Unicorns Land Market: https://opensea.io/collection/crypto-unicorns-land-market",
+  "explorer" : "https://polygonscan.com/token/0x99A558BDBdE247C2B2716f0D4cFb0E246DFB697D",
+  "type" : "PRC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x99A558BDBdE247C2B2716f0D4cFb0E246DFB697D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "telegram",
+    "url" : "https://t.me/crypto_unicorns"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@lagunagames"
+  } ]
+}

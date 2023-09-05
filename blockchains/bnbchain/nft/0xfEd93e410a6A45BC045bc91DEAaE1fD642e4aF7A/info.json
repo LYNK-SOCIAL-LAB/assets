@@ -1,0 +1,25 @@
+{
+  "name" : "SOLV Flexible Date Vesting Voucher",
+  "website" : "https://app.solv.finance/",
+  "description" : "The Voucher is a type of financial NFT that represents the right to claim tokens on Solv platform based on a set of rules, at a later date. More specifically, an issuing project locks up native tokens into Solv Protocol’s smart contract in exchange for Vouchers minted at Solv platform that represent the right to claim the tokens. Later, whoever holds a Voucher may claim tokens, freely split, merge, trade or transfer the Voucher on the Solv platform.",
+  "explorer" : "https://bscscan.com/token/0xfEd93e410a6A45BC045bc91DEAaE1fD642e4aF7A",
+  "type" : "BEP721",
+  "symbol" : "fvSOLV",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfEd93e410a6A45BC045bc91DEAaE1fD642e4aF7A",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/SolvProtocol/"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/cCkTSVrDR6"
+  }, {
+    "name" : "telegram",
+    "url" : "http://t.me/SolvProtocol"
+  }, {
+    "name" : "medium",
+    "url" : "https://solvprotocol.medium.com/"
+  } ]
+}

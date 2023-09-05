@@ -1,0 +1,16 @@
+{
+  "name" : "Spurs NFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xBf03AcE65338405773718aAa12A934164d483CeF",
+  "type" : "BEP721",
+  "symbol" : "Spurs NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xBf03AcE65338405773718aAa12A934164d483CeF",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/nft_spur"
+  } ]
+}

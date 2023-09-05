@@ -1,0 +1,22 @@
+{
+  "name" : "Catch me if you can",
+  "website" : "https://app.tomandjerry.game/",
+  "description" : "A lovely house in the metaverse, Jerry and his family congregate and ‘produce’ yummy supply of $CHEESE. They huddle together in a Hole and regularly ‘generate’ the $CHEESE. With more $CHEESE, Jerry can invite more cousin ! But outside lurk dangers the Jerry is terrified of... Tom Tom is on the hunt for Jerry and their precious $CHEESE. They’ll take it by any means necessary. They’ll kidnap Jerry or catch them unaware and steal all of their $CHEESE. So they made a deal with the Tom: they pay Tom a tax on all $CHEESE . In return, Tom don’t attack Jerry who are safe in the Hole. But when Jerry leaves the Hole or his cousins come here ... Tom don’t hold back.\n",
+  "explorer" : "https://bscscan.com/token/0x856FF23F0A4CDe14f290843C3d83f16C306ddbeC",
+  "type" : "BEP721",
+  "symbol" : "CatchGame",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x856FF23F0A4CDe14f290843C3d83f16C306ddbeC",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/TomJerry_Spike"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/HSZsw4qh"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/TomJerry_Spi"
+  } ]
+}

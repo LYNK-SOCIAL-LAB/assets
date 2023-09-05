@@ -1,0 +1,13 @@
+{
+  "name" : "DIGITAL ARTIFACT Bitcoin",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0xb9023662dC421E304976A778b0207b95B1d8cD25",
+  "type" : "PRC1155",
+  "symbol" : "DAB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb9023662dC421E304976A778b0207b95B1d8cD25",
+  "tags" : null,
+  "links" : [ ]
+}

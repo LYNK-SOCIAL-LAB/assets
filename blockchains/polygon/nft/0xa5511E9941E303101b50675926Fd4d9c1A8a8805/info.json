@@ -1,0 +1,19 @@
+{
+  "name" : "Ember Sword Badge",
+  "website" : "https://embersword.com",
+  "description" : "**IMX Migration**. You can officially begin migrating your assets over to IMX via our website to get full value of your badges!\n\n[Blog post with step-by-step guide](https://medium.com/embersword/ember-sword-immutable-x-migration-b9db9db243cc)\n\nEmber Sword is a social sandbox MMORPG taking place in a player-driven universe where the adventure finds you. Built by a team of imaginative artists, engineers, and game designers, Ember Sword offers a unique community led and frictionless PvP and PVE player experience, and allows true ownership of digital gaming assets using blockchain technology.\n\n[User Terms](https://embersword.com/terms-and-conditions)",
+  "explorer" : "https://polygonscan.com/token/0xa5511E9941E303101b50675926Fd4d9c1A8a8805",
+  "type" : "PRC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa5511E9941E303101b50675926Fd4d9c1A8a8805",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/embersword"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@embersword"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "OpenSea Collections",
+  "website" : null,
+  "description" : "It is a picture written only with a smartphone and a finger.  \r\nI am making a collection with the concept of a cat wearing a scarf.",
+  "explorer" : "https://polygonscan.com/token/0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+  "type" : "PRC1155",
+  "symbol" : "OPENSTORE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/scarf_cats"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/opensea_io"
+  } ]
+}

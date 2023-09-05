@@ -1,0 +1,13 @@
+{
+  "name" : "DragonMO Token",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x1E3E1ed17A8Df57C215b45f00c2eC4717B33a93D",
+  "type" : "ARC721",
+  "symbol" : "DMO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1E3E1ed17A8Df57C215b45f00c2eC4717B33a93D",
+  "tags" : null,
+  "links" : [ ]
+}

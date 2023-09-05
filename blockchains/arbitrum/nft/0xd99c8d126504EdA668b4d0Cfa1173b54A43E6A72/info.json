@@ -1,0 +1,19 @@
+{
+  "name" : "LionDEX Genesis",
+  "website" : "https://www.liondex.com/",
+  "description" : " LionDEX Genesis is one of the forms of decentralized governance and ownership representation for LionDEX, issued on Arbitrum by utilizing ERC721 standard, an important means to early participation in LionDEX. LionDEX Genesis NFTs are given the highest individual ownership rights in LionDEX, which enable the holders to participate in the distribution of governance tokens, protocol revenue, and guaranteed future growth earnings.\n",
+  "explorer" : "https://arbiscan.io/token/0xd99c8d126504EdA668b4d0Cfa1173b54A43E6A72",
+  "type" : "ARC721",
+  "symbol" : "LG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd99c8d126504EdA668b4d0Cfa1173b54A43E6A72",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/LionDEXOfficial"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/liondex-offcial"
+  } ]
+}

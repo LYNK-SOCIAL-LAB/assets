@@ -1,0 +1,19 @@
+{
+  "name" : "Owlpha",
+  "website" : "http://www.owlpha.io",
+  "description" : "Owlpha is a utility first NFT collection that is designed to provide its holders with high level analytical and social long-term value. Your Owl will serve as your access pass to the future Owlpha analytical tool as well as plenty of members-only benefits provided to the Owlpha Community.",
+  "explorer" : "https://polygonscan.com/token/0x12AA01F646fe5C993C66c9C86EddAd4e514f6cBc",
+  "type" : "PRC721",
+  "symbol" : "owlpha",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x12AA01F646fe5C993C66c9C86EddAd4e514f6cBc",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/OwlphaNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mnfstlabs"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "Lifeform Item 1155",
+  "website" : "",
+  "description" : "Lifeform has developed a cross-platform hyper-realistic 3D virtual human avatar creation system that uses NFTs to enable people to manage and retain multiple zero-knowledge pseudonymous digital identities through a decentralized identifier (DID) solution. ",
+  "explorer" : "https://bscscan.com/token/0x2DFEb752222ccceCB9BC0a934b02C3A86f633900",
+  "type" : "BEP1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2DFEb752222ccceCB9BC0a934b02C3A86f633900",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/lifeformcc"
+  } ]
+}

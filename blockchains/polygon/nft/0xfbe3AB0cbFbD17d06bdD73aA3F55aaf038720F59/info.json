@@ -1,0 +1,22 @@
+{
+  "name" : "Voxies",
+  "website" : "https://voxies.io/",
+  "description" : "Voxies are cute, lovable and collectible 3d voxel buddies, that live and\nplay on the Polygon blockchain. There are only 10,000 Voxies in\nexistence and no two Voxies are identical. Lots of random properties and\nfun traits make each Voxie cute, unique and sometimes rare!Voxies are\nnot just a collectible but are also the first and only NFT to be fully\nintegrated with a playable RPG turn-based tactical game. Bring your\nowned Voxies to life in Voxie Tactics as you collect, battle, and earn\nrewards in the Voxiverse. VOXEL tokens are used as the currency in Voxie\nTactics and used to buy/trade on the Voxies marketplace.",
+  "explorer" : "https://polygonscan.com/token/0xfbe3AB0cbFbD17d06bdD73aA3F55aaf038720F59",
+  "type" : "PRC721",
+  "symbol" : "VOXIES",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfbe3AB0cbFbD17d06bdD73aA3F55aaf038720F59",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/VoxiesNFT"
+  }, {
+    "name" : "discord",
+    "url" : "voxies"
+  }, {
+    "name" : "medium",
+    "url" : "https://voxiesnft.medium.com/"
+  } ]
+}

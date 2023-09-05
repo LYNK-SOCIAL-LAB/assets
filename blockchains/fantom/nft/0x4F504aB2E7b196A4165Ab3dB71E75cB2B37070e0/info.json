@@ -1,0 +1,16 @@
+{
+  "name" : "Riot Goools",
+  "website" : "https://riotgoools.com/",
+  "description" : "Just some morose rebel goools looking to start some ghoul bands and to print some zines. A collection of 500 unique witchy looks.",
+  "explorer" : "https://ftmscan.com/token/0x4F504aB2E7b196A4165Ab3dB71E75cB2B37070e0",
+  "type" : "FRC721",
+  "symbol" : "GOOOL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4F504aB2E7b196A4165Ab3dB71E75cB2B37070e0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/riotgoools"
+  } ]
+}

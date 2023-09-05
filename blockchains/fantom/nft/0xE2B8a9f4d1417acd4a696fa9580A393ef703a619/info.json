@@ -1,0 +1,13 @@
+{
+  "name" : "MAGIK NFT",
+  "website" : "https://magik.finance",
+  "description" : "Magik Finance is a Seignorage Protocol on the Fantom network with a fun community focused on NFT integration and development.",
+  "explorer" : "https://ftmscan.com/token/0xE2B8a9f4d1417acd4a696fa9580A393ef703a619",
+  "type" : "FRC721",
+  "symbol" : "MNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE2B8a9f4d1417acd4a696fa9580A393ef703a619",
+  "tags" : null,
+  "links" : [ ]
+}

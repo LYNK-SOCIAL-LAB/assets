@@ -1,0 +1,16 @@
+{
+  "name" : "Metamon",
+  "website" : "https://t.co/5GL1BfWeEi",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xF24Bf668Aa087990f1d40aBAbF841456E771913c",
+  "type" : "BEP721",
+  "symbol" : "MNM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF24Bf668Aa087990f1d40aBAbF841456E771913c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/metamonisland"
+  } ]
+}

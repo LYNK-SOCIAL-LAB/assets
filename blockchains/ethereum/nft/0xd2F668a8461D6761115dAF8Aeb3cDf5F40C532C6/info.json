@@ -1,0 +1,22 @@
+{
+  "name" : "Karafuru",
+  "website" : "http://karafuru.io",
+  "description" : "Karafuru is home to 5,555 generative arts where colors reign supreme. Leave the drab reality and enter the world of Karafuru by Museum of Toys.",
+  "explorer" : "https://etherscan.io/token/0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6",
+  "type" : "ERC721",
+  "symbol" : "KARAFURU",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/KarafuruNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/karafuru"
+  }, {
+    "name" : "instagram",
+    "url" : "KarafuruNFT"
+  } ]
+}

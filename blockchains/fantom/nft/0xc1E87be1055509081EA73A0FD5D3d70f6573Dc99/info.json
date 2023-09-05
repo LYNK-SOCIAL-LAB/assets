@@ -1,0 +1,19 @@
+{
+  "name" : "MiniLand",
+  "website" : "https://mvfinance.club/",
+  "description" : "Digital Land Plots in the MiniVerse. MiniLand are Genesis MiniVerse Finance NFT Nodes and earn MvDOLLAR(algorithmic stable coin pegged of 1:1 USDC) by staking. Through utilizing MvDOLLAR in our NFT GameFi, holders will be able to earn rewards/prizes, breed the next generation, and much more!",
+  "explorer" : "https://ftmscan.com/token/0xc1E87be1055509081EA73A0FD5D3d70f6573Dc99",
+  "type" : "FRC721",
+  "symbol" : "MLand",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc1E87be1055509081EA73A0FD5D3d70f6573Dc99",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@miniverse_fin"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/CxRWUGSyRv"
+  } ]
+}

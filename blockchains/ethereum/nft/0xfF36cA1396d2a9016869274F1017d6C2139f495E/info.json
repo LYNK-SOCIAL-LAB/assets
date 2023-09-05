@@ -1,0 +1,16 @@
+{
+  "name" : "dementorstownwtf",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://etherscan.io/token/0xfF36cA1396d2a9016869274F1017d6C2139f495E",
+  "type" : "ERC721",
+  "symbol" : "DMTWTF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfF36cA1396d2a9016869274F1017d6C2139f495E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/dementorstown"
+  } ]
+}

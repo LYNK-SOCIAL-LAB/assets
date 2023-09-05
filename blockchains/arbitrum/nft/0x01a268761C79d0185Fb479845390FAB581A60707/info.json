@@ -1,0 +1,16 @@
+{
+  "name" : "BracketX Contract NFT",
+  "website" : "https://bracketx.fi/",
+  "description" : "BracketX NFT - transfers can only occur after expiration or claim. ",
+  "explorer" : "https://arbiscan.io/token/0x01a268761C79d0185Fb479845390FAB581A60707",
+  "type" : "ARC721",
+  "symbol" : "BXNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x01a268761C79d0185Fb479845390FAB581A60707",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Bracket_Labs_"
+  } ]
+}

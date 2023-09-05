@@ -1,0 +1,16 @@
+{
+  "name" : "LEGION",
+  "website" : "https://bridgeworld.treasure.lol",
+  "description" : "Legions are characters dedicated to exploring and expanding the Treasure ecosystem through Bridgeworld.\n\nhttps://trove.treasure.lol/collection/legion-genesis\nhttps://trove.treasure.lol/collection/legion-auxiliary",
+  "explorer" : "https://arbiscan.io/token/0xfE8c1ac365bA6780AEc5a985D989b327C27670A1",
+  "type" : "ARC721",
+  "symbol" : "LGN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfE8c1ac365bA6780AEc5a985D989b327C27670A1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/treasuredao"
+  } ]
+}

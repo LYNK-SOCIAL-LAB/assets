@@ -1,0 +1,13 @@
+{
+  "name" : "Potluck Platinum Pass",
+  "website" : "https://www.potluck-labs.com",
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0x46923d2bF75a42F4F88E79BCa51a8f7d533D9B7D",
+  "type" : "FRC721",
+  "symbol" : "PLPP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x46923d2bF75a42F4F88E79BCa51a8f7d533D9B7D",
+  "tags" : null,
+  "links" : [ ]
+}

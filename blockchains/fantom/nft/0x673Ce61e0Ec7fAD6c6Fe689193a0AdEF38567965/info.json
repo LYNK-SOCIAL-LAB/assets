@@ -1,0 +1,16 @@
+{
+  "name" : "Magical Goools",
+  "website" : "https://riotgoools.com/",
+  "description" : "Magical Goools are the cool big sisters of the Riot Goools. Toughened in the moshpits, they get their magic powers from Riot Goool music.",
+  "explorer" : "https://ftmscan.com/token/0x673Ce61e0Ec7fAD6c6Fe689193a0AdEF38567965",
+  "type" : "FRC721",
+  "symbol" : "mGOOOL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x673Ce61e0Ec7fAD6c6Fe689193a0AdEF38567965",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@riotgoools"
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+    "version":"1.0.0",
+    "banner":[{"cover": "https://assets.lynk.social/banner/1.png","url": "https://lynk.social","sorts": "0"}],
+    "tags":{
+        "DEFI":{"local":[{"en_US":"DEFI"},{"zh_CN":"DEFI"}],"sorts":"0"},
+        "DEX":{"local":[{"en_US":"DEX"},{"zh_CN":"交易"}],"sorts":"1"},
+        "LEND":{"local":[{"en_US":"LEND"},{"zh_CN":"借贷"}],"sorts":"2"},
+        "NFT":{"local":[{"en_US":"NFT"},{"zh_CN":"藏品"}],"sorts":"3"}
+    },
+    "dapps":["dex.json?v=1","lend.json?v=1","nft.json?v=1","defi.json?v=1"]
+}

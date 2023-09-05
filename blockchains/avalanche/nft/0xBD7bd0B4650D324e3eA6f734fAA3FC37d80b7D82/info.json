@@ -1,0 +1,22 @@
+{
+  "name" : "HON - Heroes Token",
+  "website" : "https://heroesofnft.com",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82",
+  "type" : "AVA721",
+  "symbol" : "HRO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xBD7bd0B4650D324e3eA6f734fAA3FC37d80b7D82",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/heroesofnft"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/QMbQ6ohVEw?amp=1"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/W9y3HrDDcq?amp=1"
+  } ]
+}

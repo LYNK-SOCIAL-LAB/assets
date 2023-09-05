@@ -1,0 +1,22 @@
+{
+  "name" : "CyberKongz VX",
+  "website" : "http://cyberkongz.com",
+  "description" : "[CyberKongz](https://opensea.io/collection/cyberkongz) VX are unique and randomly generated 3D NFT Social Avatars for the Metaverse and interoperability with The Sandbox.\r\nSome appear normal. Some look weird. Some are just damn cool! Maybe some even look familiar!\r\n\r\n[More CyberKongz Collections!](https://opensea.io/category/cyberkongz-nfts)  \r\n[Website](https://cyberkongz.com) | [Twitter](https://twitter.com/cyberkongz) | [Discord](https://discord.gg/cyberkongz)",
+  "explorer" : "https://etherscan.io/token/0x7EA3Cca10668B8346aeC0bf1844A49e995527c8B",
+  "type" : "ERC721",
+  "symbol" : "KONGZ VX",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7EA3Cca10668B8346aeC0bf1844A49e995527c8B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CyberKongz"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cyberkongz"
+  }, {
+    "name" : "medium",
+    "url" : "cyberkongz"
+  } ]
+}

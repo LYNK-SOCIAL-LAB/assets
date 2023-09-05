@@ -1,0 +1,19 @@
+{
+  "name" : "Burgr Chef",
+  "website" : "https://burgrgame.com/",
+  "description" : "Idle Burgr Game is an on-chain competitive idle game with a purpose to create burgrs while waiting! Create friends, trade CHEFS and be the best BURGR empire in the game!\n\n",
+  "explorer" : "https://snowtrace.io/token/0x467a3248a77B3D49fbCc7426cB68E8f519e3dCb4",
+  "type" : "AVA721",
+  "symbol" : "BURGR-CHEF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x467a3248a77B3D49fbCc7426cB68E8f519e3dCb4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/idleburgrtoken"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/GuTUuY43"
+  } ]
+}

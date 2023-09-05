@@ -1,0 +1,13 @@
+{
+  "name" : "dabao2",
+  "website" : null,
+  "description" : "good NFT",
+  "explorer" : "https://optimistic.etherscan.io/token/0xfC1F4727b270718ea1DaFba3466c63dEd0C72e61",
+  "type" : "OP721",
+  "symbol" : "pfp",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfC1F4727b270718ea1DaFba3466c63dEd0C72e61",
+  "tags" : null,
+  "links" : [ ]
+}

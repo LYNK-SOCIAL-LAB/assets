@@ -1,0 +1,16 @@
+{
+  "name" : "Oliens",
+  "website" : "https://linktr.ee/oliensnft",
+  "description" : "2222 unique Oliens on optimism which is the first NFT collection of a bigger project named Ospace.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x69a68eb548A37ee475D9f89646945588558796D1",
+  "type" : "OP721",
+  "symbol" : "OLIENS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x69a68eb548A37ee475D9f89646945588558796D1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/OliensNFT"
+  } ]
+}

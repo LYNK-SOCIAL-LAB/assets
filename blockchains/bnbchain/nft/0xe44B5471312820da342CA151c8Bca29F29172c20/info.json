@@ -1,0 +1,13 @@
+{
+  "name" : "Life Avatar Poap",
+  "website" : "",
+  "description" : "",
+  "explorer" : "https://bscscan.com/token/0xe44B5471312820da342CA151c8Bca29F29172c20",
+  "type" : "BEP721",
+  "symbol" : "LAP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xe44B5471312820da342CA151c8Bca29F29172c20",
+  "tags" : null,
+  "links" : [ ]
+}

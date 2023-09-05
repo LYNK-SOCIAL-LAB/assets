@@ -1,0 +1,22 @@
+{
+  "name" : "CyberBrokers",
+  "website" : "https://cyberbrokers.io/",
+  "description" : "CyberBrokers is a first-of-its-kind art collectibles ecosystem centered around 10,001 unique and on-chain CyberBroker NFTs.",
+  "explorer" : "https://etherscan.io/token/0x892848074ddeA461A15f337250Da3ce55580CA85",
+  "type" : "ERC721",
+  "symbol" : "CYBERBROKERS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x892848074ddeA461A15f337250Da3ce55580CA85",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CyberBrokers_"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cyberbrokers"
+  }, {
+    "name" : "instagram",
+    "url" : "cyberbrokers"
+  } ]
+}

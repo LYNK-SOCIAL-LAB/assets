@@ -1,0 +1,16 @@
+{
+  "name" : "MITHICAL",
+  "website" : null,
+  "description" : "\"Mithical.io is an NFT project utilizing Defi mechanics to offer self-repaying NFTs through a lossless mint process to its community. Across cultures myths describe magical kingdoms & beings that fascinate the human mind. As a community-driven NFT project we will resurrect these worlds on the Arbitrum blockchain. Our project will build on existing myths by molding authentic characters & narratives. The art is based on Japanese traditional art and myth.\"",
+  "explorer" : "https://arbiscan.io/token/0xD3976f93Ac8bFC32568FBFcAEdAfFc3f96E67D5c",
+  "type" : "ARC721",
+  "symbol" : "MITH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD3976f93Ac8bFC32568FBFcAEdAfFc3f96E67D5c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "medium",
+    "url" : "https://medium.com/@Mithical.io"
+  } ]
+}

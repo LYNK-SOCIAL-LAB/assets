@@ -1,0 +1,13 @@
+{
+  "name" : "tiny dinos",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62",
+  "type" : "FRC721",
+  "symbol" : "dino",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62",
+  "tags" : null,
+  "links" : [ ]
+}

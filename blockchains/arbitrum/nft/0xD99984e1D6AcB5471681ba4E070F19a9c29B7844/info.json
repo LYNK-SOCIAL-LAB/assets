@@ -1,0 +1,19 @@
+{
+  "name" : "AIShiba OG Collection",
+  "website" : null,
+  "description" : "Early Contributor NFT for AIShiba Lifestyle on Arbitrum",
+  "explorer" : "https://arbiscan.io/token/0xD99984e1D6AcB5471681ba4E070F19a9c29B7844",
+  "type" : "ARC721",
+  "symbol" : "AISHIB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD99984e1D6AcB5471681ba4E070F19a9c29B7844",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AiShiba_Arb"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/W4nfd7Wkp3"
+  } ]
+}

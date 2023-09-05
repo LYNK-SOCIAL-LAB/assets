@@ -1,0 +1,19 @@
+{
+  "name" : "chikn",
+  "website" : "https://chikn.farm/",
+  "description" : "10,000 algorithmically generated, unique chikn NFTs that lay $egg",
+  "explorer" : "https://snowtrace.io/token/0x8927985B358692815E18F2138964679DcA5d3b79",
+  "type" : "AVA721",
+  "symbol" : "chikn",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8927985B358692815E18F2138964679DcA5d3b79",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/chikn_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/9znHkBYjra"
+  } ]
+}

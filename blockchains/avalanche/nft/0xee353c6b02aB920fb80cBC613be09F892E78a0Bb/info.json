@@ -1,0 +1,22 @@
+{
+  "name" : "MOONOPOLI MOON GAME",
+  "website" : "https://moonopoli.com/",
+  "description" : "Moonopoli is a game where aliens and astronauts work together to mine minerals the call $MOON for their survival. These are a collection of Launch Portal to summon Gen 0 MOON-citizen NFT for Moonopoli Game in Phase 1. These NFTs can be staked to earn $MOON. The owners of Gen 0 NFT will be airdropped land NFT in Phase 2. In Phase 2, Moonopoli will become a Click-to-Earn P2E game.",
+  "explorer" : "https://snowtrace.io/token/0xee353c6b02aB920fb80cBC613be09F892E78a0Bb",
+  "type" : "AVA721",
+  "symbol" : "MOON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xee353c6b02aB920fb80cBC613be09F892E78a0Bb",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/Moonopoligameoz"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/KXw3VFAeWC"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/moonopoligame"
+  } ]
+}

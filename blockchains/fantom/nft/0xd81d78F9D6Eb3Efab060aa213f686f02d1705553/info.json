@@ -1,0 +1,19 @@
+{
+  "name" : "Chunk NFT",
+  "website" : "https://chunk-nft.com/",
+  "description" : "Chunk NFT is 64 handcrafted pieces of a bigger world. Each of them are made of 64x64x64 voxels carefully placed to create a unique kingdom which covers different biomes. We believe NFT collectors deserve a project that respect the purest form of art and fun – one which is 100% original and without any reused art. My friend, welcome home.",
+  "explorer" : "https://ftmscan.com/token/0xd81d78F9D6Eb3Efab060aa213f686f02d1705553",
+  "type" : "FRC721",
+  "symbol" : "CHUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd81d78F9D6Eb3Efab060aa213f686f02d1705553",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ChunkNft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/AZ5VRcQeFz"
+  } ]
+}

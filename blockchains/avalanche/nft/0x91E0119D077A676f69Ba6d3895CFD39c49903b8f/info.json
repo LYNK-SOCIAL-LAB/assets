@@ -1,0 +1,13 @@
+{
+  "name" : "DeproApeCryptoClub",
+  "website" : null,
+  "description" : "The Apes Club has arrived on #Avalanche! Our collection is a set of 5000 algorithmically generated but cloned apes inspired by @BAYC. What will happen once they’ve lived on Avalanche? Missed your chance on Eth? Let’s go",
+  "explorer" : "https://snowtrace.io/token/0x91E0119D077A676f69Ba6d3895CFD39c49903b8f",
+  "type" : "AVA721",
+  "symbol" : "DACC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x91E0119D077A676f69Ba6d3895CFD39c49903b8f",
+  "tags" : null,
+  "links" : [ ]
+}

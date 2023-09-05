@@ -1,0 +1,13 @@
+{
+  "name" : "Altcoin Collector",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x996877bfc830ee52B786675d211fdfFd2493A0ea",
+  "type" : "BEP721",
+  "symbol" : "AltcoinCollector",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x996877bfc830ee52B786675d211fdfFd2493A0ea",
+  "tags" : null,
+  "links" : [ ]
+}

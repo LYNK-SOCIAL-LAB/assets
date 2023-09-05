@@ -1,0 +1,13 @@
+{
+  "name" : "Vela - Beta Participation NFT",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x06154f148e14a85c13170FC4584c0Ef4263e16A0",
+  "type" : "ARC721",
+  "symbol" : "VELA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x06154f148e14a85c13170FC4584c0Ef4263e16A0",
+  "tags" : null,
+  "links" : [ ]
+}

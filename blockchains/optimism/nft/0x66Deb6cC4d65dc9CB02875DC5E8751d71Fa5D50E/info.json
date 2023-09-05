@@ -1,0 +1,19 @@
+{
+  "name" : "L2StateOfMind",
+  "website" : "https://l222.layer2dao.org/",
+  "description" : "L2StateOfMind NFT Collection by Layer2DAO. With only 2,022 NFTs in existence, this L2 NFT is your gateway to utility on the L2 ecosystem!",
+  "explorer" : "https://optimistic.etherscan.io/token/0x66Deb6cC4d65dc9CB02875DC5E8751d71Fa5D50E",
+  "type" : "OP721",
+  "symbol" : "L222",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x66Deb6cC4d65dc9CB02875DC5E8751d71Fa5D50E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheLayer2DAO"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/layer2dao"
+  } ]
+}

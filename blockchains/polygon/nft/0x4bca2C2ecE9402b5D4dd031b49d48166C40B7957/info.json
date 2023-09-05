@@ -1,0 +1,19 @@
+{
+  "name" : "BillionaireZombiesClub",
+  "website" : "http://billionairezombies.com",
+  "description" : "Billionaire Zombies Club is an NFT Metaverse project built on the Polygon Network Blockchain. This is the genesis collection of the Billionaire Zombies Club, and is your pass to play in the upcoming BZC P2E game.\n\n[Community Site](https://www.billionairezombies.com) \n\nCheck out our collections and join the #BZCArmy today!\n\n[Zombies](https://opensea.io/collection/billionairezombiesclub) | [Kings](https://opensea.io/collection/skeleton-kings) | [2D Keys](https://opensea.io/collection/bzc-skeleton-keys) | [3D Keys](https://opensea.io/collection/bzc-skeleton-keys-3d) | [Metaverse](https://opensea.io/collection/bzc-metaverse) | [MetaCrystals](https://opensea.io/collection/bzc-metacrystals) | [Land](https://opensea.io/collection/new-world-zombie-the-metaverse) ",
+  "explorer" : "https://polygonscan.com/token/0x4bca2C2ecE9402b5D4dd031b49d48166C40B7957",
+  "type" : "PRC721",
+  "symbol" : "BZC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4bca2C2ecE9402b5D4dd031b49d48166C40B7957",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/bzombiesc"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/invite/BZCDAO"
+  } ]
+}

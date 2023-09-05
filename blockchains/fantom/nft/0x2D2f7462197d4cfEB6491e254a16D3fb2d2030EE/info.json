@@ -1,0 +1,22 @@
+{
+  "name" : "Monster Manifested",
+  "website" : "https://metaland.game",
+  "description" : "MonsterNFT is monster collections in rarity ecosystem, 11,000 in total, with attributes randomly created.",
+  "explorer" : "https://ftmscan.com/token/0x2D2f7462197d4cfEB6491e254a16D3fb2d2030EE",
+  "type" : "FRC721",
+  "symbol" : "MMS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2D2f7462197d4cfEB6491e254a16D3fb2d2030EE",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@Crypto_Shuraba"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/4re29XnZwt"
+  }, {
+    "name" : "medium",
+    "url" : "http://medium.com/@cryptoshuraba"
+  } ]
+}

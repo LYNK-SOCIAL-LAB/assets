@@ -1,0 +1,22 @@
+{
+  "name" : "Draconic Eggs",
+  "website" : "https://qx.app/launch/draconic-egg",
+  "description" : "Welcome to Draconic-Verse, The Land of Mystery Dragons. There are many dragon eggs waiting for you to collect. Please keep it well until it hatches from the egg 🔥🐉🥚 Hatch Time: 26 Aug 2022 21:00 UTC+7",
+  "explorer" : "https://optimistic.etherscan.io/token/0x8964e71578E6e6a7552692D3E1d0A576711298e6",
+  "type" : "OP721",
+  "symbol" : "DCNE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8964e71578E6e6a7552692D3E1d0A576711298e6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/diewland_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/y84sbKcNwc"
+  }, {
+    "name" : "instagram",
+    "url" : "diewland_nft"
+  } ]
+}

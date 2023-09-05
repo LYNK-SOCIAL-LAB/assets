@@ -1,0 +1,22 @@
+{
+  "name" : "DAR_Plot",
+  "website" : "https://decentar.com/",
+  "description" : "Co-founded By @Torylanez\n 30,000 3NITY on the Ethereum Blockchain. Minting NOW. FashionxGamingx3D CollectiblesxEvents.",
+  "explorer" : "https://bscscan.com/token/0x8815faE8FEb5e1b2f8a6C7C948D9FD1866e07a4f",
+  "type" : "BEP721",
+  "symbol" : "DAR_Plot",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8815faE8FEb5e1b2f8a6C7C948D9FD1866e07a4f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/DecentarLabs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/7DqmDBkf7m"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/decentarlabs/"
+  } ]
+}

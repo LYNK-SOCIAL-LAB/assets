@@ -1,0 +1,13 @@
+{
+  "name" : "JustBanana",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0xC480325c86392b773Cbad885759c205F26d91BbB",
+  "type" : "OP721",
+  "symbol" : "JUSTBANANA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC480325c86392b773Cbad885759c205F26d91BbB",
+  "tags" : null,
+  "links" : [ ]
+}

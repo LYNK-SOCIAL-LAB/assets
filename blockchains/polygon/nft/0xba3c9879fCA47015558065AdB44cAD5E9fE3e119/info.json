@@ -1,0 +1,16 @@
+{
+  "name" : "HOK Main",
+  "website" : "https://houseofkibaa.com/",
+  "description" : "House of Kibaa (HoK) is a community of innovators building holder utility for the metaverse. Explore many assets here to expand your Web3 experience. We're currently building infrastructure for the next generation social metaverse \n\nPocket Dimension: https://opensea.io/collection/pocket-dimension-earth",
+  "explorer" : "https://polygonscan.com/token/0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+  "type" : "PRC1155",
+  "symbol" : "HOK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/houseofkibaa"
+  } ]
+}

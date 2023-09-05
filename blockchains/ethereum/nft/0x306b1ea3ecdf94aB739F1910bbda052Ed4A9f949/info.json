@@ -1,0 +1,16 @@
+{
+  "name" : "Beanz",
+  "website" : null,
+  "description" : "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+  "explorer" : "https://etherscan.io/token/0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949",
+  "type" : "ERC721",
+  "symbol" : "BEANZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Azuki"
+  } ]
+}

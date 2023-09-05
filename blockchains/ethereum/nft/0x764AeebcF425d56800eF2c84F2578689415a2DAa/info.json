@@ -1,0 +1,19 @@
+{
+  "name" : "SewerPass",
+  "website" : "https://mdvmm.xyz/",
+  "description" : "WARNING: Dookey Dash is now closed. Sewer Pass scores have been reviewed. The metadata should now reflect the rank and score.\r\n\r\nSewer Passes have the opportunity to summon a Power Source. The rank visible on each pass will determine which Power Source you’ll receive. If your Sewer Pass did not place on the Dookey Dash leaderboard, you have the opportunity receive an unranked Power Source by participating in Dookey Dash: Toad Mode. Sewer Passes marked as VOID are ineligible for The Summoning\r\n\r\nDetails on scoring, Sewer Pass summoning eligibility, and more can be found on under the Sewer Pass section of the FAQ at https://news.yuga.com/prepare-for-the-jtm-mint. Holders of Sewer Passes are subject to the license agreement available at https://mdvmm.xyz/license.",
+  "explorer" : "https://etherscan.io/token/0x764AeebcF425d56800eF2c84F2578689415a2DAa",
+  "type" : "ERC721",
+  "symbol" : "SEWER",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x764AeebcF425d56800eF2c84F2578689415a2DAa",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/BoredApeYC"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/bayc"
+  } ]
+}

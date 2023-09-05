@@ -1,0 +1,13 @@
+{
+  "name" : "888ALIEN",
+  "website" : "https://www.888alien.com/",
+  "description" : "888Alien is the starting point of a large-scale project. Created to be much more than a simple collection,  ALIEN is visionary and ready to conquer all the exploitable fields to their expansion.",
+  "explorer" : "https://arbiscan.io/token/0x10d2baeb37A4079fc62cc716B08e2452936424B1",
+  "type" : "ARC721",
+  "symbol" : "888 Alien",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x10d2baeb37A4079fc62cc716B08e2452936424B1",
+  "tags" : null,
+  "links" : [ ]
+}

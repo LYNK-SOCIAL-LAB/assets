@@ -1,0 +1,16 @@
+{
+  "name" : "PufDAO",
+  "website" : "https://pufdao.com/",
+  "description" : "Legend says that Pufs created the original DAO. The genesis decentralized community.\n\nFeel free to use Pufs in any way you like.\n\n⚪️🟡🟢🅿🟣🔴⚫️\n\n[Specials](https://opensea.io/collection/pufdao-specials)",
+  "explorer" : "https://arbiscan.io/token/0xf106DaF05b450d805796560F1f6F6d434EC2A893",
+  "type" : "ARC721",
+  "symbol" : "PUF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf106DaF05b450d805796560F1f6F6d434EC2A893",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/pufdao"
+  } ]
+}

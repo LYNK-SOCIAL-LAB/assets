@@ -1,0 +1,22 @@
+{
+  "name" : "BBChickens",
+  "website" : "https://www.bbchickens.io/",
+  "description" : "#BBCs are a burnable NFT backed by staked Beets (80/20 Beets/FTM). BBCs are the most liquid NFT on FTM, this liquidity will be achieved by rewarding the burning of our NFT.<br><br>90% of the mint proceeds goes to the dao treasury<br>4.5% of each secondary sale goes to the dao treasury<br>8.5% of each BURN goes to the dao treasury",
+  "explorer" : "https://ftmscan.com/token/0xf9e393CbD7e8F34FB87127195f1F74E699D3d595",
+  "type" : "FRC721",
+  "symbol" : "BBC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf9e393CbD7e8F34FB87127195f1F74E699D3d595",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@bbchickens"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/PsVFxJUp9x"
+  }, {
+    "name" : "medium",
+    "url" : "https://boldbeautifulchickens.gitbook.io/bbchickens/"
+  } ]
+}

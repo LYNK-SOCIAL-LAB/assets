@@ -1,0 +1,19 @@
+{
+  "name" : "SaturdayMorningPaintHuffingSessions",
+  "website" : "https://www.instagram.com/mazochist_laf/",
+  "description" : "You’re 10 years old, it’s Saturday morning and you just woke up…you get out of bed in your G.I Joe jammies, pour yourself a bowl of your favorite cereal and turn on the tube. It’s time to binge watch some cartoons! You don’t know it yet, but this is as good as it gets. Ever wonder...if only you had a can of spray paint and a plastic bag to go along with that? Well you don’t have to wonder anymore, sit back and enjoy some Saturday Morning Paint Huffing Sessions",
+  "explorer" : "https://ftmscan.com/token/0x3D1034E6732Bfd40E2102146a3cd7d0B2d717EcA",
+  "type" : "FRC721",
+  "symbol" : "SMPHS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3D1034E6732Bfd40E2102146a3cd7d0B2d717EcA",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@Mazochist_LAF"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/6RdP5SyyhN"
+  } ]
+}

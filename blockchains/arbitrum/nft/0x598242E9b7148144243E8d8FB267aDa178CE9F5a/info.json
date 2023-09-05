@@ -1,0 +1,19 @@
+{
+  "name" : "Gosleep: Starlight Edition",
+  "website" : "https://gogogosleep.com/index",
+  "description" : "GoSleep: Starlight Edition, the second NFT release from GoSleep with a total supply of 5000.  GoSleep is the first Web 3.0 app on Arbitrum that focuses on promoting healthy sleep, and is accelerated and funded by Foresight venture.\n\nIn the GoSleep game, this NFT serves as a virtual room that enables players to earn tokens, stake their assets, and unlock additional benefits as they progress",
+  "explorer" : "https://arbiscan.io/token/0x598242E9b7148144243E8d8FB267aDa178CE9F5a",
+  "type" : "ARC721",
+  "symbol" : "Starlight Edition",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x598242E9b7148144243E8d8FB267aDa178CE9F5a",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/gosleep01"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/gosleep"
+  } ]
+}

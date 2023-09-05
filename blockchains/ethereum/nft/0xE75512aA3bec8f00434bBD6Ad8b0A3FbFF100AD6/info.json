@@ -1,0 +1,22 @@
+{
+  "name" : "MG Land",
+  "website" : "https://mg.land/",
+  "description" : "MGLand is the largest NFT Space on blockchain, everyone can bring their NFT into space to socialize, to play games, to hold NFT exhibitions and to trade freely.",
+  "explorer" : "https://etherscan.io/token/0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6",
+  "type" : "ERC721",
+  "symbol" : "MGLand",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MGLandOfficial"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mgland"
+  }, {
+    "name" : "medium",
+    "url" : "metagameland"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "MadSkullz",
+  "website" : "https://madskullz.io/",
+  "description" : "MadSkullz live in their own world. A reality where life is peaceful and\nwhere neighbors are friendly: SkullzCity. One day, this peaceful life\ngets interrupted when what seems to be an interdimensional portalz\nappears in the city.",
+  "explorer" : "https://snowtrace.io/token/0x3025C5c2aA6eb7364555aAC0074292195701bBD6",
+  "type" : "AVA721",
+  "symbol" : "MADSKULLZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3025C5c2aA6eb7364555aAC0074292195701bBD6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/madskullz_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/madskullz"
+  } ]
+}

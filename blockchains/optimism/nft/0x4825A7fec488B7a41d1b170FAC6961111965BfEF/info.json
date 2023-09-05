@@ -1,0 +1,13 @@
+{
+  "name" : "Meet Base",
+  "website" : "https://mirror.xyz/",
+  "description" : "https://mirror.xyz/10/0x4825a7fec488b7a41d1b170fac6961111965bfef",
+  "explorer" : "https://optimistic.etherscan.io/token/0x4825A7fec488B7a41d1b170FAC6961111965BfEF",
+  "type" : "OP721",
+  "symbol" : "MEETBASE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4825A7fec488B7a41d1b170FAC6961111965BfEF",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "BabyChimpGang",
+  "website" : "https://babychimpgang.com",
+  "description" : "The BabyChimpGang is a collection of 1111 unique chimpanzee NFTs build on the Fantom Opera blockchain",
+  "explorer" : "https://ftmscan.com/token/0x7f9893ef9726D23e249518EaA1424677b7FED6a9",
+  "type" : "FRC721",
+  "symbol" : "BCG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7f9893ef9726D23e249518EaA1424677b7FED6a9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@BabyChimpGang"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/x7EKQdkfDm"
+  } ]
+}

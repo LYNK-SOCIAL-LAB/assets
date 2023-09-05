@@ -1,0 +1,13 @@
+{
+  "name" : "Arbitrum Odyssey NFT",
+  "website" : null,
+  "description" : "\"Arbitrum is an Optimistic Rollup built to scale Ethereum by @OffchainLabs\"",
+  "explorer" : "https://arbiscan.io/token/0xfAe39eC09730CA0F14262A636D2d7C5539353752",
+  "type" : "ARC721",
+  "symbol" : "Arbitrum",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfAe39eC09730CA0F14262A636D2d7C5539353752",
+  "tags" : null,
+  "links" : [ ]
+}

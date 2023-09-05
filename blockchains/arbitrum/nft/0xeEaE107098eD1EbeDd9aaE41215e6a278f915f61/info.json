@@ -1,0 +1,19 @@
+{
+  "name" : "Arbitrum Ape Yacht Club",
+  "website" : "https://aayc.io/mint",
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0xeEaE107098eD1EbeDd9aaE41215e6a278f915f61",
+  "type" : "ARC721",
+  "symbol" : "AAYC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xeEaE107098eD1EbeDd9aaE41215e6a278f915f61",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ArbitrumApeYC"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/aayc"
+  } ]
+}

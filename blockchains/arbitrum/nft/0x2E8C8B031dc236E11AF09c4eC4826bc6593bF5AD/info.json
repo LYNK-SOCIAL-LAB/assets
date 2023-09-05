@@ -1,0 +1,16 @@
+{
+  "name" : "LYNK",
+  "website" : "https://lynk.im",
+  "description" : "The Finders are a group of 200 beings from the Nexus of all spacetime coordinates. \r\n\r\nThey have entered the LYNKVERSE to assist the Keepers in rebuilding the Sanctuary and help the LYNKVERSE reach its full potential. There are only 200 Finder NFTs in existence, making Finder NFTs the rarest and most exclusive collection in the LYNKVERSE. Each Finder possesses its own unique Finder traits, making each one distinctive and different.\r\n\r\nBecome a pioneer of the LYNK community, help build the foundations and create the frameworks for growth and success.",
+  "explorer" : "https://arbiscan.io/token/0x2E8C8B031dc236E11AF09c4eC4826bc6593bF5AD",
+  "type" : "ARC721",
+  "symbol" : "LYNKNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2E8C8B031dc236E11AF09c4eC4826bc6593bF5AD",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/lynksanctuary"
+  } ]
+}

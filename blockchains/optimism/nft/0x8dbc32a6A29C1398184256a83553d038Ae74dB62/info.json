@@ -1,0 +1,13 @@
+{
+  "name" : "CyberNerds",
+  "website" : "https://twitter.com/CyberNerdsOP",
+  "description" : "</p>4,444 collectible characters of CyberNerds. Together, we will travel crypto worlds where anything and everything is possible. \r\n\r\n51% of mints will go to Optimism public goods and 5% to Redcross.</p>",
+  "explorer" : "https://optimistic.etherscan.io/token/0x8dbc32a6A29C1398184256a83553d038Ae74dB62",
+  "type" : "OP721",
+  "symbol" : "CYBERNERDS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8dbc32a6A29C1398184256a83553d038Ae74dB62",
+  "tags" : null,
+  "links" : [ ]
+}

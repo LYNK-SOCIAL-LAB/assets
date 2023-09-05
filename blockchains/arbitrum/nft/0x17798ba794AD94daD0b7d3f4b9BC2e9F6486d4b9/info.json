@@ -1,0 +1,19 @@
+{
+  "name" : "Tour de Berance",
+  "website" : "https://www.gumball.fi/",
+  "description" : "Tour de Berance is a collection of 6,900 unique beras on bikes racing for liquidity on Arbitrum. Tour de Berance NFTs will offer unique utility on the Beradrome DEX on Berachain. Mint yours now or be forever left behind in the dust of tracking racing beras! Note: Tour de Berance are backed by an asset at Gumball Protocol $drom",
+  "explorer" : "https://arbiscan.io/token/0x17798ba794AD94daD0b7d3f4b9BC2e9F6486d4b9",
+  "type" : "ARC721",
+  "symbol" : "DROM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x17798ba794AD94daD0b7d3f4b9BC2e9F6486d4b9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/beradrome"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/beradrome"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "parallel",
+  "website" : "http://www.parallel.life",
+  "description" : "Sci-fi collectable card game with NFTs.",
+  "explorer" : "https://etherscan.io/token/0x76BE3b62873462d2142405439777e971754E8E77",
+  "type" : "ERC1155",
+  "symbol" : "LL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x76BE3b62873462d2142405439777e971754E8E77",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ParallelTCG"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/paralleltcg"
+  }, {
+    "name" : "instagram",
+    "url" : "parallel_tcg"
+  } ]
+}

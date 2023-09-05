@@ -1,0 +1,19 @@
+{
+  "name" : "Police & Thief Game",
+  "website" : "https://policeandthief.game/",
+  "description" : "Police & Thief Game is a P2E NFT game on Avalanche, a Wolf Game derivative. Players will be able to mint, stake and earn on their NFTs, whilst also being able to steal NFTs from other players!",
+  "explorer" : "https://snowtrace.io/token/0x15e6C37CDb635ACc1fF82A8E6f1D25a757949BEC",
+  "type" : "AVA721",
+  "symbol" : "POLICE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x15e6C37CDb635ACc1fF82A8E6f1D25a757949BEC",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/policethiefnft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/policeandthiefgame"
+  } ]
+}

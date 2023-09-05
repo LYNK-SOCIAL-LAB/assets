@@ -1,0 +1,19 @@
+{
+  "name" : "The Crypto You-Bitcoin Holder",
+  "website" : "https://thecryptoyou.io/",
+  "description" : "Adventure | On-Line | Play-To-Earn | Token The Crypto You is an online\ngame based on Binance Smart Chain (BSC). Players can summon characters,\ncomplete daily mining missions, conquer the dark monsters, loot rare\nitems to play and earn. The babies live on the Baby Planet, and the most\nabundant resources on the planet are cryptocurrencies. These resources\nare the dearest friends of babies, and babies will strive to protect.\nBabies all live with happiness and delight, until one day... The Dark\nPlanet has explored the crypto wealth on the Baby Planet, and they\nswarmed to snatch the resources under their control. It’s time for the\nbabies to carry their weapons and fight back against foreign forces. No\nmatter who you are, come to protect our planet! You can buy  The Crypto\nYou Token (MIlk) in PancakeSwap",
+  "explorer" : "https://bscscan.com/token/0xb8788bD7eC1a945585B5E76C473a6A7729994386",
+  "type" : "BEP721",
+  "symbol" : "FuturesLover",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb8788bD7eC1a945585B5E76C473a6A7729994386",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheCryptoYou"
+  }, {
+    "name" : "medium",
+    "url" : "https://thecryptoyou.medium.com/"
+  } ]
+}

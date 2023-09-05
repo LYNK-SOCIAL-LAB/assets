@@ -1,0 +1,13 @@
+{
+  "name" : "OptiPunk",
+  "website" : null,
+  "description" : "\"10000 unique collectible characters with proof of ownership stored on Optimism\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0xB8Df6Cc3050cC02F967Db1eE48330bA23276A492",
+  "type" : "OP721",
+  "symbol" : "OPPUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xB8Df6Cc3050cC02F967Db1eE48330bA23276A492",
+  "tags" : null,
+  "links" : [ ]
+}

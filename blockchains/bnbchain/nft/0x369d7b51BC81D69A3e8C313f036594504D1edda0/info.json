@@ -1,0 +1,19 @@
+{
+  "name" : "Yuliverse NFT",
+  "website" : "https://www.yuliverse.com",
+  "description" : "Yuliverse is the World’s very First Parallel Reality Gaming Metaverse on\nBSC chain, Inspired by Pokemon Go & Tinder. Growing new and\nmeaningful friendships at the same time earning in Yuliverse with ease,\nby just moving around in your neighbourhood! YuliOriginGenOne, the first\ngeneration of the Yuliverse NFT collection. Representing your first step\ninto the Yuliverse.",
+  "explorer" : "https://bscscan.com/token/0x369d7b51BC81D69A3e8C313f036594504D1edda0",
+  "type" : "BEP721",
+  "symbol" : "YULIBOX",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x369d7b51BC81D69A3e8C313f036594504D1edda0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheYuliverse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/yuliverseofficial"
+  } ]
+}

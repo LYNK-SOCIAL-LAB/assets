@@ -1,0 +1,13 @@
+{
+  "name" : "Optimism quest SBT",
+  "website" : null,
+  "description" : "Earn NFTs for learning how to use the most popular apps on Optimism.",
+  "explorer" : "https://optimistic.etherscan.io/token/0xfA14e1157F35E1dAD95dC3F822A9d18c40e360E2",
+  "type" : "OP721",
+  "symbol" : "Optimism quest",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfA14e1157F35E1dAD95dC3F822A9d18c40e360E2",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "ArbiDudesGenOne",
+  "website" : "https://www.arbidudes.com/",
+  "description" : "# 👉 The **Mint is OPEN** on https://www.arbidudes.com/\n",
+  "explorer" : "https://arbiscan.io/token/0x1ac7A2fC7f66fA4edf2713A88CD4Bad24220c86C",
+  "type" : "ARC721",
+  "symbol" : "DUDE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1ac7A2fC7f66fA4edf2713A88CD4Bad24220c86C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ArbiDudes"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/VCkNw3bWEH"
+  } ]
+}

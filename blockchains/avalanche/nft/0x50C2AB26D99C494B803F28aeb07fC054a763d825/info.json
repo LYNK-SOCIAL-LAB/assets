@@ -1,0 +1,19 @@
+{
+  "name" : "Apex NFT Presale Pass",
+  "website" : "https://apexnodes.io/",
+  "description" : "Apex is a state of the art NaaS launching on the Avalanche blockchain.\n$APEX $AVAX #NodeLife #NodeArmy",
+  "explorer" : "https://snowtrace.io/token/0x50C2AB26D99C494B803F28aeb07fC054a763d825",
+  "type" : "AVA721",
+  "symbol" : "APEX",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x50C2AB26D99C494B803F28aeb07fC054a763d825",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/apexnodes"
+  }, {
+    "name" : "discord",
+    "url" : "discord.gg/qDbEzU5Em5"
+  } ]
+}

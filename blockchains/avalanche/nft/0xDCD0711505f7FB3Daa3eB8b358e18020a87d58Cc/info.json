@@ -1,0 +1,19 @@
+{
+  "name" : "NavySealGame",
+  "website" : "https://navyseal.game/",
+  "description" : "A R2E game on Avalanche that is inspired by CounterStrike and Wolf Game",
+  "explorer" : "https://snowtrace.io/token/0xDCD0711505f7FB3Daa3eB8b358e18020a87d58Cc",
+  "type" : "AVA721",
+  "symbol" : "NVG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xDCD0711505f7FB3Daa3eB8b358e18020a87d58Cc",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/NavysealGame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/navysealgame"
+  } ]
+}

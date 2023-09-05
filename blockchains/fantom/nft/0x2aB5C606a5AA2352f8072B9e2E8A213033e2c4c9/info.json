@@ -1,0 +1,25 @@
+{
+  "name" : "Magicats",
+  "website" : "https://spooky.fi",
+  "description" : "When Grim descended upon our world on her paws and broom, she encountered magical kittens who were unaware that they were stuck inside human skins. Who is your inner Magicat? Official SpookySwap Genesis NFTs | 5000 Limited",
+  "explorer" : "https://ftmscan.com/token/0x2aB5C606a5AA2352f8072B9e2E8A213033e2c4c9",
+  "type" : "FRC721",
+  "symbol" : "MGC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2aB5C606a5AA2352f8072B9e2E8A213033e2c4c9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@SpookySwap"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/spookyswap"
+  }, {
+    "name" : "telegram",
+    "url" : "@SpookySwapCommunity"
+  }, {
+    "name" : "medium",
+    "url" : "https://spookyswap.medium.com/"
+  } ]
+}

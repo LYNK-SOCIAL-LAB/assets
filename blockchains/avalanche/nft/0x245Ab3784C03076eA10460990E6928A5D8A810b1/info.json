@@ -1,0 +1,19 @@
+{
+  "name" : "Business Game",
+  "website" : "https://game.business-game.app",
+  "description" : "The most promising project of the Avalanche blockchain is coming soon... Build your team to generate as much revenue as possible in automatic. Once the tokens are generated, you will have multiple solutions to improve your returns. Supply limited to 10,000 unique NFT and 3D. Taking RiskToEarn more…",
+  "explorer" : "https://snowtrace.io/token/0x245Ab3784C03076eA10460990E6928A5D8A810b1",
+  "type" : "AVA721",
+  "symbol" : "BGAME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x245Ab3784C03076eA10460990E6928A5D8A810b1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/business_gamee"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mGNVCzEC"
+  } ]
+}

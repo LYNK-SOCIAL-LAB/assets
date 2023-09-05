@@ -1,0 +1,19 @@
+{
+  "name" : "StrangeBrew",
+  "website" : "https://strangebrew.xyz/",
+  "description" : "​​The BrewMaster Collection is a proof of concept project demonstrating the value of collaboration between local artists and local business through the use of NFTs. Crypto based payment processing startup StrangeBrew has teamed up with renowned NFT artist Uman to create a collection of unique NFT beers on the Fantom Opera blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x9044948e1a934340766c16f094cC32205d60d1b2",
+  "type" : "FRC721",
+  "symbol" : "SBREW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9044948e1a934340766c16f094cC32205d60d1b2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/StrangeBrewFTM"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ZDQKBkWBea"
+  } ]
+}

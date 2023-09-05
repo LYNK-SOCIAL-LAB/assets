@@ -1,0 +1,19 @@
+{
+  "name" : "MechMinds",
+  "website" : "http://mechminds.ai",
+  "description" : "MechMinds is the first delationary project to combine AI x Blockchain with OpenAI's GPT. Currently leveraging GPT4.\n\nOur AI [Chatbot](https://www.mechminds.ai/chat) lets you talk with your NFT. [Merge](https://www.mechminds.ai/merge) MechMinds to make them smarter & creates a new generative AI NFT. The [supply]( https://www.mechminds.ai/stats) deflates as MechMinds are merged. \n\nCurrent Supply <8192 MechMind robots.\n",
+  "explorer" : "https://etherscan.io/token/0x31d843b99c2c4088cD20D96EF2426673b958Ff70",
+  "type" : "ERC721",
+  "symbol" : "MM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x31d843b99c2c4088cD20D96EF2426673b958Ff70",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MechMindsAI"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/fy2pAd2q3g"
+  } ]
+}

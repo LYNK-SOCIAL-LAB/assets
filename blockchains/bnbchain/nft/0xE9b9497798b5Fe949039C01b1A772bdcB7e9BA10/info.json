@@ -1,0 +1,25 @@
+{
+  "name" : "Gamer NFLs",
+  "website" : "https://gmr.center/nfls",
+  "description" : "Non-Fungible Leets (NFLs) are randomly generated NFTs. Each of 10,000 battle-ready NFLs have inbuilt rarity determiners and are completely unique. If you are fortunate enough to mint one of these NFLs, you will be rewarded a 5% royalty on all future sales of your NFL and gain access to future exclusive areas of the GMR Center.\n",
+  "explorer" : "https://bscscan.com/token/0xE9b9497798b5Fe949039C01b1A772bdcB7e9BA10",
+  "type" : "BEP721",
+  "symbol" : "GNFL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE9b9497798b5Fe949039C01b1A772bdcB7e9BA10",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/GMR_Finance"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/gmrfinance"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/gmrfinance"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/gmrfinanceofficial"
+  } ]
+}

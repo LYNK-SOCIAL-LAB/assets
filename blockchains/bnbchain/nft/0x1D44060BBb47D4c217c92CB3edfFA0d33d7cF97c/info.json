@@ -1,0 +1,19 @@
+{
+  "name" : "The Crypto You-Bitcoin Holder",
+  "website" : "https://thecryptoyou.io/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x1D44060BBb47D4c217c92CB3edfFA0d33d7cF97c",
+  "type" : "BEP721",
+  "symbol" : "Shiller",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1D44060BBb47D4c217c92CB3edfFA0d33d7cF97c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheCryptoYou"
+  }, {
+    "name" : "medium",
+    "url" : "https://thecryptoyou.medium.com/"
+  } ]
+}

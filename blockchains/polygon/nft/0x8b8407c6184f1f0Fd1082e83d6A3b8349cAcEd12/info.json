@@ -1,0 +1,13 @@
+{
+  "name" : "Emblem Vault V2",
+  "website" : "https://emblem.finance",
+  "description" : "Trade Mainnet Tokens on Matic with a wallet inside an NFT!\r\n\r\nAn entire wallet inside an NFT. Emblem Vaults are containers of assets. Transfer / Gift / Sell entire collections of tokens and assets by transferring the NFT.",
+  "explorer" : "https://polygonscan.com/token/0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
+  "type" : "PRC721",
+  "symbol" : "Emblem.pro",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
+  "tags" : null,
+  "links" : [ ]
+}

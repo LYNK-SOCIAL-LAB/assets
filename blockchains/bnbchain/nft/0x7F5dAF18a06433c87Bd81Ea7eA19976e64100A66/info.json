@@ -1,0 +1,22 @@
+{
+  "name" : "OG NFT",
+  "website" : "https://app.latteswap.com/swap",
+  "description" : "A caffeine-filled, NFT-integrated DEX platform on Binance Smart Chain #BSC\n",
+  "explorer" : "https://bscscan.com/token/0x7F5dAF18a06433c87Bd81Ea7eA19976e64100A66",
+  "type" : "BEP721",
+  "symbol" : "LOG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7F5dAF18a06433c87Bd81Ea7eA19976e64100A66",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/latteswapOG"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ZbhaHqUFYr"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/LatteSwapOG"
+  } ]
+}

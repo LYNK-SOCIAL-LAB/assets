@@ -1,0 +1,16 @@
+{
+  "name" : "Murakami.Flowers Seed",
+  "website" : "https://murakamiflowers.kaikaikiki.com",
+  "description" : "Murakami.Flowers is a work in which artist Takashi Murakami’s representative artwork, flowers, are expressed as dot art evocative of Japanese TV games created in the 1970s. The work is being developed with the number 108 as the keyword; a combination of 108 backgrounds and flower colors make up a field, and there are 108 fields. Each field has 108 flower images, resulting in 11,664 flower images in total. The number 108 is a reference to bonnō, or earthly temptations.\r\n\r\nMurakami.Flowers NFTs are subject to the Collector Terms available here: https://murakamiflowers.kaikaikiki.com/collector.html. If you buy a Murakami.Flowers NFT, you do not receive commercial rights in the corresponding artwork.\r\n\r\n©Takashi Murakami/Kaikai Kiki Co., Ltd. All Rights Reserved.",
+  "explorer" : "https://etherscan.io/token/0x341A1c534248966c4b6AFaD165B98DAED4B964ef",
+  "type" : "ERC1155",
+  "symbol" : "SEED",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x341A1c534248966c4b6AFaD165B98DAED4B964ef",
+  "tags" : null,
+  "links" : [ {
+    "name" : "instagram",
+    "url" : "murakami.flower2022"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "PepeTarot Cards: Edition 1",
+  "website" : "https://foracle.art/",
+  "description" : "fOracle presents PepeTarot Edition 1 /// 1111 handmade, animated PepeTarot cards.",
+  "explorer" : "https://ftmscan.com/token/0x97fBA89cBf08D1BfEEdF9bd561Ff464a0A9b8038",
+  "type" : "FRC721",
+  "symbol" : "PTC1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x97fBA89cBf08D1BfEEdF9bd561Ff464a0A9b8038",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/fOracle_"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/XsbMBAAV2a"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "ENS",
+  "website" : "https://ens.domains",
+  "description" : "Ethereum Name Service (ENS) domains are secure domain names for the decentralized world. ENS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Ethereum addresses, IPFS hashes, or website URLs. ENS domains can be bought and sold on secondary markets.",
+  "explorer" : "https://etherscan.io/token/0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+  "type" : "ERC721",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ensdomains"
+  }, {
+    "name" : "medium",
+    "url" : "the-ethereum-name-service"
+  } ]
+}

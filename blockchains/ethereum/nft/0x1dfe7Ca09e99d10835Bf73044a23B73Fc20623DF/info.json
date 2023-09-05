@@ -1,0 +1,13 @@
+{
+  "name" : "More Loot",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://etherscan.io/token/0x1dfe7Ca09e99d10835Bf73044a23B73Fc20623DF",
+  "type" : "ERC721",
+  "symbol" : "MLOOT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1dfe7Ca09e99d10835Bf73044a23B73Fc20623DF",
+  "tags" : null,
+  "links" : [ ]
+}

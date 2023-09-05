@@ -1,0 +1,16 @@
+{
+  "name" : "Fantums",
+  "website" : "https://fantums.com/",
+  "description" : "Operatic Crypto Collectibles",
+  "explorer" : "https://ftmscan.com/token/0x0C600D41b9C7656e60C0bf76D79B1532b4770D0C",
+  "type" : "FRC721",
+  "symbol" : "FUM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0C600D41b9C7656e60C0bf76D79B1532b4770D0C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantumsOfOpera"
+  } ]
+}

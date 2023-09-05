@@ -1,0 +1,13 @@
+{
+  "name" : "Golden Token",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x76d4415947b6BBA3B37B3a93C3869dCEf84E19E6",
+  "type" : "AVA721",
+  "symbol" : "GT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x76d4415947b6BBA3B37B3a93C3869dCEf84E19E6",
+  "tags" : null,
+  "links" : [ ]
+}

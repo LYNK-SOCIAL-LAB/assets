@@ -1,0 +1,16 @@
+{
+  "name" : "fantompunks",
+  "website" : "https://ftmpunks.com",
+  "description" : "FTM Punks are cryptopunks of Fantom opera blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x46327Fd53E6e1e7c2b341589bbb8b94F7f65902c",
+  "type" : "FRC721",
+  "symbol" : "fantompunks",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x46327Fd53E6e1e7c2b341589bbb8b94F7f65902c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Ftmpunks721"
+  } ]
+}

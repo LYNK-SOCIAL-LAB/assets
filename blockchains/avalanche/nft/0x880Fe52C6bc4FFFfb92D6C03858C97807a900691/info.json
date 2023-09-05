@@ -1,0 +1,19 @@
+{
+  "name" : "Party Animals",
+  "website" : "https://partyanimals.xyz/",
+  "description" : "Avalanche Party Animals is a collection of 10,000 unique, NFTs, who are\nbreaking the dance floor on the Avalanche Blockchain and can’t wait to\nfinally enter the Party Animals Mansion. APA are based on the unofficial\nAvalanche mascot, Wolfie. We hope to bring it to its rightful place as\nthe official mascot and by doing so, also bring recognition to the\nplatform. Each Party Animal is hand-drawn by our talented artist and is\nrandomly generated from numerous of assets. All of them are unique, but\nsome are simply legendary.",
+  "explorer" : "https://snowtrace.io/token/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691",
+  "type" : "AVA721",
+  "symbol" : "APA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x880Fe52C6bc4FFFfb92D6C03858C97807a900691",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/apa_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/2DVApHQsn4"
+  } ]
+}

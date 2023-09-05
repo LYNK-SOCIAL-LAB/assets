@@ -1,0 +1,19 @@
+{
+  "name" : "GFCGenesisWeapon",
+  "website" : "https://galaxyfightclub.com/",
+  "description" : "[OG Fighters](https://opensea.io/collection/galaxy-fight-club) | [Gen 2s](https://opensea.io/collection/gfc-gen-2-fighters) | [Keys](https://opensea.io/collection/gfcgenesiskey) | [Mystery Items](https://opensea.io/collection/gfc-genesis-mystery-item) | [GFC <> BYOPills](https://opensea.io/collection/gfc-x-byopills) | [Holiday Items](https://opensea.io/collection/gfc-holiday-items) | [Companions](https://opensea.io/collection/gfc-companion)",
+  "explorer" : "https://polygonscan.com/token/0xCbc964dd716F07b4965B4526E30541a66F414ccF",
+  "type" : "PRC1155",
+  "symbol" : "GFCGW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xCbc964dd716F07b4965B4526E30541a66F414ccF",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GalaxyFight_NFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/tbhXh5bYRG"
+  } ]
+}

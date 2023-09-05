@@ -1,0 +1,13 @@
+{
+  "name" : "Artion",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://ftmscan.com/token/0x61aF4D29f672E27a097291F72fc571304BC93521",
+  "type" : "FRC721",
+  "symbol" : "ART",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x61aF4D29f672E27a097291F72fc571304BC93521",
+  "tags" : null,
+  "links" : [ ]
+}

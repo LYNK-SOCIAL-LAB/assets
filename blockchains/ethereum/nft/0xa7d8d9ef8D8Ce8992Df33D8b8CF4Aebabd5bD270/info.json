@@ -1,0 +1,22 @@
+{
+  "name" : "Art Blocks",
+  "website" : "https://artblocks.io",
+  "description" : "Art Blocks is dedicated to bringing compelling works of contemporary generative art to life. We unite artists, collectors, and blockchain technology in service of groundbreaking artwork and remarkable experiences.",
+  "explorer" : "https://etherscan.io/token/0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270",
+  "type" : "ERC721",
+  "symbol" : "BLOCKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa7d8d9ef8D8Ce8992Df33D8b8CF4Aebabd5bD270",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/artblocks_io"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/artblocks"
+  }, {
+    "name" : "instagram",
+    "url" : "artblocks_io"
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "Wastelands",
+  "website" : "https://flywheel.battlefly.game/nfts/wastelands",
+  "description" : "Wastelands are a collection of 200 unique art that represent nature reclaiming abandoned cities, industrial sites, and other constructions in the BattleFly world. BattleFlys scavenge the technological remains for use in future battles",
+  "explorer" : "https://arbiscan.io/token/0xB8C465243b405A5908dc2A664535025b5BA5BaC0",
+  "type" : "ARC721",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xB8C465243b405A5908dc2A664535025b5BA5BaC0",
+  "tags" : null,
+  "links" : [ ]
+}

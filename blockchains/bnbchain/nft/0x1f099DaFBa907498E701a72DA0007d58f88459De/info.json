@@ -1,0 +1,25 @@
+{
+  "name" : "MetaWars Planet",
+  "website" : "https://metawars.gg/",
+  "description" : "MetaWars is a multiplayer strategy / roleplaying game with a vast universe powered by a growing digital economy built on blockchain technology. Choose your own path using a vast collection of NFTs and impact every major event across the Galaxy. As Battles rage and governments fall, it is up to you to earn your share of the vast fortunes that await.\n",
+  "explorer" : "https://bscscan.com/token/0x1f099DaFBa907498E701a72DA0007d58f88459De",
+  "type" : "BEP721",
+  "symbol" : "METAWARS PLANET",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1f099DaFBa907498E701a72DA0007d58f88459De",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/MetaWarsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/tRepNVwRHe"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/MetaWarsNFT"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@MetaWarsNFT"
+  } ]
+}

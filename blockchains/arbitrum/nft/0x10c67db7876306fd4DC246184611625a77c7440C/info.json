@@ -1,0 +1,16 @@
+{
+  "name" : "Vest <> Arbitrum AMA",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x10c67db7876306fd4DC246184611625a77c7440C",
+  "type" : "ARC721",
+  "symbol" : "VESTARB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x10c67db7876306fd4DC246184611625a77c7440C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/VestExchange"
+  } ]
+}

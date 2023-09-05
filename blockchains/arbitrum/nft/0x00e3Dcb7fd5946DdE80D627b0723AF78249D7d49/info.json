@@ -1,0 +1,19 @@
+{
+  "name" : "FederalFrens",
+  "website" : "https://federalfrens.xyz",
+  "description" : "A fun, utility NFT collection. 690 Federal Frens living on Arbitrum.",
+  "explorer" : "https://arbiscan.io/token/0x00e3Dcb7fd5946DdE80D627b0723AF78249D7d49",
+  "type" : "ARC721",
+  "symbol" : "FF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x00e3Dcb7fd5946DdE80D627b0723AF78249D7d49",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FederalFrensNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/qRRdD6jdrs"
+  } ]
+}

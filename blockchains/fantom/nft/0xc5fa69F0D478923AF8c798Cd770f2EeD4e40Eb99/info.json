@@ -1,0 +1,19 @@
+{
+  "name" : "FantomRock",
+  "website" : "https://fantomrock.com/",
+  "description" : "Pet Rocks On The Fantom Blockchain! Get your Rocks off, like everything on Fantom, FantomRock is just better!",
+  "explorer" : "https://ftmscan.com/token/0xc5fa69F0D478923AF8c798Cd770f2EeD4e40Eb99",
+  "type" : "FRC721",
+  "symbol" : "ROCK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc5fa69F0D478923AF8c798Cd770f2EeD4e40Eb99",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantomRock"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/rzuAD6Vqm7"
+  } ]
+}

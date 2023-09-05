@@ -1,0 +1,22 @@
+{
+  "name" : "Apollox",
+  "website" : "https://www.apollox.com",
+  "description" : "Trade crypto futures safely & easily. Designed and powered by crypto enthusiasts and traders. ? Join the community http://t.me/apolloxchange",
+  "explorer" : "https://bscscan.com/token/0x05894b0c44F8BB067885f97e53aCBDBe6D9987C1",
+  "type" : "BEP721",
+  "symbol" : "Apollox",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x05894b0c44F8BB067885f97e53aCBDBe6D9987C1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/ApolloX_com"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/apolloxchange"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/apollox_com"
+  } ]
+}

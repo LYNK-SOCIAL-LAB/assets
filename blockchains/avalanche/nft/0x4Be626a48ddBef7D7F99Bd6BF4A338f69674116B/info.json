@@ -1,0 +1,19 @@
+{
+  "name" : "Far West Games",
+  "website" : "https://app.farwestgames.com",
+  "description" : "Far West Games is a P2E/R2E game on the AVAX blockchain where Indians and Cowboys fight for $GOLD.",
+  "explorer" : "https://snowtrace.io/token/0x4Be626a48ddBef7D7F99Bd6BF4A338f69674116B",
+  "type" : "AVA721",
+  "symbol" : "FWG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4Be626a48ddBef7D7F99Bd6BF4A338f69674116B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/FarWestGames"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/far-west-games"
+  } ]
+}

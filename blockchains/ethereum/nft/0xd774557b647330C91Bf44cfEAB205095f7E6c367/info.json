@@ -1,0 +1,16 @@
+{
+  "name" : "Nakamigos",
+  "website" : "https://nakamigos.io/",
+  "description" : "20,000 unique crypto investors on the blockchain with commercial rights. Twitter: [@Nakamigos](https://twitter.com/Nakamigos).",
+  "explorer" : "https://etherscan.io/token/0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+  "type" : "ERC721",
+  "symbol" : "NKMGS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Nakamigos"
+  } ]
+}

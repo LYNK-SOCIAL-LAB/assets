@@ -1,0 +1,16 @@
+{
+  "name" : "Power Goools",
+  "website" : "https://riotgoools.com/",
+  "description" : "444 Power Goools. Go go power goools! Racing through the Gooolniverse!",
+  "explorer" : "https://ftmscan.com/token/0x98ABB0Aa746a1e35FE54b522a12164ea1E034e96",
+  "type" : "FRC721",
+  "symbol" : "pGOOOL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x98ABB0Aa746a1e35FE54b522a12164ea1E034e96",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@riotgoools"
+  } ]
+}

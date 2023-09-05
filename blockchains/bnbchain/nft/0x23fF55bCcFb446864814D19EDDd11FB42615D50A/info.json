@@ -1,0 +1,25 @@
+{
+  "name" : "Mines of Dalarnia Canary Birds Collection",
+  "website" : "https://www.minesofdalarnia.com/",
+  "description" : "? Mines of Dalarnia is a free-to-play #blockchain action-adventure platform-mining ⛏ game\n",
+  "explorer" : "https://bscscan.com/token/0x23fF55bCcFb446864814D19EDDd11FB42615D50A",
+  "type" : "BEP721",
+  "symbol" : "CANARY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x23fF55bCcFb446864814D19EDDd11FB42615D50A",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://mobile.twitter.com/minesofdalarnia"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/dZaVUMy"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/MinesOfDalarnia"
+  }, {
+    "name" : "medium",
+    "url" : "https://minesofdalarnia.medium.com/"
+  } ]
+}

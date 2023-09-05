@@ -1,0 +1,16 @@
+{
+  "name" : "Smol Car",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://arbiscan.io/token/0xB16966daD2B5a5282b99846B23dcDF8C47b6132C",
+  "type" : "ARC721",
+  "symbol" : "VROOM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xB16966daD2B5a5282b99846B23dcDF8C47b6132C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/smolbrainsnft"
+  } ]
+}

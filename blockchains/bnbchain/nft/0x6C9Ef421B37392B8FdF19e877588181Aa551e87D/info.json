@@ -1,0 +1,13 @@
+{
+  "name" : "GMPD Bots",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x6C9Ef421B37392B8FdF19e877588181Aa551e87D",
+  "type" : "BEP721",
+  "symbol" : "GMPD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6C9Ef421B37392B8FdF19e877588181Aa551e87D",
+  "tags" : null,
+  "links" : [ ]
+}

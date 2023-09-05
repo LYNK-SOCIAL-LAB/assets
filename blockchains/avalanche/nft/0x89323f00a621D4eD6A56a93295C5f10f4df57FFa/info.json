@@ -1,0 +1,22 @@
+{
+  "name" : "Universe Ecosystem",
+  "website" : "https://univ.money/",
+  "description" : "Universe $UNIV is an innovative DaaS on Avalanche. Passive income from a high APY, NFTs, sustainability & metaverse.",
+  "explorer" : "https://snowtrace.io/token/0x89323f00a621D4eD6A56a93295C5f10f4df57FFa",
+  "type" : "AVA721",
+  "symbol" : "PLANET",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x89323f00a621D4eD6A56a93295C5f10f4df57FFa",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/univmoney"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.univ.money/"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/univmoney"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Ganland GALXE",
+  "website" : "https://ganland.io/",
+  "description" : "The OFFICIAL Ganland collection for [GALXE](https://galxe.com/) NFTs --- Ganland is embarking on the open seas of the ether via layer 2 blockchains and limited nft editions.\n\nCollect each NFT along the way.",
+  "explorer" : "https://optimistic.etherscan.io/token/0xC66A1EE3be858E7041DdA9bd1Ea2fbd3ce07F63e",
+  "type" : "OP721",
+  "symbol" : "GANLANDGALXE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC66A1EE3be858E7041DdA9bd1Ea2fbd3ce07F63e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GanlandNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/wPQYegdMSW"
+  } ]
+}

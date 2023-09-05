@@ -1,0 +1,16 @@
+{
+  "name" : "Lens Protocol Profiles",
+  "website" : "https://lens.xyz/",
+  "description" : "Planted in this collection, you’ll find all the Lens Protocol Profile NFTs that have been claimed so far. By owning a Lens Profile NFT, you are in control. You can choose where and how you use it. Welcome to a new era of decentralized social media, welcome to Lens!",
+  "explorer" : "https://polygonscan.com/token/0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d",
+  "type" : "PRC721",
+  "symbol" : "LPP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/lensprotocol"
+  } ]
+}

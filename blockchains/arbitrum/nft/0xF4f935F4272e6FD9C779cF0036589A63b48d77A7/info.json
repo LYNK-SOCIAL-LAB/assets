@@ -1,0 +1,22 @@
+{
+  "name" : "Blueberry Lab Items",
+  "website" : "https://blueberry.club/p/lab",
+  "description" : "Customise your GMX Blueberry Club NFT with on-chain wearable",
+  "explorer" : "https://arbiscan.io/token/0xF4f935F4272e6FD9C779cF0036589A63b48d77A7",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF4f935F4272e6FD9C779cF0036589A63b48d77A7",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GBlueberryClub"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/invite/7ZMmeU3z9j"
+  }, {
+    "name" : "instagram",
+    "url" : "blueberrylab.eth"
+  } ]
+}

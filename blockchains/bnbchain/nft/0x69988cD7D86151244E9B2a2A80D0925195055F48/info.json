@@ -1,0 +1,22 @@
+{
+  "name" : "Cake Monster Diamond Claw NFT",
+  "website" : "https://cake.monster/",
+  "description" : "Cake Monster - Diamond Claw (Limited Edition 1st Gen 3D) empowers holders of $MONSTA to earn frequent rewards by managing the Cake Monster protocol. Different NFT levels come with different benefits!\n",
+  "explorer" : "https://bscscan.com/token/0x69988cD7D86151244E9B2a2A80D0925195055F48",
+  "type" : "BEP721",
+  "symbol" : "CMNFTDC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x69988cD7D86151244E9B2a2A80D0925195055F48",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/thecakemnstr"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/cakemnstr"
+  }, {
+    "name" : "medium",
+    "url" : "https://cakemonster.medium.com/"
+  } ]
+}

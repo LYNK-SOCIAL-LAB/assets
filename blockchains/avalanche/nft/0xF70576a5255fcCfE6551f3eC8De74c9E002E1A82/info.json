@@ -1,0 +1,19 @@
+{
+  "name" : "AVAX PUNKS cda2b4",
+  "website" : "https://avaxpunks.com",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0xF70576a5255fcCfE6551f3eC8De74c9E002E1A82",
+  "type" : "AVA721",
+  "symbol" : "PUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF70576a5255fcCfE6551f3eC8De74c9E002E1A82",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/avaxpunks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/vAscsaCTkK"
+  } ]
+}

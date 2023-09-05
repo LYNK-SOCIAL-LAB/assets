@@ -1,0 +1,19 @@
+{
+  "name" : "Adventurers of the Void",
+  "website" : "https://www.rlm.land/",
+  "description" : "Adventurers of the Void are the population of the Realmverse. Start off as one of the six Archetypes and Transcend into NEW Variants every month.\nhttps://app.rlm.land/adventurers\n\n---\n\nRealm (REALMVERSE) is a World-Building and Exploration game rooted in GameFi.\nhttps://opensea.io/collection/rlmverse",
+  "explorer" : "https://arbiscan.io/token/0x747910B74D2651A06563C3182838EAE4120F4277",
+  "type" : "ARC721",
+  "symbol" : "AoV",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x747910B74D2651A06563C3182838EAE4120F4277",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/rlmverse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/realmverse"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "CATGIRL ACADEMIA",
+  "website" : "https://catgirlacademia.com/",
+  "description" : "6969 Dreamy catgirls of all types are waiting for YOU to own them. As virtual space becomes the reality, this unmissable opportunity becomes even more valuable!",
+  "explorer" : "https://etherscan.io/token/0xa5D37c0364b9E6D96EE37E03964E7aD2b33a93F4",
+  "type" : "ERC721",
+  "symbol" : "CAT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa5D37c0364b9E6D96EE37E03964E7aD2b33a93F4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/catgirlacademia"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/kRR6wxZu"
+  } ]
+}

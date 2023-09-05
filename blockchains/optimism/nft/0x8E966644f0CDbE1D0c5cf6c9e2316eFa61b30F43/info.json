@@ -1,0 +1,16 @@
+{
+  "name" : "OxFox",
+  "website" : null,
+  "description" : "What are OxFox? OxFox is an NFT project consisting of 10,000 Foxs of all kinds; aliens, astronauts, superheroes and more. Within the collection of OxFox have been randomly generated with more than 100 different attributes. ",
+  "explorer" : "https://optimistic.etherscan.io/token/0x8E966644f0CDbE1D0c5cf6c9e2316eFa61b30F43",
+  "type" : "OP721",
+  "symbol" : "OXF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8E966644f0CDbE1D0c5cf6c9e2316eFa61b30F43",
+  "tags" : null,
+  "links" : [ {
+    "name" : "instagram",
+    "url" : "oxpolynft"
+  } ]
+}

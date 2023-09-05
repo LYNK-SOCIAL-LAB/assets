@@ -1,0 +1,25 @@
+{
+  "name" : "DeRace Horses",
+  "website" : "http://derace.com",
+  "description" : "DeRace is a NFT horse racing metaverse based on blockchain.\n\nRace & equip your NFT horses, breed horses with unique characteristics, host races in your own NFT hippodrome, complete missions, collect sugar cubes, trade chests and many more!",
+  "explorer" : "https://polygonscan.com/token/0x9d77cb4D8371736e2A2b2bfAa677b7841cDc8fC1",
+  "type" : "PRC721",
+  "symbol" : "DRCHRS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9d77cb4D8371736e2A2b2bfAa677b7841cDc8fC1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DeRaceNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/JjGDRqVSY7"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/DeRaceNFT"
+  }, {
+    "name" : "medium",
+    "url" : "deracenft"
+  } ]
+}

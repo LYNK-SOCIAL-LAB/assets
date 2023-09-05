@@ -1,0 +1,13 @@
+{
+  "name" : "NFT1",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x719C595e9593F361290Ea57c7c357Bec847DD80b",
+  "type" : "PRC721",
+  "symbol" : "NFT1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x719C595e9593F361290Ea57c7c357Bec847DD80b",
+  "tags" : null,
+  "links" : [ ]
+}

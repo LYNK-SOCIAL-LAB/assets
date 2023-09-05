@@ -1,0 +1,13 @@
+{
+  "name" : "Optimistic Cat",
+  "website" : null,
+  "description" : "There is optimistic cat😺 He came to help you to pass Optimistic Quest! There is the quest - https://app.optimism.io/quests/quix-nft",
+  "explorer" : "https://optimistic.etherscan.io/token/0x194f10d4976F033F0e8802383c9a2997B92A1354",
+  "type" : "OP721",
+  "symbol" : "CAT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x194f10d4976F033F0e8802383c9a2997B92A1354",
+  "tags" : null,
+  "links" : [ ]
+}

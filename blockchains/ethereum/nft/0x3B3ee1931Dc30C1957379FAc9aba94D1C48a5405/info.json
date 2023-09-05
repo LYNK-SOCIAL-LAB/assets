@@ -1,0 +1,16 @@
+{
+  "name" : "Foundation",
+  "website" : "https://foundation.app/",
+  "description" : "Foundation is building the new creative economy. Create, explore & collect digital art NFTs.",
+  "explorer" : "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
+  "type" : "ERC721",
+  "symbol" : "FNDNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
+  "tags" : null,
+  "links" : [ {
+    "name" : "instagram",
+    "url" : "withfoundation"
+  } ]
+}

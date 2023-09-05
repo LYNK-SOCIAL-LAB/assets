@@ -1,0 +1,19 @@
+{
+  "name" : "Fantom Citadel",
+  "website" : "https://citadels.fantomwaifus.com/",
+  "description" : "Citadels exclusively on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x8aC28989c385D83e1a70071e78E78e46897C536E",
+  "type" : "FRC721",
+  "symbol" : "CITADEL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8aC28989c385D83e1a70071e78E78e46897C536E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantomWaifus"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Cr5bGwtQWk"
+  } ]
+}

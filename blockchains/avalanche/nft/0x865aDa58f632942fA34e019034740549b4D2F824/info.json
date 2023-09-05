@@ -1,0 +1,19 @@
+{
+  "name" : "BattleBoobas cdc6d1",
+  "website" : "https://www.battleboobas.com/",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x865aDa58f632942fA34e019034740549b4D2F824",
+  "type" : "AVA721",
+  "symbol" : "BOOB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x865aDa58f632942fA34e019034740549b4D2F824",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/BattleBoobas"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/3V3AGbgFCk"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "TOACLUB",
+  "website" : "http://www.teensonacid.com",
+  "description" : "Welcome to the TOA Club from Josh Thorsen, founder of Teens On Acid. 99 hand-drawn 1/1 trading cards that serve perfectly as your new pfp. Collect as many as you want or choose just one that best represents you. With 5 rarities available, there's a Teens on Acid character for all of us. At the full sale of the set, all holders will get exclusive access to a prism version of their card. Real world prints rewards are also in consideration.",
+  "explorer" : "https://ftmscan.com/token/0x51081a152db09d3FfF75807329A3A8b538eCf73b",
+  "type" : "FRC721",
+  "symbol" : "TOACLB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x51081a152db09d3FfF75807329A3A8b538eCf73b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@teensonacid"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/rbz7CvxBKg"
+  } ]
+}

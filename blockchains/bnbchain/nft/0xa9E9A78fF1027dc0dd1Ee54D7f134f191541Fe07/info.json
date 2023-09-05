@@ -1,0 +1,22 @@
+{
+  "name" : "Frontera",
+  "website" : "https://frontera.games/",
+  "description" : "Frontera is an NFT metaverse play to earn game where users can not only own NFTs but also level up, evolve them, and engage in battle vs bots and other players. For in-game transactions, it will utilise the $TOKO token, which is the native token of Tokoin, an established partner of Frontera which is listed on the global top 5 exchange KuCoin.",
+  "explorer" : "https://bscscan.com/token/0xa9E9A78fF1027dc0dd1Ee54D7f134f191541Fe07",
+  "type" : "BEP721",
+  "symbol" : "HERO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa9E9A78fF1027dc0dd1Ee54D7f134f191541Fe07",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/FronteraNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/PZwzYbEnuT"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@fronteranft"
+  } ]
+}

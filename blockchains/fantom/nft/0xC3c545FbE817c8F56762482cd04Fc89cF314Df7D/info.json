@@ -1,0 +1,13 @@
+{
+  "name" : "TankWarsZone NFT",
+  "website" : "https://tankwars.zone",
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0xC3c545FbE817c8F56762482cd04Fc89cF314Df7D",
+  "type" : "FRC721",
+  "symbol" : "TANK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC3c545FbE817c8F56762482cd04Fc89cF314Df7D",
+  "tags" : null,
+  "links" : [ ]
+}

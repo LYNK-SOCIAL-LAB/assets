@@ -1,0 +1,22 @@
+{
+  "name" : "CyberKongz",
+  "website" : "http://cyberkongz.com",
+  "description" : "Welcome to an alternate reality, where evolution took a different route and weird apes roam the earth.\nSome appear normal. Some look weird. And some are just damn cool! \nEvery CyberKong is unique and owns randomized items with different rarities. A few are super rare and even animated!\n**Maybe some of them look familiar!**  \n   \n[More CyberKongz Collections!](https://opensea.io/category/cyberkongz-nfts)  \n[Website](https://cyberkongz.com) | [Discord](https://discord.gg/cyberkongz)",
+  "explorer" : "https://etherscan.io/token/0x57a204AA1042f6E66DD7730813f4024114d74f37",
+  "type" : "ERC721",
+  "symbol" : "KONGZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x57a204AA1042f6E66DD7730813f4024114d74f37",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CyberKongz"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cyberkongz"
+  }, {
+    "name" : "medium",
+    "url" : "cyberkongz"
+  } ]
+}

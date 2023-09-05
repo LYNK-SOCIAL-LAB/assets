@@ -1,0 +1,95 @@
+{
+    "deletes":[],
+    "actives": [
+        {
+            "name": "Compound",
+            "intro": "Compound is a DeFi lending protocol that allows users to earn interest on their cryptocurrencies by depositing them into one of several pools supported by the platform.",
+            "logo": "https://assets.lynk.social/dapps/icon/compound.png",
+            "url": "https://compound.finance",
+            "networks": "ethereum,arbitrum,polygon",
+            "tags": "DEFI,HOT",
+            "sorts": "0"
+        },
+        {
+            "name": "Curve Finance",
+            "intro": "Curve Finance is a decentralized liquidity pool for stablecoin trading. Instead of an order book, it uses an AMM (automated market maker) model to match liquidity.",
+            "logo": "https://assets.lynk.social/dapps/icon/curve.png",
+            "url": "https://www.curve.fi",
+            "networks": "ethereum,optimism,polygon,arbitrum,avalanche",
+            "tags": "DEFI,HOT",
+            "sorts": "1"
+        },
+        {
+            "name": "Aave",
+            "intro": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
+            "logo": "https://assets.lynk.social/dapps/icon/aave.png",
+            "url": "https://aave.com",
+            "networks": "ethereum,optimism,polygon,arbitrum,avalanche,fantom",
+            "tags": "DEFI,HOT",
+            "sorts": "2"
+        },
+        {
+            "name": "MakerDAO",
+            "intro": "MakerDAO is a decentralized organization for borrowing savings, and a stable cryptocurrency. ",
+            "logo": "https://assets.lynk.social/dapps/icon/makerdao.png",
+            "url": "https://makerdao.com",
+            "networks": "ethereum",
+            "tags": "DEFI,HOT",
+            "sorts": "3"
+        },
+        {
+            "name": "Cream",
+            "intro": "Cream Finance is a decentralized DeFi lending protocol for individuals, institutions and protocols to access financial services. Part of the yearn.finance ecosystem, C.R.E.A.M. Finance is a permissionless, open source and blockchain agnostic protocol serving users on Ethereum, Binance Smart Chain Polygon and Fantom.",
+            "logo": "https://assets.lynk.social/dapps/icon/cream.png",
+            "url": "https://cream.finance",
+            "networks": "ethereum",
+            "tags": "DEFI,HOT",
+            "sorts": "4"
+        },
+        {
+            "name": "Lido",
+            "intro": "Lido DAO is a decentralized autonomous organization (DAO) which provides staking infrastructure for multiple blockchain networks.",
+            "logo": "https://assets.lynk.social/dapps/icon/lido.png",
+            "url": "https://lido.fi",
+            "networks": "ethereum",
+            "tags": "DEFI,HOT",
+            "sorts": "5"
+        },
+        {
+            "name": "Dydx",
+            "intro": "dYdX is the developer of a leading non-custodial decentralized exchange (DEX) focused on advanced crypto products — namely derivatives like crypto perpertuals. dYdX runs on audited smart contracts on blockchains like Ethereum, which eliminates the need of trusted intermediaries.",
+            "logo": "https://assets.lynk.social/dapps/icon/dydxexchange.png",
+            "url": "https://trade.dydx.exchange",
+            "networks": "ethereum",
+            "tags": "DEFI,HOT",
+            "sorts": "6"
+        },
+        {
+            "name": "Sushi",
+            "intro": "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
+            "logo": "https://assets.lynk.social/dapps/icon/sushi.png",
+            "url": "https://www.sushi.com",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
+            "tags": "DEFI,HOT",
+            "sorts": "7"
+        },
+        {
+            "name": "Convex",
+            "intro": "Convex Finance is a DeFi protocol that allows Curve liquidity providers to earn a share of trading fees on Curve without staking liquidity there.",
+            "logo": "https://assets.lynk.social/dapps/icon/convex.png",
+            "url": "https://www.convexfinance.com",
+            "networks": "ethereum,arbitrum,polygon",
+            "tags": "DEFI,HOT",
+            "sorts": "8"
+        },
+        {
+            "name": "Frax",
+            "intro": "The Frax Protocol is the first fractional-algorithmic stablecoin system.",
+            "logo": "https://assets.lynk.social/dapps/icon/frax.png",
+            "url": "https://frax.finance",
+            "networks": "ethereum,bnbchain,polygon,arbitrum,avalanche,fantom",
+            "tags": "DEFI,HOT",
+            "sorts": "9"
+        }
+    ]
+}

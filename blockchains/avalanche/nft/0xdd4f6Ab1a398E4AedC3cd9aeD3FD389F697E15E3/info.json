@@ -1,0 +1,19 @@
+{
+  "name" : "EvoxCapital",
+  "website" : "https://www.evox.capital/",
+  "description" : "We are a new age crypto fund that invests in great teams and amazing\nprojects. Holders of our nft = shareholders of the fund.",
+  "explorer" : "https://snowtrace.io/token/0xdd4f6Ab1a398E4AedC3cd9aeD3FD389F697E15E3",
+  "type" : "AVA721",
+  "symbol" : "EvoxCapital",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xdd4f6Ab1a398E4AedC3cd9aeD3FD389F697E15E3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/evoxcapital"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/evoxcapital"
+  } ]
+}

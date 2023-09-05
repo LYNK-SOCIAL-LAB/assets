@@ -1,0 +1,22 @@
+{
+  "name" : "SuperRare",
+  "website" : "https://superrare.co",
+  "description" : "SuperRare makes it easy to create, sell, and collect rare digital art. SuperRare's smart contract platform allows artists to release limited-edition digital artwork tracked on the blockchain, making the pieces rare, verified, and collectible. Filter the crypto art world's best selling works by artist name, creation type, and year of birth on OpenSea.",
+  "explorer" : "https://etherscan.io/token/0xb932a70A57673d89f4acfFBE830E8ed7f75Fb9e0",
+  "type" : "ERC721",
+  "symbol" : "SUPR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb932a70A57673d89f4acfFBE830E8ed7f75Fb9e0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/superrare"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/superraredao"
+  }, {
+    "name" : "medium",
+    "url" : "SuperRare_co"
+  } ]
+}

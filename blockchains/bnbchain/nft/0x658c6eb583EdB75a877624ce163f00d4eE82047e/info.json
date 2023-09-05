@@ -1,0 +1,25 @@
+{
+  "name" : "FISTIANA Mystery Boxer",
+  "website" : "https://fistiana.org/#/home",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x658c6eb583EdB75a877624ce163f00d4eE82047e",
+  "type" : "BEP721",
+  "symbol" : "Fistiana Box",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x658c6eb583EdB75a877624ce163f00d4eE82047e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/fistianaweb3"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/qFSEyKyqD4"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/fistianaweb3"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@fistianaweb3"
+  } ]
+}

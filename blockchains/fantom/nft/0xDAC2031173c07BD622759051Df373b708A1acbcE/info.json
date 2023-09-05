@@ -1,0 +1,19 @@
+{
+  "name" : "Creatures Of The Cave",
+  "website" : "https://potluckprotocol.com",
+  "description" : "Creatures Of The Cave by Potluck Labs. In Gen 2 will your serum mint a Zombie or a Mutant? Get ready! ",
+  "explorer" : "https://ftmscan.com/token/0xDAC2031173c07BD622759051Df373b708A1acbcE",
+  "type" : "FRC721",
+  "symbol" : "COTC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xDAC2031173c07BD622759051Df373b708A1acbcE",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@potlucklabs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/potluckprotocol"
+  } ]
+}

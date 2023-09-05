@@ -1,0 +1,22 @@
+{
+  "name" : "REVV Racing",
+  "website" : "https://www.revvracing.com/",
+  "description" : "[REVV Racing](https://www.revvracing.com/) is the latest Play-to-Earn\ncompetitive racing metaverse from the REVV Motorsport team. This\necosystem is designed from the ground-up to be cross-chain, utilising\nthe REVV token, and providing collectable and gameplay experiences for\nracing game players - competitive and casual, collectors, and fans of motorsports.",
+  "explorer" : "https://polygonscan.com/token/0x51Ac4A13054D5d7e1FA795439821484177e7E828",
+  "type" : "PRC721",
+  "symbol" : "REVVM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x51Ac4A13054D5d7e1FA795439821484177e7E828",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/REVV_Token"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/t.co/iW8ih4zKVM?amp=1"
+  }, {
+    "name" : "medium",
+    "url" : "revv-token"
+  } ]
+}

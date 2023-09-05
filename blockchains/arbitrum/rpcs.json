@@ -1,0 +1,24 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"42161",
+            "name":"1Rpc",
+            "url":"https://1rpc.io/arb",
+            "selected":1
+        },
+        {
+            "chainId":"42161",
+            "name":"Arbitrum",
+            "url":"https://arb1.arbitrum.io/rpc",
+            "selected":0
+        },
+        {
+            "chainId":"42161",
+            "name":"Ankr",
+            "url":"https://rpc.ankr.com/arbitrum",
+            "selected":0
+        }
+    ]
+}
+

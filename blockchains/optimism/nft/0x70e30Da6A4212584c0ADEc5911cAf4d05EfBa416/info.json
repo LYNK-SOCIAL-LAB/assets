@@ -1,0 +1,13 @@
+{
+  "name" : "PRONFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0x70e30Da6A4212584c0ADEc5911cAf4d05EfBa416",
+  "type" : "OP721",
+  "symbol" : "PFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x70e30Da6A4212584c0ADEc5911cAf4d05EfBa416",
+  "tags" : null,
+  "links" : [ ]
+}

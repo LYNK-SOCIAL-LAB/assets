@@ -1,0 +1,16 @@
+{
+  "name" : "BeraFi: Bong Bears x NFTFi",
+  "website" : "https://mirror.xyz/janitooor.eth/",
+  "description" : "The Honey Jar - your NFT gateway to DeFi\n\nBeraFi: Bong Bears x NFTFi\n\nThe Honey Jar is an unofficial community NFT project, situated at the heart of the Berachain ecosystem, which hosts a number of games.\n\nhttps://mirror.xyz/10/0x093312465e593c65b1f00e0ab8c5885634b2aa83",
+  "explorer" : "https://optimistic.etherscan.io/token/0x093312465E593c65B1F00e0AB8c5885634b2AA83",
+  "type" : "OP721",
+  "symbol" : "BERAFIBONGBEARSXNFTFI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x093312465E593c65B1F00e0AB8c5885634b2AA83",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0xhoneyjar"
+  } ]
+}

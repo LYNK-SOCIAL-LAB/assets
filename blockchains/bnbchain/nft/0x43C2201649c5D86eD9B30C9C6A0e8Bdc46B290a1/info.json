@@ -1,0 +1,25 @@
+{
+  "name" : "Freedom Protocol Baby Eagle NFT",
+  "website" : "https://www.freedomprot.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x43C2201649c5D86eD9B30C9C6A0e8Bdc46B290a1",
+  "type" : "BEP721",
+  "symbol" : "Baby Eagle NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x43C2201649c5D86eD9B30C9C6A0e8Bdc46B290a1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/freedomprot"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/jd8AXDrhVx"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FreedomProt_Group"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@freedomprot"
+  } ]
+}

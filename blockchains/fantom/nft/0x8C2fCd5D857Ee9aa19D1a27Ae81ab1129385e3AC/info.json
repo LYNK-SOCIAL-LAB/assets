@@ -1,0 +1,19 @@
+{
+  "name" : "BitUmans",
+  "website" : "https://mint.worldofumans.com/",
+  "description" : "Bit Umans is a collection of 500 unique Pixel Umans NFTs living on the Fantom Network",
+  "explorer" : "https://ftmscan.com/token/0x8C2fCd5D857Ee9aa19D1a27Ae81ab1129385e3AC",
+  "type" : "FRC721",
+  "symbol" : "BUMAN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8C2fCd5D857Ee9aa19D1a27Ae81ab1129385e3AC",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/worldofumans"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/worldofumans"
+  } ]
+}

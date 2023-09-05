@@ -1,0 +1,16 @@
+{
+  "name" : "Bridgeworld Keys",
+  "website" : "http://bridgeworld.treasure.lol",
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0xf0a35bA261ECE4FC12870e5B7b9E7790202EF9B5",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf0a35bA261ECE4FC12870e5B7b9E7790202EF9B5",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/treasuredao"
+  } ]
+}

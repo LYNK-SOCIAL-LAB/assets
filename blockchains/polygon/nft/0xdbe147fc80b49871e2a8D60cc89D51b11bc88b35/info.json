@@ -1,0 +1,19 @@
+{
+  "name" : "Marines & Aliens Game",
+  "website" : "http://spacenft.game/",
+  "description" : "Space Game is a 100% on-chain collectible based strategy game. All metadata and pixel sprites are generated and stored completely on-chain. No API and IPFS are used.\n\n[Website](https://spacenft.game) | \n[Discord](http://discord.gg/spacegame) |\n[Twitter](https://twitter.com/spacenftdotgame)\n\nMAIN COLLECTION:\n\n[Protoss](https://opensea.io/collection/spacegame-protoss) |\n[MnAv2](https://opensea.io/collection/sgmarinesandaliensv2) | [Spidox](https://opensea.io/collection/sgspidoxdroid) | [Founder Crate](https://opensea.io/collection/sgfounderpass) \n\nEGG COLLECTION: \n\n[Water Egg](https://opensea.io/collection/sgwateregg) | [Fire Egg](https://opensea.io/collection/sgfireegg) | [Poison Egg](https://opensea.io/collection/sgpoisonegg) | [Darkness Egg](https://opensea.io/collection/sgdarknessegg)",
+  "explorer" : "https://polygonscan.com/token/0xdbe147fc80b49871e2a8D60cc89D51b11bc88b35",
+  "type" : "PRC721",
+  "symbol" : "MnA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xdbe147fc80b49871e2a8D60cc89D51b11bc88b35",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/spacenftdotgame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/spacegame"
+  } ]
+}

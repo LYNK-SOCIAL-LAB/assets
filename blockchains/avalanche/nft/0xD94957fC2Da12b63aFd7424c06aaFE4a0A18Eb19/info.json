@@ -1,0 +1,19 @@
+{
+  "name" : "AvaxHomes",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0xD94957fC2Da12b63aFd7424c06aaFE4a0A18Eb19",
+  "type" : "AVA721",
+  "symbol" : "AXHOME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD94957fC2Da12b63aFd7424c06aaFE4a0A18Eb19",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/AvalancheHomes"
+  }, {
+    "name" : "discord",
+    "url" : "discord.gg/UQ2yFXhaA6"
+  } ]
+}

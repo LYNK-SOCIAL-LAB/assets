@@ -1,0 +1,25 @@
+{
+  "name" : "Project Galaxy 2021 End-of-the-year Rave",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x73Bc0bA23cA13Cb9A7FBeda5F661562EF985155E",
+  "type" : "PRC721",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x73Bc0bA23cA13Cb9A7FBeda5F661562EF985155E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/ProjectGalaxyHQ"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/projectgalaxy"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/projectgalaxyHQ"
+  }, {
+    "name" : "medium",
+    "url" : "https://blog.galaxy.eco/"
+  } ]
+}

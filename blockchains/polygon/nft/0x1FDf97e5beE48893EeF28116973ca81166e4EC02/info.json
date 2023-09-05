@@ -1,0 +1,16 @@
+{
+  "name" : "Collab.Land Genesis Membership NFT",
+  "website" : "https://wagmi.collab.land",
+  "description" : "The **Patron NFT** is for fans of the Collab.Land service. Available at https://wagmi.collab.land. \r\n\r\nThis exclusive series of 510 was created especially for Collab.Land patrons by the wonderful and talented [Popil](https://www.opensea.io/popil).\r\n\r\nEnjoy! 💛",
+  "explorer" : "https://polygonscan.com/token/0x1FDf97e5beE48893EeF28116973ca81166e4EC02",
+  "type" : "PRC721",
+  "symbol" : "CLGM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1FDf97e5beE48893EeF28116973ca81166e4EC02",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/collabland"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "Mocaverse Realm Ticket",
+  "website" : "https://mocaverse.xyz/",
+  "description" : "",
+  "explorer" : "https://polygonscan.com/token/0x5c76677feA2bf5Dd37E4F1460968a23a537e3eE3",
+  "type" : "PRC1155",
+  "symbol" : "TICKET",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5c76677feA2bf5Dd37E4F1460968a23a537e3eE3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MocaverseNFT"
+  } ]
+}

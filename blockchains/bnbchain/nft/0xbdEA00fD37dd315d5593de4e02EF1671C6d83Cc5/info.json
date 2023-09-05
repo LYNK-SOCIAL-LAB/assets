@@ -1,0 +1,13 @@
+{
+  "name" : "BlackGodNFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xbdEA00fD37dd315d5593de4e02EF1671C6d83Cc5",
+  "type" : "BEP721",
+  "symbol" : "BlackGodNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbdEA00fD37dd315d5593de4e02EF1671C6d83Cc5",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "Gh0stlyGh0sts",
+  "website" : "http://linktr.ee/gh0stlygh0sts",
+  "description" : "# Gh0stly Gh0sts\n\n is the first Omnichain NFT collection, with native chain traversals powered by Layer Zero Labs. The Gh0sts roam 7 EVM chains:\n\n- Ethereum\n- Arbitrum\n- Optimism\n- Binance Smart Chain\n- Avalanche\n- Polygon\n- Fantom\n\nThis page is for Gh0sts currently roaming the Binance Smart Chain.\n",
+  "explorer" : "https://arbiscan.io/token/0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189",
+  "type" : "ARC721",
+  "symbol" : "gg",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEc1Df7EdFcdC2e2042c63252c1cEF480f64F9189",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/gh0stlygh0sts"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "Trump Digital Trading Cards",
+  "website" : "http://collecttrumpcards.com",
+  "description" : "The First Digital Trading Card by President Trump.\n\nAre you ready to make history? For the first time ever, collect your own Official Trump Digital Trading Cards by President Trump. Incredible, hand-drawn art, inspired by President Trump’s extraordinary life & career.\n\nThe collection features unique Trump Trading Cards, Limited One-of-Ones, Gold & Silver Autographed Cards. Cowboy Trump, Astronaut Trump, Business Trump… Which Trump are you?\n\nLearn more at CollectTrumpCards.com. Follow @realDonaldTrump @CollectTrump on Twitter and Truth Social.\n\nBefore purchasing this Trump Digital Trading Card, please read carefully CollectTrumpCards.com’s Terms Of Service ([bit.ly/3VZXY3g](https://collecttrumpcards.com/terms)) and the Terms & Conditions specific to this NFT ([bit.ly/3hfdIAQ](http://bit.ly/3hfdIAQ)). This explains all your rights and any restrictions.",
+  "explorer" : "https://polygonscan.com/token/0x24A11e702CD90f034Ea44FaF1e180C0C654AC5d9",
+  "type" : "PRC721",
+  "symbol" : "TRUMP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x24A11e702CD90f034Ea44FaF1e180C0C654AC5d9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CollectTrump"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Tiny Dragon cdaa78",
+  "website" : "https://tinydragon.games/",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x2144A0eB052DD991Ec8f34b6a46D2d2Eb765C026",
+  "type" : "AVA721",
+  "symbol" : "TINYDRAGON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2144A0eB052DD991Ec8f34b6a46D2d2Eb765C026",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://t.me/thedragonslairfarm"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/thedragonslairfarm"
+  } ]
+}

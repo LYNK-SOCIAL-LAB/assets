@@ -1,0 +1,13 @@
+{
+  "name" : "Arbibots",
+  "website" : "https://arbibots.xyz/",
+  "description" : "Arbibots are the first fully on-chain NFT project on Arbitrum. Generated and rendered entirely on chain! No centralized server, IPFS or Arweave. All bots come with community extensions, including high resolution renders, 1:1 custom 3d metaverse avatars, and more available at https://arbibots.xyz/",
+  "explorer" : "https://arbiscan.io/token/0xc1fCf330b4B4C773fA7e6835f681E8F798E9eBff",
+  "type" : "ARC721",
+  "symbol" : "BOT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc1fCf330b4B4C773fA7e6835f681E8F798E9eBff",
+  "tags" : null,
+  "links" : [ ]
+}

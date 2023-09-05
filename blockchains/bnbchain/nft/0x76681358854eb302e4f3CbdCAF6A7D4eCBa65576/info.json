@@ -1,0 +1,19 @@
+{
+  "name" : "MathVerse Land",
+  "website" : "https://mathverse.xyz/",
+  "description" : "2,500 lands in the Metaverse created by MATH.",
+  "explorer" : "https://bscscan.com/token/0x76681358854eb302e4f3CbdCAF6A7D4eCBa65576",
+  "type" : "BEP721",
+  "symbol" : "MVL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x76681358854eb302e4f3CbdCAF6A7D4eCBa65576",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MathVerseNFT"
+  }, {
+    "name" : "discord",
+    "url" : "gXSfnk5eP5"
+  } ]
+}

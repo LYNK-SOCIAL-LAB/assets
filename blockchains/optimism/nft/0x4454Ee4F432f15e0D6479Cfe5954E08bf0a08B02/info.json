@@ -1,0 +1,19 @@
+{
+  "name" : "Optimism Name Service",
+  "website" : "https://opns.domains",
+  "description" : "Please aware that we do not sell other NFTs/products, be updated only at opns.domains(https://opns.domains) & [@star_protocol](https://twitter.com/star_protocol)\r\n\r\nOptimism Name Service (.op), the first #Web3 community-driven and decentralized omni-chain naming service supported by [star.co](https://star.co), built on \r\nOptimism. \r\nVisit [opns.domains](https://opns.domains)\r\n to free-mint your first LayerZero powered omni-chain domain NFT today and stay optimistic!  *Limited Time Offer",
+  "explorer" : "https://optimistic.etherscan.io/token/0x4454Ee4F432f15e0D6479Cfe5954E08bf0a08B02",
+  "type" : "OP721",
+  "symbol" : "OPNS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4454Ee4F432f15e0D6479Cfe5954E08bf0a08B02",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/star_protocol"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/KqR8Tr57Kw"
+  } ]
+}

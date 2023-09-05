@@ -1,0 +1,19 @@
+{
+  "name" : "Global Gans",
+  "website" : "https://ganland.io/",
+  "description" : "( 222 ) Images Total ~ 100 % of the royalties are donated to Optimism (retropgf.eth) ~ Together my partner Fractalicia & I (IGLI) have set forth in launching the Global Gans collection for Public Goods. This is a generative art project using A.I. to help enhance the efficiency of thoughts between two key leadership roles responsible for shaping an NFT Visionary art community.",
+  "explorer" : "https://optimistic.etherscan.io/token/0xbb1b0DA320CCC7a677A2FE00871F422e2E505fb1",
+  "type" : "OP721",
+  "symbol" : "GLOBE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbb1b0DA320CCC7a677A2FE00871F422e2E505fb1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GanlandNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/wPQYegdMSW"
+  } ]
+}

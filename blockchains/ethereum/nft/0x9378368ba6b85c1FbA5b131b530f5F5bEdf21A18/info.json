@@ -1,0 +1,22 @@
+{
+  "name" : "VeeFriends Series 2",
+  "website" : "https://series2.veefriends.com",
+  "description" : "[VeeFriends](https://opensea.io/collection/veefriends) Characters have now evolved. Welcome to VeeFriends Series 2!",
+  "explorer" : "https://etherscan.io/token/0x9378368ba6b85c1FbA5b131b530f5F5bEdf21A18",
+  "type" : "ERC721",
+  "symbol" : "VF2",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9378368ba6b85c1FbA5b131b530f5F5bEdf21A18",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/veefriends"
+  }, {
+    "name" : "instagram",
+    "url" : "veefriends"
+  }, {
+    "name" : "medium",
+    "url" : "veefriends"
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "Smart Finance OG-NFT",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x3Fc48ddeCc79B377fA070DF701d6Ae4b809C4a5E",
+  "type" : "AVA721",
+  "symbol" : "OGNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3Fc48ddeCc79B377fA070DF701d6Ae4b809C4a5E",
+  "tags" : null,
+  "links" : [ ]
+}

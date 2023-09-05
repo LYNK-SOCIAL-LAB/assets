@@ -1,0 +1,25 @@
+{
+  "name" : "BasCollectable",
+  "website" : "https://www.blockapescissors.com/",
+  "description" : "Welcome to the jungle! \n\nBAS is a Revolutionary Play to Earn Ecosystem providing utility to NFT's and Crypto Coins through an innovative Gamified Metaverse!",
+  "explorer" : "https://bscscan.com/token/0x4bd2a30435e6624CcDee4C60229250A84a2E4cD6",
+  "type" : "BEP721",
+  "symbol" : "BASC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4bd2a30435e6624CcDee4C60229250A84a2E4cD6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/ApeBlock"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/ksgCut7xqF"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/blockapescissors"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.blockapescissors.com/"
+  } ]
+}

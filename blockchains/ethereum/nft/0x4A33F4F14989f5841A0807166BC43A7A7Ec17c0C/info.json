@@ -1,0 +1,13 @@
+{
+  "name" : "0xy Utility Token",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://etherscan.io/token/0x4A33F4F14989f5841A0807166BC43A7A7Ec17c0C",
+  "type" : "ERC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4A33F4F14989f5841A0807166BC43A7A7Ec17c0C",
+  "tags" : null,
+  "links" : [ ]
+}

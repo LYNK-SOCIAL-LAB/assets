@@ -1,0 +1,13 @@
+{
+  "name" : "ZED RUN",
+  "website" : "https://zed.run/",
+  "description" : "The NFT horse racing game, Zed Run, on Matic network.",
+  "explorer" : "https://polygonscan.com/token/0xA5F1Ea7DF861952863dF2e8d1312f7305dabf215",
+  "type" : "PRC721",
+  "symbol" : "ZED",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA5F1Ea7DF861952863dF2e8d1312f7305dabf215",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "Sindia Army Box",
+  "website" : "https://warsindia.com/",
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x75c1A661ACFCAB15ce04E55B90Eb5C614b25158d",
+  "type" : "ARC721",
+  "symbol" : "SAB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x75c1A661ACFCAB15ce04E55B90Eb5C614b25158d",
+  "tags" : null,
+  "links" : [ ]
+}

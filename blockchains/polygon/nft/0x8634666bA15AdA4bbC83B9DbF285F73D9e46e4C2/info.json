@@ -1,0 +1,19 @@
+{
+  "name" : "Chicken Derby",
+  "website" : "http://chickenderby.com",
+  "description" : "Join the most fun and exciting Ethereum-based game where you can own and race your chicken to earn ETH. Brought by the makers of Ganja Farmer. Play now on Chickenderby.com",
+  "explorer" : "https://polygonscan.com/token/0x8634666bA15AdA4bbC83B9DbF285F73D9e46e4C2",
+  "type" : "PRC721",
+  "symbol" : "CHICKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8634666bA15AdA4bbC83B9DbF285F73D9e46e4C2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/bitlovincom"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/93vHQNG5Ny"
+  } ]
+}

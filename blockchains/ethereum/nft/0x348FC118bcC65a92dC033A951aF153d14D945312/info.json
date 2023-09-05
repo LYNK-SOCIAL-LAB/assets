@@ -1,0 +1,22 @@
+{
+  "name" : "RTFKT - CloneX Mintvial",
+  "website" : "https://rtfkt.com",
+  "description" : "Mint Vials are used to redeem Clone X Avatars.\n 1 Mint Vial = 1 Random Clone.",
+  "explorer" : "https://etherscan.io/token/0x348FC118bcC65a92dC033A951aF153d14D945312",
+  "type" : "ERC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x348FC118bcC65a92dC033A951aF153d14D945312",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RTFKT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/rtfkt"
+  }, {
+    "name" : "instagram",
+    "url" : "rtfktstudios"
+  } ]
+}

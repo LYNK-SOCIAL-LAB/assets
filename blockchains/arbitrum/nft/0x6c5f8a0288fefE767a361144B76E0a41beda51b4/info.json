@@ -1,0 +1,13 @@
+{
+  "name" : "Dopex NFT",
+  "website" : null,
+  "description" : "\"Dopex NFT is a collection of 2190 pieces which were randomly minted and a complement to our 32 Dopex Genesis NFT pieces.\"",
+  "explorer" : "https://arbiscan.io/token/0x6c5f8a0288fefE767a361144B76E0a41beda51b4",
+  "type" : "ARC721",
+  "symbol" : "DopexNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6c5f8a0288fefE767a361144B76E0a41beda51b4",
+  "tags" : null,
+  "links" : [ ]
+}

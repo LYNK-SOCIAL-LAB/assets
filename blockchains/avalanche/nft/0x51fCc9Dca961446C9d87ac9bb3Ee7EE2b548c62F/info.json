@@ -1,0 +1,16 @@
+{
+  "name" : "AVAX TREEZ",
+  "website" : "https://www.avaxtreez.io",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x51fCc9Dca961446C9d87ac9bb3Ee7EE2b548c62F",
+  "type" : "AVA721",
+  "symbol" : "TREEZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x51fCc9Dca961446C9d87ac9bb3Ee7EE2b548c62F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/AvaxTreezNFT"
+  } ]
+}

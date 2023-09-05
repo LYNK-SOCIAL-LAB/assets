@@ -1,0 +1,19 @@
+{
+  "name" : "FantomPocong",
+  "website" : "https://fantompocong.netlify.app/",
+  "description" : "Victims of a mass massacre in an exotic motherland have awakened. They demand justice while haunting their killers. FantomPocong is a not-too-fun NFT collection consisting of 10,000 Pocong with unique traits. Please read the Introduction article before minting or buying. Happy hugging your Pocong!",
+  "explorer" : "https://ftmscan.com/token/0x64B38cc012D21dBB58e21f0D2885e7509cDd4e99",
+  "type" : "FRC721",
+  "symbol" : "POCONG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x64B38cc012D21dBB58e21f0D2885e7509cDd4e99",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@fantompocong"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@fantompocong"
+  } ]
+}

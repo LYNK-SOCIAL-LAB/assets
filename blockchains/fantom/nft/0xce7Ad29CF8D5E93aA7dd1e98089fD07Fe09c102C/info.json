@@ -1,0 +1,19 @@
+{
+  "name" : "FantoPepes",
+  "website" : "https://fantopepes.com",
+  "description" : "A collection of 10,000 unique, randomly generated Pepes on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0xce7Ad29CF8D5E93aA7dd1e98089fD07Fe09c102C",
+  "type" : "FRC721",
+  "symbol" : "FANTOPEPE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xce7Ad29CF8D5E93aA7dd1e98089fD07Fe09c102C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@FantoPepes"
+  }, {
+    "name" : "telegram",
+    "url" : "@FantoPepes"
+  } ]
+}

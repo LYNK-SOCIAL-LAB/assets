@@ -1,0 +1,16 @@
+{
+  "name" : "Gen 1 Partnooorships 101: Very Sweet Perks",
+  "website" : "https://mirror.xyz/janitooor.eth",
+  "description" : "The Honey Jar - your NFT gateway to DeFi\n\nGen 1 Partnooorships 101: Very Sweet Perks\n\nThe Honey Jar is an unofficial community NFT project, situated at the heart of the Berachain ecosystem, which hosts a number of games.\n\nhttps://mirror.xyz/10/0x5ffe4df7c0908232b46edef4ecbbafdb2c1f8cf5",
+  "explorer" : "https://optimistic.etherscan.io/token/0x5FFe4Df7c0908232B46EDeF4EcBBaFdB2C1F8Cf5",
+  "type" : "OP721",
+  "symbol" : "GEN1PARTNOOORSHIPS101VERYSWEETPERKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5FFe4Df7c0908232B46EDeF4EcBBaFdB2C1F8Cf5",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0xhoneyjar"
+  } ]
+}

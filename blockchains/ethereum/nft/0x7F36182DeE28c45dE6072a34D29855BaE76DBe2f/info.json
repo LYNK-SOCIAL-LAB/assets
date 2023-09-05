@@ -1,0 +1,19 @@
+{
+  "name" : "Wolf Game",
+  "website" : "http://wolf.game",
+  "description" : "⚠️ Prospective Purchasers: The Sheep or Wolf you are purchasing may have little Energy and require recharging in a Bathhouse (using WOOL) to play the game.\n\n🔥 Gen 0 & 1 Sheep Burned as of 01/15/22: 501\n\nhttps://game.wolf.game/\n\nThousands of Sheep and Wolves compete on a farm in the metaverse. A tempting prize of WOOL awaits, with deadly high stakes. All the metadata and images are generated and stored 100% on-chain. No IPFS. NO API. Just the Ethereum blockchain.\n\n**View the other official collections:** https://opensea.io/category/wolf-game-ecosystem\n\n- Discord: https://www.discord.gg/wolfgame\n- Twitter: https://www.twitter.com/wolfdotgame\n\n*Your NFTs may win WOOL in the game. WOOL has no other functionality other than within the Wolf Game ecosystem, and it cannot be purchased from The Wolf Game Developers. The Wolf Game Developers do not provide or intend to provide a secondary marketplace for WOOL.*",
+  "explorer" : "https://etherscan.io/token/0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f",
+  "type" : "ERC721",
+  "symbol" : "WGAME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7F36182DeE28c45dE6072a34D29855BaE76DBe2f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/wolfdotgame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/wolfgame"
+  } ]
+}

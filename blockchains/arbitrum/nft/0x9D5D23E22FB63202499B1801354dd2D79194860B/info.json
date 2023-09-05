@@ -1,0 +1,16 @@
+{
+  "name" : "Shogun War",
+  "website" : "http://shogun.lol",
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x9D5D23E22FB63202499B1801354dd2D79194860B",
+  "type" : "ARC721",
+  "symbol" : "Shogun",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9D5D23E22FB63202499B1801354dd2D79194860B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/shogunwar"
+  } ]
+}

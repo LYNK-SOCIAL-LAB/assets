@@ -1,0 +1,19 @@
+{
+  "name" : "TimeFrogs",
+  "website" : "https://www.timefrogs.com/",
+  "description" : "5000 unique Frog NFTs. Your Frog is your ticket to the weekly $TIME\nlottery! Avalanche Network",
+  "explorer" : "https://snowtrace.io/token/0xA1B46ff2a3394b9460B4004F2e7401DeC7f7A023",
+  "type" : "AVA721",
+  "symbol" : "TFROGS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA1B46ff2a3394b9460B4004F2e7401DeC7f7A023",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TimeFrogs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/timefrogs"
+  } ]
+}

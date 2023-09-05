@@ -1,0 +1,19 @@
+{
+  "name" : "Rock",
+  "website" : "https://rock.game",
+  "description" : "Rock Game https://rock.game/ is an on-chain NFT battle simulator on Avalanche. Rock NFTs can be used to play the game to fight enemies and earn $PEBBLE. Upgrade your rock to defeat stronger enemies and gain more pebble, can you be stronger than The Rock himself?",
+  "explorer" : "https://snowtrace.io/token/0x8D01C8ee82E581E55C02117a676B5Bbd4734FABB",
+  "type" : "AVA721",
+  "symbol" : "ROCK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8D01C8ee82E581E55C02117a676B5Bbd4734FABB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/avaxrockgame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/WaKrGrnd"
+  } ]
+}

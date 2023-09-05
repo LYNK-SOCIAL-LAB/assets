@@ -1,0 +1,25 @@
+{
+  "name" : "Liquidifty",
+  "website" : "https://t.co/RaiacTny1T",
+  "description" : "NFT Ecosystem on BSC. Build your own NFT marketplace with a few clicks Fire $LQT.\n",
+  "explorer" : "https://bscscan.com/token/0xEd840De2c93BA3BfaF3d9aa79BfcDC869B77De09",
+  "type" : "BEP1155",
+  "symbol" : "LQT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEd840De2c93BA3BfaF3d9aa79BfcDC869B77De09",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/liquidifty"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/kgPKdU6Y"
+  }, {
+    "name" : "telegram",
+    "url" : "http://t.me/liquidifty"
+  }, {
+    "name" : "instagram",
+    "url" : "http://instagram.com/liquidifty.io"
+  } ]
+}

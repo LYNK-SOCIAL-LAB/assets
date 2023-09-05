@@ -1,0 +1,22 @@
+{
+  "name" : "The Easy Club",
+  "website" : "https://easyblock.finance",
+  "description" : "Official EasyBlock Genesis NFTs | 5000 Limited. <br>All artwork and metadata are fully on-chain and randomly generated at mint. Each NFT grants holders many community benefits and financial advantages under the EasyBlock ecosystem.",
+  "explorer" : "https://ftmscan.com/token/0x5d6f546f2357E84720371A0510f64DBC3FbACe33",
+  "type" : "FRC721",
+  "symbol" : "EASY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5d6f546f2357E84720371A0510f64DBC3FbACe33",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@easyblock_fin"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/easyblock"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/easyblock"
+  } ]
+}

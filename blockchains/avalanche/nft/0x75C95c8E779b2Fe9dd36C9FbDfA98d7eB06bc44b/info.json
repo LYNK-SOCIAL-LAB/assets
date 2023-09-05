@@ -1,0 +1,19 @@
+{
+  "name" : "The Underground cdd275",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x75C95c8E779b2Fe9dd36C9FbDfA98d7eB06bc44b",
+  "type" : "AVA721",
+  "symbol" : "UNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x75C95c8E779b2Fe9dd36C9FbDfA98d7eB06bc44b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/Underground_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/undergroundnft"
+  } ]
+}

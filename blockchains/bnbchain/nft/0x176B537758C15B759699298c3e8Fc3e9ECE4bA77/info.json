@@ -1,0 +1,19 @@
+{
+  "name" : "FGDNFT",
+  "website" : "https://fgd.ai/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x176B537758C15B759699298c3e8Fc3e9ECE4bA77",
+  "type" : "BEP721",
+  "symbol" : "FGDNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x176B537758C15B759699298c3e8Fc3e9ECE4bA77",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FreedomGodDAO"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FGDZYS88888"
+  } ]
+}

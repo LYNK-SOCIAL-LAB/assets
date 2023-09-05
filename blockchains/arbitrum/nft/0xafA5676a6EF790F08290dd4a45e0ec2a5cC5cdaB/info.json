@@ -1,0 +1,19 @@
+{
+  "name" : "Cat & Mouse",
+  "website" : "https://catmouse.world",
+  "description" : "On a huge farm in Arb-Metaverse, the farmer filled the barn with rice, which was a bumper year.\nBut what he needs to be vigilant about is that a crowd of mice are staring at his barn. Fortunately, the farmer noticed them, a crowd of cats, yes a crowd of cats can solve this problem.The farmer's barn has a guardian - a crowd of loyal cats?\n\nBut,things don't seem that simple...",
+  "explorer" : "https://arbiscan.io/token/0xafA5676a6EF790F08290dd4a45e0ec2a5cC5cdaB",
+  "type" : "ARC721",
+  "symbol" : "Cat Mouse Game",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xafA5676a6EF790F08290dd4a45e0ec2a5cC5cdaB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Cat_Mouse_game"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/959qF36Ane"
+  } ]
+}

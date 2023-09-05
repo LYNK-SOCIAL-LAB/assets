@@ -1,0 +1,19 @@
+{
+  "name" : "HV-MTL",
+  "website" : "https://mdvmm.xyz/",
+  "description" : "The HV-MTL (Heavy Metal) collection is made up of 30,000 Mechs derived from 8 different Power Source types. Beginning March 15, 2023, eligible Sewer Passes can be burned to summon a Power Source that will reveal an Evo 1 Mech. Evo 1 holders can participate in future minigame sets with their Evo 1s to unlock additional HV-MTL evolution stages. Holders of HV-MTLs are subject to the HV-MTL License Agreement available at https://hv-mtl.com/hvmtl-license-agreement.",
+  "explorer" : "https://etherscan.io/token/0x4b15a9c28034dC83db40CD810001427d3BD7163D",
+  "type" : "ERC721",
+  "symbol" : "HV-MTL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4b15a9c28034dC83db40CD810001427d3BD7163D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/BoredApeYC"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/bayc"
+  } ]
+}

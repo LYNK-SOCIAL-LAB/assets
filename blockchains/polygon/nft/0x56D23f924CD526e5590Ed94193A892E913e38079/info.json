@@ -1,0 +1,19 @@
+{
+  "name" : "ArcheWorld_Land(POLYGON)",
+  "website" : "https://www.archeworld.com/",
+  "description" : "This is the official Land NFT of ArcheWorld.\r\nThis verifies that the Land NFT owner can permanently own the land designated on seamless open-world of ArcheWorld.\r\nOwners can participate in production activities directly by installing buildings in the game, or they can lease their land to others and collect rent with Blue Salt(BSLT) every month.\r\nOwners may generate earnings by converting Blue Salt(BSLT) to BORA.",
+  "explorer" : "https://polygonscan.com/token/0x56D23f924CD526e5590Ed94193A892E913e38079",
+  "type" : "PRC721",
+  "symbol" : "ArcheWorld_Land(POLYGON)",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x56D23f924CD526e5590Ed94193A892E913e38079",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ArcheWorld_NFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/gQbHufwehX"
+  } ]
+}

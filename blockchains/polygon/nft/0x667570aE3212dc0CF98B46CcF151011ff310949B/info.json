@@ -1,0 +1,25 @@
+{
+  "name" : "Alien Ape Invasion Club",
+  "website" : "https://originative.io/",
+  "description" : "1st NFT project using marketing as a utility. Earning, Staking, DAO,\nCommunity assets (BAYC & MAYC), NFT Marketplace, Metaverse, Private\nchannels and much more are parts of this project!",
+  "explorer" : "https://polygonscan.com/token/0x667570aE3212dc0CF98B46CcF151011ff310949B",
+  "type" : "PRC721",
+  "symbol" : "AAIC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x667570aE3212dc0CF98B46CcF151011ff310949B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AlienApeIC"
+  }, {
+    "name" : "discord",
+    "url" : "jSupFWQ5z9"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/NFTOriginative"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/nft.originative"
+  } ]
+}

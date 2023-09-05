@@ -1,0 +1,13 @@
+{
+  "name" : "Vela AMA - Official NFT",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x9623BF7f03281a9dd7a8b56dB9451748eDd40cc5",
+  "type" : "ARC721",
+  "symbol" : "VELA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9623BF7f03281a9dd7a8b56dB9451748eDd40cc5",
+  "tags" : null,
+  "links" : [ ]
+}

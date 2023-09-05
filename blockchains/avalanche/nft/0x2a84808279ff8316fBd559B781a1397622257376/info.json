@@ -1,0 +1,19 @@
+{
+  "name" : "BabySkullz",
+  "website" : "https://www.madskullz.io/",
+  "description" : "BabySkullz are the first inhabitants of Skullz City — a place where life\nis peaceful and neighbors are friendly — They take things slow, have a\npositive energy, a blessed soul, believe that the future is full of\nsurprises and that it holdz more than meets the eye. We call them\nBelieverz because they trusted us in rocking their world before anyone\nelse.",
+  "explorer" : "https://snowtrace.io/token/0x2a84808279ff8316fBd559B781a1397622257376",
+  "type" : "AVA721",
+  "symbol" : "BABYSKULLZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2a84808279ff8316fBd559B781a1397622257376",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/madskullz_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/madskullz"
+  } ]
+}

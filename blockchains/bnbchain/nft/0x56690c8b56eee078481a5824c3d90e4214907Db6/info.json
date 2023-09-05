@@ -1,0 +1,16 @@
+{
+  "name" : "Lucky Bird",
+  "website" : "https://www.luckybirdus.com/",
+  "description" : "Lucky Bird, a metaverse project mainly built by Singapore Weimi Foundation, focuses on infrastructure construction, economic model, and cross-game layout. In the future, Lucky Bird NFT will work with various other metaverse products to build a “public ledger” in the NFT world. With a total release of 1,000 Lucky Bird NFTs, users that own Lucky Bird NFT can become esteemed VIPs in Lucky Bird metaverse and can receive VIP-exclusive benefits, with airdropping of BIRD tokens topping the list. Future benefits and rights can be unlocked by activating the community roadmap.",
+  "explorer" : "https://bscscan.com/token/0x56690c8b56eee078481a5824c3d90e4214907Db6",
+  "type" : "BEP721",
+  "symbol" : "LB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x56690c8b56eee078481a5824c3d90e4214907Db6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/EBU4dUXeKc"
+  } ]
+}

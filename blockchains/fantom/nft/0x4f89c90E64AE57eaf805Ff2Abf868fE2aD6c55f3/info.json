@@ -1,0 +1,13 @@
+{
+  "name" : "Honour Nodes",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0x4f89c90E64AE57eaf805Ff2Abf868fE2aD6c55f3",
+  "type" : "FRC721",
+  "symbol" : "HONOUR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4f89c90E64AE57eaf805Ff2Abf868fE2aD6c55f3",
+  "tags" : null,
+  "links" : [ ]
+}

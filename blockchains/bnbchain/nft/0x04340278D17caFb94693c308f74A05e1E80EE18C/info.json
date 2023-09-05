@@ -1,0 +1,13 @@
+{
+  "name" : "Musk USM LAND",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x04340278D17caFb94693c308f74A05e1E80EE18C",
+  "type" : "BEP721",
+  "symbol" : "MML",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x04340278D17caFb94693c308f74A05e1E80EE18C",
+  "tags" : null,
+  "links" : [ ]
+}

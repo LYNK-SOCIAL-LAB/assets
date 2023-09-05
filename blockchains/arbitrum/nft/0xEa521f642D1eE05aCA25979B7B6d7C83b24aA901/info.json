@@ -1,0 +1,13 @@
+{
+  "name" : "Arbitrum Genesis NFT",
+  "website" : null,
+  "description" : "Arbitrum Genesis NFT is an ERC-721 collection that was completely free to claim for the first users of the Arbitrum One L2 scaling solution for Ethereum that was opened to the public on 31 August 2021. The collection was announced on the 1st of September 2021 and 1001 editions were quickly claimed in less than 2 hours.",
+  "explorer" : "https://arbiscan.io/token/0xEa521f642D1eE05aCA25979B7B6d7C83b24aA901",
+  "type" : "ARC721",
+  "symbol" : "ARBGEN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEa521f642D1eE05aCA25979B7B6d7C83b24aA901",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "Blur Box Token",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x3104820CA8C6fBAd85f4229f069C5006431a82ae",
+  "type" : "PRC1155",
+  "symbol" : "box",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3104820CA8C6fBAd85f4229f069C5006431a82ae",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "Layer2DAO Early Adopter - Level 1",
+  "website" : "http://layer2dao.org",
+  "description" : "The Layer2DAO NFTs are awarded to early adopters of the top 10 L2 networks. The NFT level corresponds to the number of L2s that the owner bridged assets into. We plan on building utility for the NFT with other L2 projects, so hold on to yours tightly. It pays to be an early adopter!\n",
+  "explorer" : "https://optimistic.etherscan.io/token/0xF804D537c2530C79453C1cDBdd728a68F340CD9f",
+  "type" : "OP721",
+  "symbol" : "L2DAO-LVL1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF804D537c2530C79453C1cDBdd728a68F340CD9f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/layer2dao"
+  } ]
+}

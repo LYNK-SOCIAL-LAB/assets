@@ -1,0 +1,22 @@
+{
+  "name" : "Mines of Dalarnia Planets",
+  "website" : "https://www.minesofdalarnia.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xb25E1E098B0257d6d14466bec2bE35ef7f9Ee5f2",
+  "type" : "BEP721",
+  "symbol" : "MoD-Planet",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb25E1E098B0257d6d14466bec2bE35ef7f9Ee5f2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MinesOfDalarnia"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/dZaVUMy"
+  }, {
+    "name" : "instagram",
+    "url" : "minesofdalarniagame"
+  } ]
+}

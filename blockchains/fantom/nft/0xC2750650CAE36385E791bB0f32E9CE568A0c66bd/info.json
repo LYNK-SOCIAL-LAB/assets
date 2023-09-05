@@ -1,0 +1,19 @@
+{
+  "name" : "MiniChillas",
+  "website" : "https://miniversefinance.gitbook.io/docs/",
+  "description" : "1369 Digital Chinchillas exploring the MiniVerse looking for frens or foes. Chillas are Genesis MiniVerse Finance NFT's and earn MvDOLLAR(algorithmic stable coin pegged of 1:1 USDC) by staking. Through utilizing MvDOLLAR in our NFT GameFi, holders will be able to earn rewards/prizes, breed the next generation, and much more!",
+  "explorer" : "https://ftmscan.com/token/0xC2750650CAE36385E791bB0f32E9CE568A0c66bd",
+  "type" : "FRC721",
+  "symbol" : "MC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC2750650CAE36385E791bB0f32E9CE568A0c66bd",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@miniverse_fin"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/5Cvyg49qQP"
+  } ]
+}

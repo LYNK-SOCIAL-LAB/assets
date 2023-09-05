@@ -1,0 +1,19 @@
+{
+  "name" : "Yield Hunt",
+  "website" : "https://yieldhunt.game",
+  "description" : "Yield Hunt is a NFT play to earn game. Based on Avalanche, it resumes all Wolf Game’s best features and throws them into a beautiful and not so cute world where Adventurers seek for gemstones. Whereas some eyes are watching them…",
+  "explorer" : "https://snowtrace.io/token/0xEaB33F781aDA4ee7E91fD63ad87C5Bb47FFb8a83",
+  "type" : "AVA721",
+  "symbol" : "HGAME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEaB33F781aDA4ee7E91fD63ad87C5Bb47FFb8a83",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/YieldHuntAVAX"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/yieldhuntgame"
+  } ]
+}

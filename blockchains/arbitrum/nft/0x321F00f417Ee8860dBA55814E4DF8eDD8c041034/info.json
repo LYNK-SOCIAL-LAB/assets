@@ -1,0 +1,13 @@
+{
+  "name" : "Vela x Arbitrum AMA - Official NFT",
+  "website" : null,
+  "description" : "Empowering DeFi traders with fast execution, cheap transactions, advanced trading features and self-custody.",
+  "explorer" : "https://arbiscan.io/token/0x321F00f417Ee8860dBA55814E4DF8eDD8c041034",
+  "type" : "ARC721",
+  "symbol" : "Vela Exchange",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x321F00f417Ee8860dBA55814E4DF8eDD8c041034",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "Riot Racers Cars",
+  "website" : "https://riotracers.com",
+  "description" : "Cars for the Riot Racers crypto car racing game! Come join the fun at [riotracers.com](https://riotracers.com)!\n\nRiot Racers Official Collections: [Cars](https://opensea.io/collection/riot-racers-cars), [Gas Stations](https://opensea.io/collection/riot-racers-gas-stations), [Racetrack Land](https://opensea.io/collection/riot-racers-racetrack-land), \n[Mechanic Shops](https://opensea.io/collection/riot-racers-mechanic-shops), [Billboard Land](https://opensea.io/collection/riot-racers-billboard-land), [Drivers](https://opensea.io/collection/riot-racers-drivers)",
+  "explorer" : "https://polygonscan.com/token/0x82BBf7bE0eB9A6024b7A641bA179e00812bdAE53",
+  "type" : "PRC721",
+  "symbol" : "RRCA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x82BBf7bE0eB9A6024b7A641bA179e00812bdAE53",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RiotRacers"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/riotracers"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/riotracers"
+  } ]
+}

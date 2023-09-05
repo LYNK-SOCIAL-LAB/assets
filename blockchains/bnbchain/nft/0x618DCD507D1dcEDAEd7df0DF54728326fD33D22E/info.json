@@ -1,0 +1,28 @@
+{
+  "name" : "RealFevr Official",
+  "website" : "http://www.realfevr.com/",
+  "description" : "RealFevr is a Portuguese startup responsible for launching the first football marketplace for NFTs, in video format. All digital collectible moments are fully licensed, thus having real intrinsic value.\r\n\r\nBased in Lisbon and created in 2015 with the aim of revolutionizing the Fantasy Leagues market, RealFevr has quickly established itself in the growing blockchain, NFTs, and cryptocurrency market. In addition to the exclusivity of collectibles in video format whose usefulness goes beyond the mere collector's perspective, these will also be playable items in Web3 games that the company is developing.\r\n\r\nFor more information, visit realfevr.com.",
+  "explorer" : "https://bscscan.com/token/0x618DCD507D1dcEDAEd7df0DF54728326fD33D22E",
+  "type" : "BEP721",
+  "symbol" : "BEP721",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x618DCD507D1dcEDAEd7df0DF54728326fD33D22E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/realfevr"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.link/realfevr"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/realfevrofficial"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/realfevr/"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/fevr-token"
+  } ]
+}

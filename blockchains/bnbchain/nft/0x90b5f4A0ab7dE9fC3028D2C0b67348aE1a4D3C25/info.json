@@ -1,0 +1,13 @@
+{
+  "name" : "Spot Trader",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x90b5f4A0ab7dE9fC3028D2C0b67348aE1a4D3C25",
+  "type" : "BEP721",
+  "symbol" : "SpotTrader",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x90b5f4A0ab7dE9fC3028D2C0b67348aE1a4D3C25",
+  "tags" : null,
+  "links" : [ ]
+}

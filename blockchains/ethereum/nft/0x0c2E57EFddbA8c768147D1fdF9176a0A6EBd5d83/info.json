@@ -1,0 +1,19 @@
+{
+  "name" : "KaijuKingz",
+  "website" : "https://kaijukingz.io/#/",
+  "description" : "3,333 Genesis Kaiju Kingz created by Augminted Labs to protect the metaverse. The community is all about growth and providing a place for the future of web3 to learn, build, and conquer. Join the Kingz and live forever as a legend. 6666 babies to accompany them.",
+  "explorer" : "https://etherscan.io/token/0x0c2E57EFddbA8c768147D1fdF9176a0A6EBd5d83",
+  "type" : "ERC721",
+  "symbol" : "KAIJU",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0c2E57EFddbA8c768147D1fdF9176a0A6EBd5d83",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/KaijuKingz"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Kaiju-Kingz"
+  } ]
+}

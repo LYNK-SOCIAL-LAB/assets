@@ -1,0 +1,19 @@
+{
+  "name" : "Smol Apas",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x3DD5e0f0659cA8b52925E504FE9f0250bFe68301",
+  "type" : "AVA721",
+  "symbol" : "SMOLAPA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3DD5e0f0659cA8b52925E504FE9f0250bFe68301",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/apa_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/2DVApHQsn4"
+  } ]
+}

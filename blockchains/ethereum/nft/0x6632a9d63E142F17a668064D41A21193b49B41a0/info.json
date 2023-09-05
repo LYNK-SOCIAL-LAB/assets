@@ -1,0 +1,22 @@
+{
+  "name" : "Prime Ape Planet",
+  "website" : "https://primeplanet.io/",
+  "description" : "Prime Ape Planet is a collection of 7,979 Primus Ethereum mammals created by Disney/Marvel artist Kurtis Dawe. \r\n\r\nPrime Ape Planet is the genesis collection of an ever-evolving ecosystem consisting [Prime Kong Planet](https://opensea.io/collection/prime-kong-planet-by-pap), [Infected Prime Apes](https://opensea.io/collection/infected-ape-planet) and [Poisoned Bananas](https://opensea.io/collection/poisoned-bananas). \r\n\r\nDeep dive into the Prime Planet Ecosystem of limitless possibilities and earn rewards such as NFT Whitelists, Prime Tokens, Prime Merchandise, Blue Chip NFTs and much more!",
+  "explorer" : "https://etherscan.io/token/0x6632a9d63E142F17a668064D41A21193b49B41a0",
+  "type" : "ERC721",
+  "symbol" : "PAP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6632a9d63E142F17a668064D41A21193b49B41a0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PrimeApePlanet"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/primeplanet"
+  }, {
+    "name" : "instagram",
+    "url" : "primeapeplanet"
+  } ]
+}

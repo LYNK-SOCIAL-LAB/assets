@@ -1,0 +1,19 @@
+{
+  "name" : "MekaVerse",
+  "website" : "https://themekaverse.com/",
+  "description" : "The MekaVerse is a collection of 8,888 generative Mekas inspired by the Japanese Anime universe. View the collection at https://themekaverse.com/gallery.\n\nIn the distant future, drivers fight in a world divided into 4 Factions. Originals Meka, Mirage, F9, and Gadians are the Titans who rule this planet. Which Faction are you going to join?\n\nWorld map: https://worldmap.themekaverse.com/\n\nVisit https://themekaverse.com/ for more details.",
+  "explorer" : "https://etherscan.io/token/0x9A534628B4062E123cE7Ee2222ec20B86e16Ca8F",
+  "type" : "ERC721",
+  "symbol" : "MEKA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9A534628B4062E123cE7Ee2222ec20B86e16Ca8F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MekaVerse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mekaverse"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "The Winery Collection",
+  "website" : "https://grapefinance.app/",
+  "description" : "The Winery is Grape Finance's VIP collection granting exclusive protocol\nownership rights & benefits to holders",
+  "explorer" : "https://snowtrace.io/token/0x99FeC0CA5CD461884e2e6e8484c219bBFB91e2Df",
+  "type" : "AVA721",
+  "symbol" : "TWC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x99FeC0CA5CD461884e2e6e8484c219bBFB91e2Df",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/grape_finance"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mZ4QrZwH5M"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/GrapeDefi"
+  } ]
+}

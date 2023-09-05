@@ -1,0 +1,22 @@
+{
+  "name" : "Paintswap Beardies",
+  "website" : "https://paintswap.finance",
+  "description" : "The next-gen NFT with utility created by the PaintSwap team. With novel provenance technology for a fair distribution and claimable rewards, they make YOU part of PaintSwap success. Each Beardie in your possession gives you PaintSwap marketplace fees in return, in FTM! More Beardies >> More Reward, No Limits. They also give you access to a secret Discord channel and can be staked at Fantom Armies (armies.fantomwaifus.com). This is just the beginning, with other benefits and secrets to come! No more than 2048 of them will ever be painted. Full description and features in the medium link.",
+  "explorer" : "https://ftmscan.com/token/0x31911223bB3fF5b773Af3e677FC0ac5760215e4E",
+  "type" : "FRC721",
+  "symbol" : "BEARDIES",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x31911223bB3fF5b773Af3e677FC0ac5760215e4E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@paint_swap"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/G4ZgtP52JK"
+  }, {
+    "name" : "medium",
+    "url" : "https://paint-swap-finance.medium.com/6161a72ae3da"
+  } ]
+}

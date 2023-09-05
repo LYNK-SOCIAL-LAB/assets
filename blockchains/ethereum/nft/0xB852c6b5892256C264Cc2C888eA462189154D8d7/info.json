@@ -1,0 +1,22 @@
+{
+  "name" : "Rektguy",
+  "website" : "https://rektguy.com",
+  "description" : "Down bad but never dead. https://rektguy.com",
+  "explorer" : "https://etherscan.io/token/0xB852c6b5892256C264Cc2C888eA462189154D8d7",
+  "type" : "ERC721",
+  "symbol" : "Rektguy",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xB852c6b5892256C264Cc2C888eA462189154D8d7",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/rektguyNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/degenzNFT"
+  }, {
+    "name" : "instagram",
+    "url" : "rektguy_nft"
+  } ]
+}

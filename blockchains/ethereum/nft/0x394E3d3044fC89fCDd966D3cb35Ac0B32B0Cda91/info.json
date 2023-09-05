@@ -1,0 +1,19 @@
+{
+  "name" : "RENGA",
+  "website" : "https://renga.app/",
+  "description" : "A handcrafted collection of 10,000 characters developed by artist DirtyRobot. Each with their own identity to be discovered within the wider stories of RENGA. In its purest form, RENGA is the art of storytelling.",
+  "explorer" : "https://etherscan.io/token/0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91",
+  "type" : "ERC721",
+  "symbol" : "RENGA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RENGA_inc"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/renga"
+  } ]
+}

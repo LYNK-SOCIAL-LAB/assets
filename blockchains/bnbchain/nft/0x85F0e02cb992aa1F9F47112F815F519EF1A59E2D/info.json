@@ -1,0 +1,25 @@
+{
+  "name" : "PolkamonOfficialCollection",
+  "website" : "https://polychainmonsters.com/",
+  "description" : "Polychain Monsters aims to create a cross-chain digital collectible and gaming ecosystem with mainstream appeal. At its core, Polymon are beautifully animated NFTs, which can be unpacked from digital booster packs with $PMON on Ethereum, Binance Smart Chain, and Polygon.",
+  "explorer" : "https://bscscan.com/token/0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+  "type" : "BEP721",
+  "symbol" : "PMONC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/polychainmon"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/2JBNG9C3vz"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/polychainmonsters"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/polychainmonsters"
+  } ]
+}

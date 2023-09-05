@@ -1,0 +1,16 @@
+{
+  "name" : "CryptoRaiders MOBS Claim Pass",
+  "website" : "https://cryptoraiders.xyz",
+  "description" : "CryptoRaiders is a utility-based NFT RPG game where you raid weekly dungeons for gear & loot, but be careful… death is permanent ☠️\n\nThis is the **official CryptoRaiders Polygon** MOBS claim pass collection.",
+  "explorer" : "https://polygonscan.com/token/0x2aD64e95EFF639fbd0273BCd4d0eeB72A60C8586",
+  "type" : "PRC721",
+  "symbol" : "MOBSKEY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2aD64e95EFF639fbd0273BCd4d0eeB72A60C8586",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/crypto_raiders"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "GrandTheftBacon",
+  "website" : "https://www.grandtheftbacon.com/",
+  "description" : "Cops Vs. Bacon P2E Staking Game 🥓",
+  "explorer" : "https://snowtrace.io/token/0xE06C796ec6ba59D965E0033F03497869C9118701",
+  "type" : "AVA721",
+  "symbol" : "GTHEFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE06C796ec6ba59D965E0033F03497869C9118701",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/grndtheftbacon"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/tPcVhBmaVh"
+  } ]
+}

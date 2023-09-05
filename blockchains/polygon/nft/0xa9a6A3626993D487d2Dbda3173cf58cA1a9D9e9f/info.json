@@ -1,0 +1,25 @@
+{
+  "name" : "Unstoppable Domains",
+  "website" : "https://unstoppabledomains.com/",
+  "description" : "[Unstoppable Domains](https://unstoppabledomains.com) is The #1 provider of NFT domains you can use to replace your long complex wallet addresses, verify ownership of your NFTs, as a login into web3 apps and more! Join 10’s of thousands of people using them as their Twitter usernames. Better yet, with Unstoppable domains you don't have to worry about renewal fees, YOU OWN IT. Visit [www.UnstoppableDomains.com](https://unstoppabledomains.com) for more details or to learn more.",
+  "explorer" : "https://polygonscan.com/token/0xa9a6A3626993D487d2Dbda3173cf58cA1a9D9e9f",
+  "type" : "PRC721",
+  "symbol" : "UD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa9a6A3626993D487d2Dbda3173cf58cA1a9D9e9f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/unstoppableweb"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/invite/unstoppabledomains"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/unstoppabledomains"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@unstoppabledomains"
+  } ]
+}

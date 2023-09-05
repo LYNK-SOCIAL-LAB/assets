@@ -1,0 +1,16 @@
+{
+  "name" : "SleeFi Bed",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x305ECD06b01a703271d5145344c3e0bAd90c8871",
+  "type" : "AVA721",
+  "symbol" : "BED",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x305ECD06b01a703271d5145344c3e0bAd90c8871",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/SleeFi_official"
+  } ]
+}

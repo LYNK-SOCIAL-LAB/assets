@@ -1,0 +1,13 @@
+{
+  "name" : "Smol Brains",
+  "website" : null,
+  "description" : "The Smol Brains are a dynamic PFP of a monkey whose head gets bigger the larger its IQ becomes. Smol Brains are a part of Smolverse, a fun and playful world of progressively-evolving NFTs on Arbitrum. Community-driven and built on good vibes.\r\n\r\nhttps://trove.treasure.lol/collection/smol-brains",
+  "explorer" : "https://arbiscan.io/token/0xA7f1462e0EcdeEbDeE4FaF6681148Ca96Db78777",
+  "type" : "ARC721",
+  "symbol" : "SmolBrain",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA7f1462e0EcdeEbDeE4FaF6681148Ca96Db78777",
+  "tags" : null,
+  "links" : [ ]
+}

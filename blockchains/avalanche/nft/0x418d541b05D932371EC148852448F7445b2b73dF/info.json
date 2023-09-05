@@ -1,0 +1,19 @@
+{
+  "name" : "illuminati Owls",
+  "website" : "https://illuminatiowls.com/",
+  "description" : "3,333 original avatar NFTs coming to Avalanche blockchain. Royalties,\nAvax NFT airdrops, DeFi, Owl Nest, and Nest Egg airdrop.",
+  "explorer" : "https://snowtrace.io/token/0x418d541b05D932371EC148852448F7445b2b73dF",
+  "type" : "AVA721",
+  "symbol" : "ILL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x418d541b05D932371EC148852448F7445b2b73dF",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/illOwlsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/a7mhbEMPWy"
+  } ]
+}

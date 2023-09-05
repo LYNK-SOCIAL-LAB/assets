@@ -1,0 +1,13 @@
+{
+  "name" : "Burnt Ape",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0xc7a144C247DD503acF87B2dc65AFF3De3C10e3d1",
+  "type" : "OP721",
+  "symbol" : "BA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc7a144C247DD503acF87B2dc65AFF3De3C10e3d1",
+  "tags" : null,
+  "links" : [ ]
+}

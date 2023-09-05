@@ -1,0 +1,19 @@
+{
+  "name" : "PopPussiesPoppedOff",
+  "website" : "https://www.0xcinn.com/",
+  "description" : "Pop pussies: Popped Off! 750 Pixel purrfect pussies wielding great power, they have formed powerful clans to pay homage to the spirits that birthed their world. What clan will you join? What powers do you seek? Take my paw and let us discover this magical new world together.",
+  "explorer" : "https://ftmscan.com/token/0x5BA5168A88b4F1C41fE71F59DdfA2305E0dbDa8c",
+  "type" : "FRC721",
+  "symbol" : "PPPO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5BA5168A88b4F1C41fE71F59DdfA2305E0dbDa8c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@0xcinn"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/SPvRjvk3sR"
+  } ]
+}

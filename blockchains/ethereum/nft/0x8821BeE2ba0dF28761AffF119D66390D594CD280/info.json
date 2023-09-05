@@ -1,0 +1,19 @@
+{
+  "name" : "DeGods",
+  "website" : "https://degods.com",
+  "description" : "DeGods is a digital art collection and global community of creators, developers, entrepreneurs, athletes, artists, experimenters and innovators.",
+  "explorer" : "https://etherscan.io/token/0x8821BeE2ba0dF28761AffF119D66390D594CD280",
+  "type" : "ERC721",
+  "symbol" : "DEGODS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8821BeE2ba0dF28761AffF119D66390D594CD280",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DeGodsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/dexyz"
+  } ]
+}

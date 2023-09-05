@@ -1,0 +1,19 @@
+{
+  "name" : "Optimistic Apes",
+  "website" : "https://optimisticapes.com/",
+  "description" : "The first ape collection on Optimism, with over 50% of mints donated directly to Optimism.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x4d40396b4Eb19Be0C1cE1B9544608068bDF6b0fC",
+  "type" : "OP721",
+  "symbol" : "OA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4d40396b4Eb19Be0C1cE1B9544608068bDF6b0fC",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/OptimisticApes"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/Df2QAXeXJR"
+  } ]
+}

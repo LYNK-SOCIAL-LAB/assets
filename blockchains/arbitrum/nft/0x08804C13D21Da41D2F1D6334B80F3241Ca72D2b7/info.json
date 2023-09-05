@@ -1,0 +1,13 @@
+{
+  "name" : "ARB ID Transferable",
+  "website" : null,
+  "description" : ".arb Name Service: A #Web3 Domain Identifier. Weaving things on @arbitrum . #DID #arbDomain",
+  "explorer" : "https://arbiscan.io/token/0x08804C13D21Da41D2F1D6334B80F3241Ca72D2b7",
+  "type" : "ARC721",
+  "symbol" : "ARBID",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x08804C13D21Da41D2F1D6334B80F3241Ca72D2b7",
+  "tags" : null,
+  "links" : [ ]
+}

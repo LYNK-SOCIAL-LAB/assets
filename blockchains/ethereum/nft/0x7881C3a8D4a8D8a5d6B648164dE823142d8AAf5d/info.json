@@ -1,0 +1,13 @@
+{
+  "name" : "ColorLines",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://etherscan.io/token/0x7881C3a8D4a8D8a5d6B648164dE823142d8AAf5d",
+  "type" : "ERC1155",
+  "symbol" : "CL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7881C3a8D4a8D8a5d6B648164dE823142d8AAf5d",
+  "tags" : null,
+  "links" : [ ]
+}

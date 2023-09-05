@@ -1,0 +1,25 @@
+{
+  "name" : "Cross Bosses",
+  "website" : "https://crossbosses.com/ ",
+  "description" : "8,040 unique, 1/1 NFTs generated with various body types, backgrounds, glasses, eyes, mouths, hats, accessories, and abilities. Be bossy.\n",
+  "explorer" : "https://bscscan.com/token/0x9ddc83be1e5254669bdb366941C746A86194D61b",
+  "type" : "BEP721",
+  "symbol" : "CB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9ddc83be1e5254669bdb366941C746A86194D61b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/hotcrosscom"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/hotcrossann"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/hotcrosscom/"
+  }, {
+    "name" : "medium",
+    "url" : "https://updates.hotcross.com/"
+  } ]
+}

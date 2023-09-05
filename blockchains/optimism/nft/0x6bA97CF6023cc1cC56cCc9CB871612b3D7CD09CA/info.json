@@ -1,0 +1,13 @@
+{
+  "name" : "Optimism Furry",
+  "website" : "https://qx.app/launch/0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA",
+  "description" : "Optimism Furry consists of 999 furry characters of all 1/1. Focusing on lovely furry.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA",
+  "type" : "OP721",
+  "symbol" : "FURRY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA",
+  "tags" : null,
+  "links" : [ ]
+}

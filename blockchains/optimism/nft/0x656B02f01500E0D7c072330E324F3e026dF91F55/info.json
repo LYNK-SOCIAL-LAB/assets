@@ -1,0 +1,16 @@
+{
+  "name" : "ZONIC Gift Box",
+  "website" : "https://zonic.app",
+  "description" : "A gift box for ZONIC Quests participants",
+  "explorer" : "https://optimistic.etherscan.io/token/0x656B02f01500E0D7c072330E324F3e026dF91F55",
+  "type" : "OP721",
+  "symbol" : "ZONICGIFTBOX",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x656B02f01500E0D7c072330E324F3e026dF91F55",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ZonicApp"
+  } ]
+}

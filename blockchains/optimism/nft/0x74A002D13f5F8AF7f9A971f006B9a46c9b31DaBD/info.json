@@ -1,0 +1,13 @@
+{
+  "name" : "RabbitHole L2 Explorer",
+  "website" : null,
+  "description" : "These explorers are learning and discovering the best of web3 together. The deeper you go, the brighter it gets ✨\r\n\r\nMint yours [here](https://qx.app/rabbithole)",
+  "explorer" : "https://optimistic.etherscan.io/token/0x74A002D13f5F8AF7f9A971f006B9a46c9b31DaBD",
+  "type" : "OP721",
+  "symbol" : "RHEXPLORER",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x74A002D13f5F8AF7f9A971f006B9a46c9b31DaBD",
+  "tags" : null,
+  "links" : [ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "AZK BOX",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0xCf1a0FE9781e4afa07EE0DABD6762c7BB73D7c27",
+  "type" : "PRC1155",
+  "symbol" : "azuki-box",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xCf1a0FE9781e4afa07EE0DABD6762c7BB73D7c27",
+  "tags" : null,
+  "links" : [ ]
+}

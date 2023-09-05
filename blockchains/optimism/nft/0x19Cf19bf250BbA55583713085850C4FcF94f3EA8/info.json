@@ -1,0 +1,13 @@
+{
+  "name" : "Blockchain NFT",
+  "website" : null,
+  "description" : "Blockchain has been developed for many years, and countless applications have been derived. We hope to give people a more intuitive view of the underlying logic of the blockchain and the way blocks are connected.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x19Cf19bf250BbA55583713085850C4FcF94f3EA8",
+  "type" : "OP721",
+  "symbol" : "BLOCK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x19Cf19bf250BbA55583713085850C4FcF94f3EA8",
+  "tags" : null,
+  "links" : [ ]
+}

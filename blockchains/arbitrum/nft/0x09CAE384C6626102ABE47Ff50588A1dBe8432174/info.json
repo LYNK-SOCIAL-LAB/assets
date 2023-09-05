@@ -1,0 +1,19 @@
+{
+  "name" : "Toadstoolz",
+  "website" : "https://www.toadstoolz.lol/",
+  "description" : "Actual unique owners -- 3000 as at 6 Oct 2022 with 89.1% of Toadz staked in the game. \n\nActual historical volume -- 981k MAGIC (Toadz) + 138.6k MAGIC (Itemz) on Trove since March 2022 (~300 ETH volume based on 6/10/22 MAGIC and ETH prices).\n\nSee the following for key stats -- https://treasure-marketplace-analytics.herokuapp.com/toadz/statz \n\n---\n\nRelated Collections:\n\nItemz -- https://opensea.io/collection/toadstoolz-itemz\n\nToadstoolz on Trove -- https://trove.treasure.lol/collection/toadstoolz\n\n---\n\nToadstoolz is a 8,888 free mint, ON-CHAIN toad life simulation game built on the TreasureDAO ecosystem. Toadz love to hunt for $BUGZ and are OBSESSED with collecting NFTs.",
+  "explorer" : "https://arbiscan.io/token/0x09CAE384C6626102ABE47Ff50588A1dBe8432174",
+  "type" : "ARC721",
+  "symbol" : "TDZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x09CAE384C6626102ABE47Ff50588A1dBe8432174",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/toadstoolzNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/NbVqYCg5"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "MagicRefinery",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://arbiscan.io/token/0x8762DbD391Fd90b29eccBB628CD54bD92F5Fc1f3",
+  "type" : "ARC721",
+  "symbol" : "MAGIC_REFINERY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8762DbD391Fd90b29eccBB628CD54bD92F5Fc1f3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RealmDao"
+  } ]
+}

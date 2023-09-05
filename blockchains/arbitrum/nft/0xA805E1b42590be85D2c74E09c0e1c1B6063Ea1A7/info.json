@@ -1,0 +1,16 @@
+{
+  "name" : "Pearl Club ONFT",
+  "website" : "https://www.pearl.club/",
+  "description" : "The Pearl Club Omnichain NFT collection is an official community driven project of TapiocaDAO.\n\n700 unique Pearls, created by MoME.",
+  "explorer" : "https://arbiscan.io/token/0xA805E1b42590be85D2c74E09c0e1c1B6063Ea1A7",
+  "type" : "ARC721",
+  "symbol" : "PCNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA805E1b42590be85D2c74E09c0e1c1B6063Ea1A7",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/pearlclubnft"
+  } ]
+}

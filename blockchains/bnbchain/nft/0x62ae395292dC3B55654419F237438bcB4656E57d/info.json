@@ -1,0 +1,13 @@
+{
+  "name" : "BeFitterBox",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x62ae395292dC3B55654419F237438bcB4656E57d",
+  "type" : "BEP721",
+  "symbol" : "BFB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x62ae395292dC3B55654419F237438bcB4656E57d",
+  "tags" : null,
+  "links" : [ ]
+}

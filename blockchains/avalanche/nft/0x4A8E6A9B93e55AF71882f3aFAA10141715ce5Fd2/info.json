@@ -1,0 +1,19 @@
+{
+  "name" : "Tiny Bones Club cdb406",
+  "website" : "https://www.tinybones.club",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x4A8E6A9B93e55AF71882f3aFAA10141715ce5Fd2",
+  "type" : "AVA721",
+  "symbol" : "TBC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4A8E6A9B93e55AF71882f3aFAA10141715ce5Fd2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://www.twitter.com/TinyBonesClub"
+  }, {
+    "name" : "discord",
+    "url" : "https://www.discord.gg/SH9QucWJBW"
+  } ]
+}

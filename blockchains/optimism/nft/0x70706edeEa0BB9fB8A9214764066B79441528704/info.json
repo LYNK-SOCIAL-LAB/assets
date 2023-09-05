@@ -1,0 +1,19 @@
+{
+  "name" : "Elements of Ganland",
+  "website" : "https://ganland.io/",
+  "description" : "( 555 ) Images Total ~ This is a generative art project using A.I. to help enhance the efficiency of thoughts between two key leadership roles responsible for shaping an NFT Visionary art community.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x70706edeEa0BB9fB8A9214764066B79441528704",
+  "type" : "OP721",
+  "symbol" : "GANS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x70706edeEa0BB9fB8A9214764066B79441528704",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GanlandNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/wPQYegdMSW"
+  } ]
+}

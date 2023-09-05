@@ -1,0 +1,19 @@
+{
+  "name" : "Phantom Galaxies Origin Collection",
+  "website" : "https://phantomgalaxies.com/",
+  "description" : "Mecha Starfighters Battle on the Blockchain! Open-world online space sim with fast-paced shooting and gripping story.\n\nThe Origin NFT series for Phantom Galaxies. This set of posters and medals were released leading up to the launch of the game in 2022.",
+  "explorer" : "https://polygonscan.com/token/0x95Fcb7f46F1E652fDF23db087C0F24011775be00",
+  "type" : "PRC1155",
+  "symbol" : "PGOGC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x95Fcb7f46F1E652fDF23db087C0F24011775be00",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/PhantomGalaxies"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/PhantomGalaxies"
+  } ]
+}

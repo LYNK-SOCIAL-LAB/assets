@@ -1,0 +1,19 @@
+{
+  "name" : "MoonMasterDaoCard",
+  "website" : "https://www.moonmasters.io/",
+  "description" : "A Journey Across the Universe. 80 Dao Cards Appeared That Give Each Holder Access to TSD, A very exclusive DAO. ",
+  "explorer" : "https://ftmscan.com/token/0x993A51CEb77dF29bF95153bF7055A8B2352365ad",
+  "type" : "FRC721",
+  "symbol" : "MMDC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x993A51CEb77dF29bF95153bF7055A8B2352365ad",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@moon_masters"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/trippystevedao"
+  } ]
+}

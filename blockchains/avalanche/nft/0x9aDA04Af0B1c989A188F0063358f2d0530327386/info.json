@@ -1,0 +1,22 @@
+{
+  "name" : "Districts",
+  "website" : "https://redlight.finance/",
+  "description" : "Collection migrated to a new contract\r\n",
+  "explorer" : "https://snowtrace.io/token/0x9aDA04Af0B1c989A188F0063358f2d0530327386",
+  "type" : "AVA721",
+  "symbol" : "DISTRICTS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9aDA04Af0B1c989A188F0063358f2d0530327386",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/RLNodeDistrict"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/RedlightNodeDistrict"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RLNodeDistrict"
+  } ]
+}

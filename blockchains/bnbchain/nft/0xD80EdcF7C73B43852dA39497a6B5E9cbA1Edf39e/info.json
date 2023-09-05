@@ -1,0 +1,22 @@
+{
+  "name" : "Tiny Hero",
+  "website" : "https://tinyworlds.io/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e",
+  "type" : "BEP1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/tinyworldgamefi"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/jXTRTz7B7N"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/tinyworld_en"
+  } ]
+}

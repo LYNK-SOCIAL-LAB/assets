@@ -1,0 +1,19 @@
+{
+  "name" : "treasureland.dego",
+  "website" : "https://treasureland.market/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xf7A21FFb762eF2C14D8713B18f5596b4B0B0490a",
+  "type" : "BEP721",
+  "symbol" : "TRSRNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf7A21FFb762eF2C14D8713B18f5596b4B0B0490a",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TreasurelandNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/jjf7Uxm4rM"
+  } ]
+}

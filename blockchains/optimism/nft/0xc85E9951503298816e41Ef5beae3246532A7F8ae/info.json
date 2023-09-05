@@ -1,0 +1,13 @@
+{
+  "name" : "OPX Pioneer NFT V2",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0xc85E9951503298816e41Ef5beae3246532A7F8ae",
+  "type" : "OP721",
+  "symbol" : "OPNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc85E9951503298816e41Ef5beae3246532A7F8ae",
+  "tags" : null,
+  "links" : [ ]
+}

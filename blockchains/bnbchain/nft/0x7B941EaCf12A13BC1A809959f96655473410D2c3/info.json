@@ -1,0 +1,13 @@
+{
+  "name" : "MetaSportsNFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x7B941EaCf12A13BC1A809959f96655473410D2c3",
+  "type" : "BEP721",
+  "symbol" : "MSNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7B941EaCf12A13BC1A809959f96655473410D2c3",
+  "tags" : null,
+  "links" : [ ]
+}

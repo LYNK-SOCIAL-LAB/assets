@@ -1,0 +1,13 @@
+{
+  "name" : "Optimistic Explorer",
+  "website" : "https://app.optimism.io/get-started",
+  "description" : "An Optimism exclusive NFT collection for those adventurers on the digital frontier. Each NFT represents 1 of 5 buildings in the city of Optimism which corresponds to a selected interest.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x81b30ff521D1fEB67EDE32db726D95714eb00637",
+  "type" : "OP721",
+  "symbol" : "SUPNERDS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x81b30ff521D1fEB67EDE32db726D95714eb00637",
+  "tags" : null,
+  "links" : [ ]
+}

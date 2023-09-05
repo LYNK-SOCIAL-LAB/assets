@@ -1,0 +1,19 @@
+{
+  "name" : "Cauldron",
+  "website" : "https://elexir.finance",
+  "description" : "Elexir is a high-yield DaaS protocol that lives at the crossroad of NFT, DaaS and P2E. Our goal: bringing joy to building passive income though gamification. :mage_homme: Craft Cauldrons. Cook $ELXR. Earn. Become the most prolific wizard!",
+  "explorer" : "https://snowtrace.io/token/0x33b8b608F56A207904B9645CCa8D197D95b0753a",
+  "type" : "AVA721",
+  "symbol" : "CAULDRON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x33b8b608F56A207904B9645CCa8D197D95b0753a",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/EarnElexir"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/PjBpv3EK32"
+  } ]
+}

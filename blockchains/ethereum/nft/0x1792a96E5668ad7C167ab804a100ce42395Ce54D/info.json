@@ -1,0 +1,16 @@
+{
+  "name" : "Moonbirds Oddities",
+  "website" : "https://www.oddities.xyz/",
+  "description" : "10,000 Moonbird pellets, regurgitated from the imagination of artist Gremplin and revealed in July 2022. Each Oddity is derived from a Moonbird, with a smattering of new traits and features allocated at random through the collection.",
+  "explorer" : "https://etherscan.io/token/0x1792a96E5668ad7C167ab804a100ce42395Ce54D",
+  "type" : "ERC721",
+  "symbol" : "ODDITIES",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1792a96E5668ad7C167ab804a100ce42395Ce54D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/Xv7E796DDP"
+  } ]
+}

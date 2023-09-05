@@ -1,0 +1,19 @@
+{
+  "name" : "The Alliance",
+  "website" : "https://thealliancenft.com/",
+  "description" : "The Alliance is a yield-bearing NFT protocol built for survivors of fallen projects! The Alliance's unique NFTs generate daily stablecoin income when staked - join The Alliance today!\r\n",
+  "explorer" : "https://snowtrace.io/token/0xcd038cf4ED44deE4A4a9A666aAdcD66bB9C16b33",
+  "type" : "AVA721",
+  "symbol" : "ALLIANCE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xcd038cf4ED44deE4A4a9A666aAdcD66bB9C16b33",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/TheAlliance_NFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/MkcVYF8jKb"
+  } ]
+}

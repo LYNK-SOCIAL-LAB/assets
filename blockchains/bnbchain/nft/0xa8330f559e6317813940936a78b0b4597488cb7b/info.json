@@ -1,0 +1,16 @@
+{
+  "name" : "Amazy Sneaker",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xa8330f559e6317813940936a78b0b4597488cb7b",
+  "type" : "BEP721",
+  "symbol" : "AMAZY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa8330f559e6317813940936a78b0b4597488cb7b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/amazyio"
+  } ]
+}

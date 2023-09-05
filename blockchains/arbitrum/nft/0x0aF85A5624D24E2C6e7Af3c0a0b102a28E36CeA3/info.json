@@ -1,0 +1,16 @@
+{
+  "name" : "Battlefly",
+  "website" : "http://play.battlefly.game",
+  "description" : "BattleFly is a PvP DeFi strategy game powered by TreasureDAO’s $magic token. \nBattleFly NFTs compete head to head to earn $magic rewards by playing a winning strategy. Our game will be launching soon, in Q4 of 2022.\n\nTo learn more, head to: \nwww.battlefly.game\n\nTo view additional details before purchasing and enjoy lower creator fees, head to:\nhttps://trove.treasure.lol/collection/battlefly\n",
+  "explorer" : "https://arbiscan.io/token/0x0aF85A5624D24E2C6e7Af3c0a0b102a28E36CeA3",
+  "type" : "ARC721",
+  "symbol" : "Battlefly",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0aF85A5624D24E2C6e7Af3c0a0b102a28E36CeA3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/G2eDvVyM"
+  } ]
+}

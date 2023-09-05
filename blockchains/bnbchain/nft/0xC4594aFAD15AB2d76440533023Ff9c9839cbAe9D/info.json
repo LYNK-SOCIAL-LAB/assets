@@ -1,0 +1,22 @@
+{
+  "name" : "Hacker",
+  "website" : "https://thecryptoyou.io/home",
+  "description" : "The first Baby Metaverse blockchain game based on Binance Smart Chain (BSC). Players can summon characters, complete daily mining missions, conquer the Dark Force, loot rare items to play and earn.\n",
+  "explorer" : "https://bscscan.com/token/0xC4594aFAD15AB2d76440533023Ff9c9839cbAe9D",
+  "type" : "BEP721",
+  "symbol" : "Hacker",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC4594aFAD15AB2d76440533023Ff9c9839cbAe9D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/TheCryptoYou"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/BJ99fz5T8P"
+  }, {
+    "name" : "medium",
+    "url" : "https://thecryptoyou.medium.com/"
+  } ]
+}

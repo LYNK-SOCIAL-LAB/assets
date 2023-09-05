@@ -1,0 +1,16 @@
+{
+  "name" : "Essence of Starlight",
+  "website" : "http://bridgeworld.treasure.lol",
+  "description" : "Functional items that are crafted from Treasures and give utility in the Metaverse.",
+  "explorer" : "https://arbiscan.io/token/0xF3d00A2559d84De7aC093443bcaAdA5f4eE4165C",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF3d00A2559d84De7aC093443bcaAdA5f4eE4165C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/treasuredao"
+  } ]
+}

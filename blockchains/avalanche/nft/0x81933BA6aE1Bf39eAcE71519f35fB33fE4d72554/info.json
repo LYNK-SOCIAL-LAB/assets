@@ -1,0 +1,19 @@
+{
+  "name" : "NodeBears",
+  "website" : "https://nodebears.com",
+  "description" : "Hi Bears! 🐻\r\n\r\nWe would like to announce the new contract (0xd5c6064e09ff127e24900adfb8559c4ee0634729) with which your NFTs will be actually revealed. Use the following link and the following instructions to make sure you mint your Bears correctly.\r\n\r\nHere are the following steps to migrate your Node Bear NFTs.\r\n\r\n1- Go to https://www.wrapnodebears.com/\r\n2- Connect your wallet to the website\r\n\r\n\r\n3- Approve the contract by clicking on “Approve Wrapper Contract”\r\n\r\n4- Click “Wrap Selected Node Bear” or “Wrap all Node Bears” depending on the amount of NFTs you have, we suggest you wrap/migrate them at the same time to avoid gasfees.\r\n\r\n5- Verify you have received the new and revealed contract.",
+  "explorer" : "https://snowtrace.io/token/0x81933BA6aE1Bf39eAcE71519f35fB33fE4d72554",
+  "type" : "AVA721",
+  "symbol" : "NB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x81933BA6aE1Bf39eAcE71519f35fB33fE4d72554",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/NodeBearsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/nodebearsnft"
+  } ]
+}

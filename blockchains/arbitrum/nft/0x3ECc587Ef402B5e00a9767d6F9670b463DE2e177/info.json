@@ -1,0 +1,19 @@
+{
+  "name" : "MetaLine-MysteryBox",
+  "website" : "https://metaline.games",
+  "description" : "MetaLine is a large-scale Web3-based multi-connect game for nautical management, adventure and strategy.\r\nMetaLine has six system modules, including a production and trading system, an upgrading system, a port system, a combat system, a NFT system, and an ecosystem. Obtain rich game play and build your sea empire through cooperation and association between different mission systems. With the gradual release of missions, the built-in port system also opens the door for more users to enter the meta-universe. Combined with the combat system, players will get the best game experience.",
+  "explorer" : "https://arbiscan.io/token/0x3ECc587Ef402B5e00a9767d6F9670b463DE2e177",
+  "type" : "ARC1155",
+  "symbol" : "MLMB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3ECc587Ef402B5e00a9767d6F9670b463DE2e177",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Metaline001"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/FeKEExH8XD"
+  } ]
+}

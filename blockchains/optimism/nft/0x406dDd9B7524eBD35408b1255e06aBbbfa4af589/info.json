@@ -1,0 +1,13 @@
+{
+  "name" : "Say Hello to Linea, a Developer Friendly zk-Rollup, Powered by ConsenSys",
+  "website" : "https://mirror.xyz/",
+  "description" : "https://mirror.xyz/10/0x406ddd9b7524ebd35408b1255e06abbbfa4af589",
+  "explorer" : "https://optimistic.etherscan.io/token/0x406dDd9B7524eBD35408b1255e06aBbbfa4af589",
+  "type" : "OP721",
+  "symbol" : "SAYHELLOTOLINEAADEVELOPERFRIENDLYZK-ROLLUPPOWEREDBYCONSENSYS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x406dDd9B7524eBD35408b1255e06aBbbfa4af589",
+  "tags" : null,
+  "links" : [ ]
+}

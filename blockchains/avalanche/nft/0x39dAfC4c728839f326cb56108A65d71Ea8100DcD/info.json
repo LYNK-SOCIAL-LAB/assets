@@ -1,0 +1,19 @@
+{
+  "name" : "Gods of Asgard",
+  "website" : "https://godsofasgardp2e.com/",
+  "description" : "Gods of Asgard is a fully immersive P2E Battle-Royale game rooted in\nNorse mythology and powered by the Avalanche blockchain. Each NFT is\nyour playable character providing access to the Gods of Asgard Universe.\nBattle, survive, and earn your way though the vast open world of\nMidgard.",
+  "explorer" : "https://snowtrace.io/token/0x39dAfC4c728839f326cb56108A65d71Ea8100DcD",
+  "type" : "AVA721",
+  "symbol" : "ASG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x39dAfC4c728839f326cb56108A65d71Ea8100DcD",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GodsofAsgardP2E"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/thorfinancial"
+  } ]
+}

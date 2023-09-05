@@ -1,0 +1,19 @@
+{
+  "name" : "The Beacon",
+  "website" : "https://thebeacon.gg",
+  "description" : "The Beacon NFTs\n\nF2P action roguelite RPG, in development. Venture into dungeons, defeat evils & expand the Beacon's light!",
+  "explorer" : "https://arbiscan.io/token/0x990eB28e378659b93A29D46fF41F08DC6316DD98",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x990eB28e378659b93A29D46fF41F08DC6316DD98",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/The_Beacon_GG"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/thebeacon"
+  } ]
+}

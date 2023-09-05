@@ -1,0 +1,13 @@
+{
+  "name" : "AZUKI Box Official",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x7888d293cd4544D7BC8E4AD5773b7D7083F594fE",
+  "type" : "PRC1155",
+  "symbol" : "azuki",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7888d293cd4544D7BC8E4AD5773b7D7083F594fE",
+  "tags" : null,
+  "links" : [ ]
+}

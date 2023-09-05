@@ -1,0 +1,22 @@
+{
+  "name" : "MetaRim",
+  "website" : "https://t.co/dUgBOTwk85",
+  "description" : "Defend the METARIM from invasion! 8, 888 unique mecha stand by for action, we need drives are you ready? Coming soon to GameFi.",
+  "explorer" : "https://bscscan.com/token/0xA1F269e6732E2C12cAc73586aAae5202Bb0e6038",
+  "type" : "BEP721",
+  "symbol" : "MetaRim",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA1F269e6732E2C12cAc73586aAae5202Bb0e6038",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/meta_rim"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/ETiIWwQVQ2"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/metarim.io/"
+  } ]
+}

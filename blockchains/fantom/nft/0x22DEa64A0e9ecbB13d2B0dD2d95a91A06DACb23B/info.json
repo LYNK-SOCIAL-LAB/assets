@@ -1,0 +1,22 @@
+{
+  "name" : "DaemonPunks",
+  "website" : "https://bitdaemons.space/",
+  "description" : "DaemonPunks are a collection of 345 punks corrupted by the remnant subroutines of the lost BitDaemons. All handmade, all 1/1. Minted on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x22DEa64A0e9ecbB13d2B0dD2d95a91A06DACb23B",
+  "type" : "FRC721",
+  "symbol" : "DMNPUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x22DEa64A0e9ecbB13d2B0dD2d95a91A06DACb23B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@DaemonPunks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/h2wEqVgpBD"
+  }, {
+    "name" : "medium",
+    "url" : "https://bitdaemons.medium.com/"
+  } ]
+}

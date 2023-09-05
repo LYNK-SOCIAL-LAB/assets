@@ -1,0 +1,16 @@
+{
+  "name" : "Balancer Crystal",
+  "website" : "http://treasure.lol",
+  "description" : "Exchange your SLP for one of these to further the fun in Bridgeworld.",
+  "explorer" : "https://arbiscan.io/token/0xBfeBa04384CeCfAf0240b49163ed418f82E43d3A",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xBfeBa04384CeCfAf0240b49163ed418f82E43d3A",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/treasuredao"
+  } ]
+}

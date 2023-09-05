@@ -1,0 +1,19 @@
+{
+  "name" : "DroEats",
+  "website" : "https://droeats.com/",
+  "description" : "Little DroEats love cooking, eating and fighting! That’s why they’ve made their own battle arena, and now competes alongside the Minters!",
+  "explorer" : "https://arbiscan.io/token/0xc9B45dA95b0545f3c675950A7D422b33F9D44A2D",
+  "type" : "ARC721",
+  "symbol" : "DROE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc9B45dA95b0545f3c675950A7D422b33F9D44A2D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DroEats"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/mintersworld"
+  } ]
+}

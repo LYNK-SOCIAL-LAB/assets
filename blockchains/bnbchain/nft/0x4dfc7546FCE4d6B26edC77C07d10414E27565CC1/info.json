@@ -1,0 +1,16 @@
+{
+  "name" : "Fitr Gym Bags",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x4dfc7546FCE4d6B26edC77C07d10414E27565CC1",
+  "type" : "BEP721",
+  "symbol" : "FGB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4dfc7546FCE4d6B26edC77C07d10414E27565CC1",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FitRofficial"
+  } ]
+}

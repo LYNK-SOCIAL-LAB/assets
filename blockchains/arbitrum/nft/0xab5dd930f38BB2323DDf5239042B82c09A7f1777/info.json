@@ -1,0 +1,13 @@
+{
+  "name" : "Dopex Genesis NFT",
+  "website" : null,
+  "description" : "\"We are a community driven NFT project supporting Dopex and its community. We have created a custom set of NFT related to Dopex's history and evolution.\"",
+  "explorer" : "https://arbiscan.io/token/0xab5dd930f38BB2323DDf5239042B82c09A7f1777",
+  "type" : "ARC721",
+  "symbol" : "DopexNFTGen",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xab5dd930f38BB2323DDf5239042B82c09A7f1777",
+  "tags" : null,
+  "links" : [ ]
+}

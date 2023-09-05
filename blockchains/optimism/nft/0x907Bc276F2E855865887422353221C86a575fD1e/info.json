@@ -1,0 +1,13 @@
+{
+  "name" : "Cryptovania",
+  "website" : null,
+  "description" : "\"Minting is closed. Cryptovania is your next adventure. An experiment in decentralized storytelling owning a human will give you the building blocks needed to create and share your own unique story. What will you make of it? This is a land of opportunity where anything is possible and the only limit is your imagination. So enter Cryptovania and begin writing your adventure today.\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0x907Bc276F2E855865887422353221C86a575fD1e",
+  "type" : "OP721",
+  "symbol" : "BLOOD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x907Bc276F2E855865887422353221C86a575fD1e",
+  "tags" : null,
+  "links" : [ ]
+}

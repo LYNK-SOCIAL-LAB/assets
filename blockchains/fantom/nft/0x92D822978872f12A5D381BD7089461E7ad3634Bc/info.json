@@ -1,0 +1,19 @@
+{
+  "name" : "Fantom Waifus",
+  "website" : "https://www.fantomwaifus.com/",
+  "description" : "Waifus living on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x92D822978872f12A5D381BD7089461E7ad3634Bc",
+  "type" : "FRC721",
+  "symbol" : "WAIFU",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x92D822978872f12A5D381BD7089461E7ad3634Bc",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantomWaifus"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Cr5bGwtQWk"
+  } ]
+}

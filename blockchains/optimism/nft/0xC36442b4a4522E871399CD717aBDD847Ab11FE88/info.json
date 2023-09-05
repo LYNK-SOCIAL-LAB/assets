@@ -1,0 +1,13 @@
+{
+  "name" : "Uniswap V3 Positions NFT-V1",
+  "website" : null,
+  "description" : "Uniswap v3 Liquidity Positions",
+  "explorer" : "https://optimistic.etherscan.io/token/0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+  "type" : "OP721",
+  "symbol" : "UNI-V3-POS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+  "tags" : null,
+  "links" : [ ]
+}

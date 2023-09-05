@@ -1,0 +1,13 @@
+{
+  "name" : "Galxe Stargate Warrior",
+  "website" : "https://stargate.finance/",
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0x4E3A6e6534097A42B505C280BA5cd7d203bE9501",
+  "type" : "OP721",
+  "symbol" : "STGW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4E3A6e6534097A42B505C280BA5cd7d203bE9501",
+  "tags" : null,
+  "links" : [ ]
+}

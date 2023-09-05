@@ -1,0 +1,22 @@
+{
+  "name" : "AVA BLOTS",
+  "website" : "https://www.avablots.com",
+  "description" : "Ava Blots is a collection of 500 beautiful flowing generative art collectibles on Avalanche. The forms, shapes and colours are carefully selected to be both satisfying and calming.",
+  "explorer" : "https://snowtrace.io/token/0x49E2F3C5E45EfB07a2EF86cf91fF48d1aA822D25",
+  "type" : "AVA721",
+  "symbol" : "BLOTS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x49E2F3C5E45EfB07a2EF86cf91fF48d1aA822D25",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/avablots"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ZVYaxHaDza"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/avablots"
+  } ]
+}

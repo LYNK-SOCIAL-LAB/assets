@@ -1,0 +1,22 @@
+{
+  "name" : "Farm Planet Land NFT Game Pass",
+  "website" : "https://farmplanet.io/",
+  "description" : "Farm Planet is a 3D play-to-earn game on BSC.\n",
+  "explorer" : "https://bscscan.com/token/0xbc222458B9aC6d2Bf28D30eF1647bfF7f6A53cB8",
+  "type" : "BEP721",
+  "symbol" : "LandNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbc222458B9aC6d2Bf28D30eF1647bfF7f6A53cB8",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/FarmPlanetBSC"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/y639uQnpmU"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FarmPlanetBSC"
+  } ]
+}

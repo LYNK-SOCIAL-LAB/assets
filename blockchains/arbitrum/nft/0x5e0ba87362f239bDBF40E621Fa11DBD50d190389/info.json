@@ -1,0 +1,19 @@
+{
+  "name" : "Toadtoolz",
+  "website" : "https://www.toadstoolz.lol/",
+  "description" : "Toadstoolz is an on-chain toad life simulation NFT game built on the TreasureDAO ecosystem. Toadz love to hunt for $BUGZ, go on adventures and are obsessed with collecting NFTs.\r\n\r\nThis collection includes in-game itemz collected in Croakshire.",
+  "explorer" : "https://arbiscan.io/token/0x5e0ba87362f239bDBF40E621Fa11DBD50d190389",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5e0ba87362f239bDBF40E621Fa11DBD50d190389",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/toadstoolzNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/NbVqYCg5"
+  } ]
+}

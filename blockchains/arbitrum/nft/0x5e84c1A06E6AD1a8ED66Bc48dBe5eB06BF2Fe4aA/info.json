@@ -1,0 +1,13 @@
+{
+  "name" : "The Lost Donkeys",
+  "website" : null,
+  "description" : "The Lost Donkeys is a PFP & Gamefi project where barns will be built and donkeys will prevail. Train your donkey to become the farmer you’ve always wanted to be and harvest $Carrot. Your donkey is never gonna give you up, never gonna let you down!",
+  "explorer" : "https://arbiscan.io/token/0x5e84c1A06E6AD1a8ED66Bc48dBe5eB06BF2Fe4aA",
+  "type" : "ARC721",
+  "symbol" : "TLD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5e84c1A06E6AD1a8ED66Bc48dBe5eB06BF2Fe4aA",
+  "tags" : null,
+  "links" : [ ]
+}

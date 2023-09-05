@@ -1,0 +1,13 @@
+{
+  "name" : "OAYC Mutagen III",
+  "website" : "http://oayc.io",
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0xF68F8d089F2A1EFe2395aca82288753DC2CEa8a4",
+  "type" : "OP721",
+  "symbol" : "MIII",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF68F8d089F2A1EFe2395aca82288753DC2CEa8a4",
+  "tags" : null,
+  "links" : [ ]
+}

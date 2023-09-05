@@ -1,0 +1,13 @@
+{
+  "name" : "Nautilus",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0x203f6EC8b1Bb1D4A97943C93eF0B6B76BA6b583B",
+  "type" : "FRC721",
+  "symbol" : "NAUTILUS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x203f6EC8b1Bb1D4A97943C93eF0B6B76BA6b583B",
+  "tags" : null,
+  "links" : [ ]
+}

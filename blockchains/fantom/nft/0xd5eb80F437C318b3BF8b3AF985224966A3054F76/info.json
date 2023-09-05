@@ -1,0 +1,16 @@
+{
+  "name" : "Binary Punks",
+  "website" : "http://binarypunks.com/",
+  "description" : "10,000 Binary Punks manually collated and converted one by one.",
+  "explorer" : "https://ftmscan.com/token/0xd5eb80F437C318b3BF8b3AF985224966A3054F76",
+  "type" : "FRC721",
+  "symbol" : "PUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd5eb80F437C318b3BF8b3AF985224966A3054F76",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Binary_Punks"
+  } ]
+}

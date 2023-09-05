@@ -1,0 +1,19 @@
+{
+  "name" : "CHAD DOGE",
+  "website" : "https://chaddoge.xyz/",
+  "description" : "Chad Doge roams the Avax C-Chain, or as we call it, Chad-Chain. Chad\nvibes only.",
+  "explorer" : "https://snowtrace.io/token/0x357928B721890Ed007142e45502A323827caF812",
+  "type" : "AVA721",
+  "symbol" : "CHAD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x357928B721890Ed007142e45502A323827caF812",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/avaxchaddoge"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/FhQJKKvYCe"
+  } ]
+}

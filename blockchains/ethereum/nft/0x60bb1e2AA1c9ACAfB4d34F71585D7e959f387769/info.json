@@ -1,0 +1,19 @@
+{
+  "name" : "Art Gobblers",
+  "website" : "https://artgobblers.com/",
+  "description" : "Art Gobblers gobble art.\r\n\r\n\"When the Art Gobblers came, they promised nothing, and asked for nothing in return. They merely showed us a way the world could be, and invited us to manifest it into being. With hearts full of hope, we stepped into the void.”\r\n\r\n— The Book of Goob\r\n\r\nhttps://artgobblers.com/",
+  "explorer" : "https://etherscan.io/token/0x60bb1e2AA1c9ACAfB4d34F71585D7e959f387769",
+  "type" : "ERC721",
+  "symbol" : "GOBBLER",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x60bb1e2AA1c9ACAfB4d34F71585D7e959f387769",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/artgobblers"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/artgobblers"
+  } ]
+}

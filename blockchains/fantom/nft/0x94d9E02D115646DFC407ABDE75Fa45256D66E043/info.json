@@ -1,0 +1,22 @@
+{
+  "name" : "XEN Torrent",
+  "website" : "https://xen.network/fantom/xenft",
+  "description" : "Collect APEX, LIMITED and COLLECTOR NFTs from the makers of XEN CRYPTO.<br><br>XEN CRYPTO XENFTs pay yield with XEN Crypto ERC-20 Token which is trading on Uniswap, Huobi, MEXC.  XEN CRYPTO was designed with similar tokenomics as Bitcoin.  Currently deployed on 10 different EVM compatible chains.    Launched on October 8th, 2022, XEN CRYPTO has quickly become a dominant force on Ethereum blockchain, making ethereum deflationary for the first time since POS Merge.   XEN Crypto boasts over a million users that are currently minting and trading XEN.   <br><br>XEN CRYPTO follows first principles of Blockchain, leveling the playing field for all participants.  With Fair Launch, there was no premine, premint, Founder allocation of any kind.   All participants can mint XEN for free on https://xen.network<br><br>XEN CRYPTO smart contract is on-chain, immutable, audited and without admin keys, making XEN of the safest Crypto projects in the world.  <br><br>XENFT Litepaper : https://faircrypto.org/xenft_litepaper.pdf<br>",
+  "explorer" : "https://ftmscan.com/token/0x94d9E02D115646DFC407ABDE75Fa45256D66E043",
+  "type" : "FRC721",
+  "symbol" : "fmXENT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x94d9E02D115646DFC407ABDE75Fa45256D66E043",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@XEN_Crypto"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/rcAhrKWJb6"
+  }, {
+    "name" : "telegram",
+    "url" : "@XENCryptoTalk"
+  } ]
+}

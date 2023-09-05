@@ -1,0 +1,22 @@
+{
+  "name" : "SCREAMO",
+  "website" : "https://scream.sh/",
+  "description" : "SCREAMO's are a collection of 6,666 3-dimensional collectibles with a wide array of highly creative attributes. Each SCREAMO is minted on the Fantom Blockchain using the ERC721 standard. The assets for SCREAMO are stored on IPFS — a decentralized file storage system, forever.",
+  "explorer" : "https://ftmscan.com/token/0x60208C88d6E61305726697b4e3A7c7A5C615D011",
+  "type" : "FRC721",
+  "symbol" : "SCREAMO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x60208C88d6E61305726697b4e3A7c7A5C615D011",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@Screamdotsh"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ydYMYSJSbH"
+  }, {
+    "name" : "medium",
+    "url" : "https://screamsh.medium.com/"
+  } ]
+}

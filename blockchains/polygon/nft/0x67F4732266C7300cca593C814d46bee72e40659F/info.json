@@ -1,0 +1,22 @@
+{
+  "name" : "ZED Horse",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x67F4732266C7300cca593C814d46bee72e40659F",
+  "type" : "PRC721",
+  "symbol" : "ZED",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x67F4732266C7300cca593C814d46bee72e40659F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/zed_run"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/zedrun"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/zed.run"
+  } ]
+}

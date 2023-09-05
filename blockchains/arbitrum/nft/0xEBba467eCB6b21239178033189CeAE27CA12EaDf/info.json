@@ -1,0 +1,16 @@
+{
+  "name" : "Silver Coin",
+  "website" : "http://treasure.lol",
+  "description" : "Treasures are composable building blocks in Bridgeworld that will be used inter- and intra-metaverse.",
+  "explorer" : "https://arbiscan.io/token/0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
+  "type" : "ARC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/treasuredao"
+  } ]
+}

@@ -1,0 +1,23 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"10",
+            "name":"Omniatech",
+            "url":"https://endpoints.omniatech.io/v1/op/mainnet/public",
+            "selected":1
+        },
+        {
+            "chainId":"10",
+            "name":"1Rpc",
+            "url":"https://1rpc.io/op",
+            "selected":0
+        },
+        {
+            "chainId":"10",
+            "name":"Blastapi",
+            "url":"https://optimism-mainnet.public.blastapi.io",
+            "selected":0
+        }
+    ]
+}

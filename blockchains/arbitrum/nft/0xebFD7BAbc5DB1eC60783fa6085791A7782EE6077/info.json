@@ -1,0 +1,13 @@
+{
+  "name" : "OreoChads",
+  "website" : "https://oreoswap.finance",
+  "description" : "The Oreo Chads is a collection of 555 unique NFTs living on the Arbitrum blockchain. Your Oreo Chad is much more than cool, they are also available to moon your yield and to give you exclusive access to further developments of OreoSwap.",
+  "explorer" : "https://arbiscan.io/token/0xebFD7BAbc5DB1eC60783fa6085791A7782EE6077",
+  "type" : "ARC721",
+  "symbol" : "OCHAD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xebFD7BAbc5DB1eC60783fa6085791A7782EE6077",
+  "tags" : null,
+  "links" : [ ]
+}

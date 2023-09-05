@@ -1,0 +1,22 @@
+{
+  "name" : "ShitPunks",
+  "website" : "https://www.shitpunks.com/",
+  "description" : "Hand-drawn recreation of all 10,000 CryptoPunks on BSC.",
+  "explorer" : "https://bscscan.com/token/0x11304895f41C5A9b7fBFb0C4B011A92f1020EF96",
+  "type" : "BEP721",
+  "symbol" : "SHITPUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x11304895f41C5A9b7fBFb0C4B011A92f1020EF96",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/Shit_Punks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/ShitPunks"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/ShitPunksOfficial"
+  } ]
+}

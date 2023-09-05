@@ -1,0 +1,13 @@
+{
+  "name" : "Boxer",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0xb03a572ee91aEcbdfa8ceF8196BF140A1E7410dF",
+  "type" : "OP721",
+  "symbol" : "Boxer",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb03a572ee91aEcbdfa8ceF8196BF140A1E7410dF",
+  "tags" : null,
+  "links" : [ ]
+}

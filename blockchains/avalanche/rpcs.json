@@ -1,0 +1,17 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"43114",
+            "name":"1RPC",
+            "url":"https://1rpc.io/avax/c",
+            "selected":1
+        },
+        {
+            "chainId":"43114",
+            "name":"Publicnode",
+            "url":"https://avalanche.blockpi.network/v1/rpc/public",
+            "selected":0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "MMC",
+  "website" : "https://app.mummy.finance/#/nft",
+  "description" : "A collection of 5,000 Mummy NFT on Fantom, creating a community centered around strong identity, values, and rewards. Each Mummy is unique and algorithmically generated from hand drawn traits. Holding Mummy NFT is the ticket to enter the endless reward party of $FTM<br>",
+  "explorer" : "https://ftmscan.com/token/0x573235B8e2708C39DD2Fa9Ec2d880121f4F83cA9",
+  "type" : "FRC721",
+  "symbol" : "MummyClub NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x573235B8e2708C39DD2Fa9Ec2d880121f4F83cA9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@mummyftm"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/xqSJaw8sUB"
+  }, {
+    "name" : "telegram",
+    "url" : "@mummyftm"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@mummyftm"
+  } ]
+}

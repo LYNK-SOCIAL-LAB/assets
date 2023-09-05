@@ -1,0 +1,19 @@
+{
+  "name" : "FantomUnderworld",
+  "website" : "http://czeptagold.com/FantomUnderground",
+  "description" : "They were once the infamous degens of the metaverse, but after a mysterious glitch, they have found themselves trapped within the Fantom Underworld, an ever-shifting labyrinth ruled over by a malevolent trickster. To escape, they must work together but will their degenerate ways keep them trapped there forever?",
+  "explorer" : "https://ftmscan.com/token/0xB8d562046f107d12F128E7d8DE0C491d62531c9F",
+  "type" : "FRC721",
+  "symbol" : "FTMUW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xB8d562046f107d12F128E7d8DE0C491d62531c9F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@Czepta"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/HJ3mWfDJWU"
+  } ]
+}

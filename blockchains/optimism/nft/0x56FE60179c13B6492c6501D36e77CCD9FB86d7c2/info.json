@@ -1,0 +1,13 @@
+{
+  "name" : "Tally Ho Optimissions",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0x56FE60179c13B6492c6501D36e77CCD9FB86d7c2",
+  "type" : "OP721",
+  "symbol" : "TH_OP_NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x56FE60179c13B6492c6501D36e77CCD9FB86d7c2",
+  "tags" : null,
+  "links" : [ ]
+}

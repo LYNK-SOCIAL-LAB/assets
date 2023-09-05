@@ -1,0 +1,16 @@
+{
+  "name" : "Oppa Bear Pixel",
+  "website" : "https://oppabear-pixel.com/",
+  "description" : "</p>Oppa Bear Pixel Art is a collection of 2,000 random Generative NFTs on Optimism, Layer 2 of the Ethereum Blockchain. Oppa Bear NFTs consist of a variety of different unique body, clothes, hats, backgrounds, accessories and colors.</p>",
+  "explorer" : "https://optimistic.etherscan.io/token/0x76c9fb6ae4151e00bbdbf9B771CF84DE42a31636",
+  "type" : "OP721",
+  "symbol" : "OPPABEARPIXEL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x76c9fb6ae4151e00bbdbf9B771CF84DE42a31636",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/oppa_bear_pixel"
+  } ]
+}

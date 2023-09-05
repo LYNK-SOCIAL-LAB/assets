@@ -1,0 +1,13 @@
+{
+  "name" : "veChronos",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x9A01857f33aa382b1d5bb96C3180347862432B0d",
+  "type" : "ARC721",
+  "symbol" : "veCHR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9A01857f33aa382b1d5bb96C3180347862432B0d",
+  "tags" : null,
+  "links" : [ ]
+}

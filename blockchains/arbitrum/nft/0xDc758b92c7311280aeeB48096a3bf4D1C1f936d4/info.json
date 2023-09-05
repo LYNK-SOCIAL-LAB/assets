@@ -1,0 +1,19 @@
+{
+  "name" : "ImbuedSoul",
+  "website" : "https://www.lifeverse.gg",
+  "description" : "Character primitives evolved from the Seed of Life, Imbued Souls are the composable life forms that originated in the land of Phanes. Every Imbued Soul has equal governance rights over LifeVerse.",
+  "explorer" : "https://arbiscan.io/token/0xDc758b92c7311280aeeB48096a3bf4D1C1f936d4",
+  "type" : "ARC721",
+  "symbol" : "SOUL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xDc758b92c7311280aeeB48096a3bf4D1C1f936d4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@LifeVerse_GG"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/lifeverse"
+  } ]
+}

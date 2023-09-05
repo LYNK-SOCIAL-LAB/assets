@@ -1,0 +1,19 @@
+{
+  "name" : "NFT2",
+  "website" : "https://meta-force.space/",
+  "description" : "Royalty NFT is a status program where you receive Royalty Bonuses, and it is implemented in the NFT format.\r\n\r\nStatus, even at the minimal level, is a privileged one, as for this NFT impressive accruals from world income are allocated.\r\n\r\nFrom Meta Force",
+  "explorer" : "https://polygonscan.com/token/0x34C666b25795C5cAc3E8921a652e7377005bdBe3",
+  "type" : "PRC721",
+  "symbol" : "NFT2",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x34C666b25795C5cAc3E8921a652e7377005bdBe3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MetaForceSpace"
+  }, {
+    "name" : "instagram",
+    "url" : "metaforcespace"
+  } ]
+}

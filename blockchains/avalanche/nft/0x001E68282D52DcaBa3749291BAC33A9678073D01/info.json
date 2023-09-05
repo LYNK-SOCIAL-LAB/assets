@@ -1,0 +1,19 @@
+{
+  "name" : "Pizza Game Chefs",
+  "website" : "https://pizza.game/",
+  "description" : "Pizza Game is a decentralized remake of our favorite childhood online\ngame, Cookie Clicker. We decided to take a simple game loved by all and\nmake it play to earn. After weeks of hard work, it is finally time to\nreveal the rules to this classic, addicting, incremental childhood game!\nIn order to play Pizza Game you must purchase a Pizza Chef and stake\nthem on our website (coming soon). Chefs produce $Pizza every minute\nthat you can claim and use to purchase upgrades. Chefs will be sold\nthrough our NFT drop and will be your golden ticket to the Pizza Game.",
+  "explorer" : "https://snowtrace.io/token/0x001E68282D52DcaBa3749291BAC33A9678073D01",
+  "type" : "AVA721",
+  "symbol" : "PIZZA-GAME-CHEF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x001E68282D52DcaBa3749291BAC33A9678073D01",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/pizzadotgame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/pizzagame"
+  } ]
+}

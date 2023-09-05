@@ -1,0 +1,25 @@
+{
+  "name" : "World Of Women",
+  "website" : "http://worldofwomen.art",
+  "description" : "World of Women is a collection of 10,000 NFTs that gives you full access to our network of artists, creators, entrepreneurs, and executives who are championing diversity and equal opportunity on the blockchain.\n\nCreated and illustrated by Yam Karkai (@ykarkai), World of Women has made prominent appearances at Christie's, The New Yorker and Billboard.\n\nJoin us to receive exclusive access to NFT drops, experiences, and much more.\n\nThe Time is WoW.",
+  "explorer" : "https://etherscan.io/token/0xe785E82358879F061BC3dcAC6f0444462D4b5330",
+  "type" : "ERC721",
+  "symbol" : "WOW",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xe785E82358879F061BC3dcAC6f0444462D4b5330",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/worldofwomennft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/worldofwomen"
+  }, {
+    "name" : "instagram",
+    "url" : "worldofwomen"
+  }, {
+    "name" : "medium",
+    "url" : "WorldofWomen"
+  } ]
+}

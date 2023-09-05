@@ -1,0 +1,19 @@
+{
+  "name" : "ZombieSociety",
+  "website" : "https://thezombiesociety.com",
+  "description" : "Become an exclusive member of the group who ate mankind. You will be the ones who will decide the fate of the new world. They came for our brains but stayed for our phones. Zombies are now sharing lifestyle tips, promoting fitness supplements and shilling a dream life.",
+  "explorer" : "https://ftmscan.com/token/0x99571dA737e351396Df2D389CeAAB13486A387bA",
+  "type" : "FRC721",
+  "symbol" : "Zombie",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x99571dA737e351396Df2D389CeAAB13486A387bA",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@ZombieSocNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/nu8Jfyg8Cz"
+  } ]
+}

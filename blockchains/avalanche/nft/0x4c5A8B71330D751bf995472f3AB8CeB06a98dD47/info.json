@@ -1,0 +1,16 @@
+{
+  "name" : "Rich Peon Poor Peon",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x4c5A8B71330D751bf995472f3AB8CeB06a98dD47",
+  "type" : "AVA721",
+  "symbol" : "PEON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4c5A8B71330D751bf995472f3AB8CeB06a98dD47",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/peonnft"
+  } ]
+}

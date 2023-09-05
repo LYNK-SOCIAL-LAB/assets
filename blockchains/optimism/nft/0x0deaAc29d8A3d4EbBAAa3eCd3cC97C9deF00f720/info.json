@@ -1,0 +1,19 @@
+{
+  "name" : "OaycNFT",
+  "website" : "http://oayc.io",
+  "description" : "10k $OPtimistic Ape NFTs living on the best L2 $ETH rollup solution today!",
+  "explorer" : "https://optimistic.etherscan.io/token/0x0deaAc29d8A3d4EbBAAa3eCd3cC97C9deF00f720",
+  "type" : "OP721",
+  "symbol" : "OAYC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0deaAc29d8A3d4EbBAAa3eCd3cC97C9deF00f720",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/OptiApeYC"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/oayc"
+  } ]
+}

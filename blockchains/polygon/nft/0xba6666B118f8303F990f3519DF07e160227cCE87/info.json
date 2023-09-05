@@ -1,0 +1,22 @@
+{
+  "name" : "Planet IX - Assets",
+  "website" : "http://www.planetix.com",
+  "description" : "This is the collection which displays all the in-game assets which carry utility in the Planet IX Metaverse. Holders can expect airdrops, whitelists, utility in the game such as upgrades, accelerated rewards and much more to come.",
+  "explorer" : "https://polygonscan.com/token/0xba6666B118f8303F990f3519DF07e160227cCE87",
+  "type" : "PRC1155",
+  "symbol" : "PIX-A",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xba6666B118f8303F990f3519DF07e160227cCE87",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Planetix0"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/planetix"
+  }, {
+    "name" : "instagram",
+    "url" : "planet_ix_official"
+  } ]
+}

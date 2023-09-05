@@ -1,0 +1,16 @@
+{
+  "name" : "ArbitrumSocks",
+  "website" : "https://www.arbisocks.com/",
+  "description" : "ArbiSocks utilizes the advanced Optimistic Rollup technology to design a unique, limited-edition tokenized socks.",
+  "explorer" : "https://arbiscan.io/token/0xdf8aC21A9C82b2E6D1e82207c918bC3b8e424E62",
+  "type" : "ARC721",
+  "symbol" : "ZKSOCKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xdf8aC21A9C82b2E6D1e82207c918bC3b8e424E62",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ArbitrumSocks"
+  } ]
+}

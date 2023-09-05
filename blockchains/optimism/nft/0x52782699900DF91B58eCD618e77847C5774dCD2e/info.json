@@ -1,0 +1,13 @@
+{
+  "name" : "Optimistic Bunnies",
+  "website" : null,
+  "description" : "\"These bunnies are hopping around on the blockchain. Optimistic Bunnies NFT is a collection of 5151 unique bunnies featuring 100+ traits. They have great personalities and are optimistic about the future. Adopt one and show off your awesome personality. Owner of the NFT has right to the image.\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0x52782699900DF91B58eCD618e77847C5774dCD2e",
+  "type" : "OP721",
+  "symbol" : "Bunny",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x52782699900DF91B58eCD618e77847C5774dCD2e",
+  "tags" : null,
+  "links" : [ ]
+}

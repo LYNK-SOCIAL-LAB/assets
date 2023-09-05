@@ -1,0 +1,13 @@
+{
+  "name" : "AZK Mint Box",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x104eD06d70bDe4106c7B61897aF8F7c70763686E",
+  "type" : "PRC1155",
+  "symbol" : "azuki",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x104eD06d70bDe4106c7B61897aF8F7c70763686E",
+  "tags" : null,
+  "links" : [ ]
+}

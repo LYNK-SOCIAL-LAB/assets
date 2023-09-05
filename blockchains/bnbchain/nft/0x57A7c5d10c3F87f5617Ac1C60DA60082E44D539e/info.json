@@ -1,0 +1,22 @@
+{
+  "name" : "Alpies",
+  "website" : "https://t.co/5sEUZOXKXb",
+  "description" : "A limited edition collection of 5,000 dark-themed Alpies will be sold as NFTs on Binance Smart Chain. Join these relentless capitalists in clearing their path to success through a fierce focus on execution.\n",
+  "explorer" : "https://bscscan.com/token/0x57A7c5d10c3F87f5617Ac1C60DA60082E44D539e",
+  "type" : "BEP721",
+  "symbol" : "ALPIES",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x57A7c5d10c3F87f5617Ac1C60DA60082E44D539e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/AlpacaFinance"
+  }, {
+    "name" : "discord",
+    "url" : " http://discord.gg/2UvgmqcVDQ"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/xa4an3vHsM"
+  } ]
+}

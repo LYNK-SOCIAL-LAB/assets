@@ -1,0 +1,13 @@
+{
+  "name" : "ODOS.xyz NFT Campaign",
+  "website" : null,
+  "description" : "Odos leverages a unique algorithm to traverse a large universe of possible token swap combinations and non-linear paths, delivering greater savings to its users",
+  "explorer" : "https://arbiscan.io/token/0x47B4ee9B46E606CDd9E5390A18219b44F1D4eb57",
+  "type" : "ARC721",
+  "symbol" : "ODOS.xyz",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x47B4ee9B46E606CDd9E5390A18219b44F1D4eb57",
+  "tags" : null,
+  "links" : [ ]
+}

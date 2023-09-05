@@ -1,0 +1,19 @@
+{
+  "name" : "FHFC | Boo Lifetime Mint Pass",
+  "website" : "",
+  "description" : "The FHFC Boo Lifetime Mint Passes are LTD edition WL passes that give a (Guaranteed Allocation) of 25% on all the WL spots for every FHFC NFT Drop! If you collect all 11 Unique Editions you can burn them to redeem a MEGA BOO. There will only ever be 100 MEGA BOOs created.",
+  "explorer" : "https://ftmscan.com/token/0x2741a61Fa5FF46288FFccfd0C33891251A2657e2",
+  "type" : "FRC721",
+  "symbol" : "BOO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x2741a61Fa5FF46288FFccfd0C33891251A2657e2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@FHFCNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/4vYnxdg9"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Neon Shadow Punks",
+  "website" : "",
+  "description" : "Neon Shadow Punks is a collection of 250 NFT's, minted exclusively for the Fantom Blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x1B69822d4a96C489982412699F5d5313476b88eB",
+  "type" : "FRC1155",
+  "symbol" : null,
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1B69822d4a96C489982412699F5d5313476b88eB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@NeonShadowPunks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/RfAJBq7wVF"
+  } ]
+}

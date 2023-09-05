@@ -1,0 +1,16 @@
+{
+  "name" : "PEACE DOVE",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xd66e7433c16A9B3223D6425BEE27FFEeC9D11B54",
+  "type" : "BEP721",
+  "symbol" : "PEACE DOVE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd66e7433c16A9B3223D6425BEE27FFEeC9D11B54",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PeaceDAO_token"
+  } ]
+}

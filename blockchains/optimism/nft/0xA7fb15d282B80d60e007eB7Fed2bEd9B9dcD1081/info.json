@@ -1,0 +1,13 @@
+{
+  "name" : "OptiMonkeysGang",
+  "website" : null,
+  "description" : "\"OMG! A gang of 3333 monkeys ready to take over OptimismPBC!\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0xA7fb15d282B80d60e007eB7Fed2bEd9B9dcD1081",
+  "type" : "OP721",
+  "symbol" : "OMG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA7fb15d282B80d60e007eB7Fed2bEd9B9dcD1081",
+  "tags" : null,
+  "links" : [ ]
+}

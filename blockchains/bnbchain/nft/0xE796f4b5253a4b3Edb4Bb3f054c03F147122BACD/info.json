@@ -1,0 +1,28 @@
+{
+  "name" : "Catgirl NFT",
+  "website" : null,
+  "description" : "Catgirl creates an in-depth entertainment platform consisting of digitally-engineered collectible Catgirls. Users can truly own Catgirls and verify their ownership on the blockchain. With customizable Catgirl NFTs coming soon to our Catgirl ecosystem, we will bring a multitude of ways to allow our users to express themselves, and earn rewards.\n",
+  "explorer" : "https://bscscan.com/token/0xE796f4b5253a4b3Edb4Bb3f054c03F147122BACD",
+  "type" : "BEP721",
+  "symbol" : "CATGIRLNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE796f4b5253a4b3Edb4Bb3f054c03F147122BACD",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/catgirlcoin"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/catgirlcoin"
+  }, {
+    "name" : "telegram",
+    "url" : " http://t.me/catgirlcoin "
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/catgirlcoin"
+  }, {
+    "name" : "medium",
+    "url" : "https://catgirlteam.medium.com/"
+  } ]
+}

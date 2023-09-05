@@ -1,0 +1,19 @@
+{
+  "name" : "Hero Galaxy: Artifacts",
+  "website" : "https://herogalaxy.io",
+  "description" : "Artifacts are stand-alone ERC 721 NFTs that can be equipped by Hero Galaxy Heroes or sold on the open market. \r\n\r\nArtifacts are earned as rewards for gameplay, heroic deeds, and by staked Heroes. Artifacts may also be minted in the Hero Galaxy Armory: https://armory.herogalaxy.io/heroes\r\n\r\nArtifacts follow tiers and mint/drop frequencies as follows: Common (50%), Uncommon (31%), Rare (12%), Epic (5.2%), Legendary (1.6%), Cosmic (0.19%), and Galactic, (0.1%).\r\n\r\nCheck out our links to learn more: https://linktr.ee/herogalaxy",
+  "explorer" : "https://polygonscan.com/token/0xAa8c6B9D67149439680b67ce395c4ac2D233b6DE",
+  "type" : "PRC721",
+  "symbol" : "ARTIFACTS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xAa8c6B9D67149439680b67ce395c4ac2D233b6DE",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/HeroGalaxyNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/herogalaxy"
+  } ]
+}

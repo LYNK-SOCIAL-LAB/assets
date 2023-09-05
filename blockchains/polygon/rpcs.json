@@ -1,0 +1,23 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId":"137",
+            "name":"Bor",
+            "url":"https://polygon-bor.publicnode.com",
+            "selected":1
+        },
+        {
+            "chainId":"137",
+            "name":"Blast",
+            "url":"https://polygon-mainnet.public.blastapi.io",
+            "selected":0
+        },
+        {
+            "chainId":"137",
+            "name":"llama",
+            "url":"https://polygon.llamarpc.com",
+            "selected":0
+        }
+    ]
+}

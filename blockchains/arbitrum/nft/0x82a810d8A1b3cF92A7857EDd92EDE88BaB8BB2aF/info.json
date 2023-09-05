@@ -1,0 +1,13 @@
+{
+  "name" : "Eternal Brawl Heros",
+  "website" : null,
+  "description" : "The hero card is the NFT of the world of brawl, he also has amazing effects and provides benefits to players.",
+  "explorer" : "https://arbiscan.io/token/0x82a810d8A1b3cF92A7857EDd92EDE88BaB8BB2aF",
+  "type" : "ARC721",
+  "symbol" : "EBH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x82a810d8A1b3cF92A7857EDd92EDE88BaB8BB2aF",
+  "tags" : null,
+  "links" : [ ]
+}

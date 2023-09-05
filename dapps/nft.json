@@ -1,0 +1,32 @@
+{
+    "deletes":[],
+    "actives": [
+        {
+            "name": "Opensea",
+            "intro": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today.",
+            "logo": "https://assets.lynk.social/dapps/icon/opensea.png",
+            "url": "https://opensea.io",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche",
+            "tags": "NFT,HOT",
+            "sorts": "0"
+        },
+        {
+            "name": "Blur",
+            "intro": "Blur is a unique non-fungible token (NFT) marketplace and aggregator platform that offers advanced features such as real-time price feeds, portfolio management and multi-marketplace NFT comparisons.",
+            "logo": "https://assets.lynk.social/dapps/icon/blur.png",
+            "url": "https://blur.io",
+            "networks": "ethereum",
+            "tags": "NFT,HOT",
+            "sorts": "1"
+        },
+        {
+            "name": "Cryptopunks",
+            "intro": "CryptoPunks is a non-fungible token (NFT) collection on the Ethereum blockchain.",
+            "logo": "https://assets.lynk.social/dapps/icon/cryptoPunks.png",
+            "url": "https://cryptopunks.app",
+            "networks": "ethereum",
+            "tags": "NFT,HOT",
+            "sorts": "2"
+        }
+    ]
+}

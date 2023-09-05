@@ -1,0 +1,22 @@
+{
+  "name" : "WyndBlast NFT",
+  "website" : "https://wyndblast.com/",
+  "description" : "WyndBlast is a play-to-earn multiplayer game built on avalanche. There\nare various in-game activities, including breeding, recruiting, forging,\nPVE & PVP. We introduce three kinds of digital assets (The wynd, The\nrider, and the equipment). That is Because wyndblast is the first game\nwe will build around Chronica Sola Verse. After WyndBlast has\nsuccessfully stable and matured, we will introduce another 'verse' or\nplay, and the player can use the same asset used in WyndBlast. That is\nwhy we need to ensure that the digital assets available are varied\nenough to fulfill this goal. The critical difference between WyndBlast\nand a traditional game is that Blockchain economic design unlocks the\nability to have complex player-owned economies and reward players who\ncan reach advanced skill levels. Players can have fun and work towards\nambitious goals while simultaneously earning potential resources that\nwill have real monetary value due to an open economic system and demand\nfrom other players - \"Play-and-Earn.\"",
+  "explorer" : "https://snowtrace.io/token/0x4B3903952A25961B9E66216186Efd9B21903AEd3",
+  "type" : "AVA721",
+  "symbol" : "WBNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4B3903952A25961B9E66216186Efd9B21903AEd3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/WyndBlast"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/NgjwWGTSeb"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/wyndblast"
+  } ]
+}

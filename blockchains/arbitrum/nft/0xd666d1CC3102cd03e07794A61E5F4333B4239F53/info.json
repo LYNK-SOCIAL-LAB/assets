@@ -1,0 +1,13 @@
+{
+  "name" : "Smol Brain Land",
+  "website" : null,
+  "description" : "A place for your Smols to call home. Smol Brains Land is a part of Smolverse, a fun and playful world of progressively-evolving NFTs on Arbitrum. Community-driven and built on good vibes.\r\n\r\nhttps://trove.treasure.lol/collection/smol-brains-land",
+  "explorer" : "https://arbiscan.io/token/0xd666d1CC3102cd03e07794A61E5F4333B4239F53",
+  "type" : "ARC721",
+  "symbol" : "SmolBrainLand",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd666d1CC3102cd03e07794A61E5F4333B4239F53",
+  "tags" : null,
+  "links" : [ ]
+}

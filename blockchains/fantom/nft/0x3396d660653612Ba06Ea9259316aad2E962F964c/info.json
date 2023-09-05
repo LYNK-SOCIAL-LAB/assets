@@ -1,0 +1,13 @@
+{
+  "name" : "Cosmic Frens",
+  "website" : "https://twitter.com/cosmicfriendnft",
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0x3396d660653612Ba06Ea9259316aad2E962F964c",
+  "type" : "FRC721",
+  "symbol" : "CSFR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3396d660653612Ba06Ea9259316aad2E962F964c",
+  "tags" : null,
+  "links" : [ ]
+}

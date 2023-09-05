@@ -1,0 +1,16 @@
+{
+  "name" : "Wolf Game",
+  "website" : "https://wolfgame.one/",
+  "description" : "Sheep and Wolves competing for $WOOL on a farm in the metaverse. Nothing but blockchain. No roadmap. Fully in the Public Domain.\n",
+  "explorer" : "https://bscscan.com/token/0x1d293cad3476f064cB684A37Ede558f8C1114a7a",
+  "type" : "BEP721",
+  "symbol" : "WGAME",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1d293cad3476f064cB684A37Ede558f8C1114a7a",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/wolfgamesbsc"
+  } ]
+}

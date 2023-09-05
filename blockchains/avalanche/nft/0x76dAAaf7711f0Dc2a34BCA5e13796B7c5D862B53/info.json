@@ -1,0 +1,19 @@
+{
+  "name" : "HatchyPocket",
+  "website" : "",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x76dAAaf7711f0Dc2a34BCA5e13796B7c5D862B53",
+  "type" : "AVA721",
+  "symbol" : "HATCHIE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x76dAAaf7711f0Dc2a34BCA5e13796B7c5D862B53",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/HatchyPocket"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/cW378HVjyY"
+  } ]
+}

@@ -1,0 +1,23 @@
+{
+    "deletes":[],
+    "actives": [
+        {
+            "name": "Compound",
+            "intro": "Compound is a DeFi lending protocol that allows users to earn interest on their cryptocurrencies by depositing them into one of several pools supported by the platform",
+            "logo": "https://s2.gongft.com/logo/1/compound.png",
+            "url": "https://compound.finance/",
+            "networks": "ethereum",
+            "tags": "LEND,HOT",
+            "sorts": "0"
+        },
+        {
+            "name": "Aave",
+            "intro": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
+            "logo": "https://s2.gongft.com/logo/1/aave-new.png",
+            "url": "https://aave.com/",
+            "networks": "ethereum",
+            "tags": "LEND,HOT",
+            "sorts": "1"
+        }
+    ]
+}

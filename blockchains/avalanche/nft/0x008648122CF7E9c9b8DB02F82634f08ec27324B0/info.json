@@ -1,0 +1,22 @@
+{
+  "name" : "Districts",
+  "website" : "https://redlight.finance/",
+  "description" : "Redlight Finance is a collection of all our projects coming under the Redlight District brand. For more information please visit our website",
+  "explorer" : "https://snowtrace.io/token/0x008648122CF7E9c9b8DB02F82634f08ec27324B0",
+  "type" : "AVA721",
+  "symbol" : "DISTRICTS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x008648122CF7E9c9b8DB02F82634f08ec27324B0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/RLNodeDistrict"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/RedlightNodeDistrict"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RLNodeDistrict"
+  } ]
+}

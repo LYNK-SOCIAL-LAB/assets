@@ -1,0 +1,25 @@
+{
+  "name" : "PolygonPunks",
+  "website" : "https://linktr.ee/polygonpunkscommunity",
+  "description" : "PolygonPunks are the 1st Punk NFTs on the Polygon blockchain. Each of the PolygonPunks has attributes that make them unique according to a defined rarity system. The entire collection of 10,000 Punks were officially minted out on August 3rd, 2021, solidifying their history as the 1st Punks on Polygon.",
+  "explorer" : "https://polygonscan.com/token/0x9498274B8C82B4a3127D67839F2127F2Ae9753f4",
+  "type" : "PRC721",
+  "symbol" : "ρ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9498274B8C82B4a3127D67839F2127F2Ae9753f4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/polygonpunkscom"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/YhHNRJVfqw"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/PolygonPunks"
+  }, {
+    "name" : "medium",
+    "url" : "https://polygonpunks.medium.com/"
+  } ]
+}

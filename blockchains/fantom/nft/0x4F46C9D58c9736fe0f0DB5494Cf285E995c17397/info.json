@@ -1,0 +1,19 @@
+{
+  "name" : "Fantomon Trainers Gen1 on FTM",
+  "website" : "https://fantomon.net",
+  "description" : "Fantomon Trainers for the Play-to-Earn trading card game \"Fantomon\". Collect, train, battle, journey, trade and more! ",
+  "explorer" : "https://ftmscan.com/token/0x4F46C9D58c9736fe0f0DB5494Cf285E995c17397",
+  "type" : "FRC721",
+  "symbol" : "FTG1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4F46C9D58c9736fe0f0DB5494Cf285E995c17397",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@fantomonftm"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/N2e5aHHNYX"
+  } ]
+}

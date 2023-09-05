@@ -1,0 +1,19 @@
+{
+  "name" : "tinyfrogs",
+  "website" : "https://froqorion.com",
+  "description" : "*tiny ribbit noises*",
+  "explorer" : "https://ftmscan.com/token/0x7e6Eef5388261973B0A1Aa14E1ca5Bbb11CC9A90",
+  "type" : "FRC721",
+  "symbol" : "tiny",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7e6Eef5388261973B0A1Aa14E1ca5Bbb11CC9A90",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@ftmfroqorion"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/V8SJpatNNb"
+  } ]
+}

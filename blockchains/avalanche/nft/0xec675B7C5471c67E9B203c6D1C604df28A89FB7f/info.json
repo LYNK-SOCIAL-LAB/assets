@@ -1,0 +1,19 @@
+{
+  "name" : "Snail Trail",
+  "website" : "https://www.snailtrail.art/",
+  "description" : "Grab your Snail and start your racing journey as you compete against\nother snails in high stakes Competitive Races or fun Daily Missions!",
+  "explorer" : "https://snowtrace.io/token/0xec675B7C5471c67E9B203c6D1C604df28A89FB7f",
+  "type" : "AVA721",
+  "symbol" : "SNAIL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xec675B7C5471c67E9B203c6D1C604df28A89FB7f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/SnailTrailGame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/X2RTw8rj"
+  } ]
+}

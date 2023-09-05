@@ -1,0 +1,28 @@
+{
+  "name" : "FishingTownRod",
+  "website" : "https://t.co/jHeGf1aBQd",
+  "description" : "Fishing game ? based on Blockchain BSC.",
+  "explorer" : "https://bscscan.com/token/0x535FA6279B4a260B42379e05e8BCc0573eD0A70d",
+  "type" : "BEP721",
+  "symbol" : "FHTR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x535FA6279B4a260B42379e05e8BCc0573eD0A70d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/FishingTownbsc?utm_source=tofuNFT.com&utm_medium=web&utm_campaign=collection"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/t1SHUCj6od"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.co/UeIX3H95ts"
+  }, {
+    "name" : "instagram",
+    "url" : "https://www.instagram.com/fishingtown.io/"
+  }, {
+    "name" : "medium",
+    "url" : "https://fishingtown-io.medium.com/"
+  } ]
+}

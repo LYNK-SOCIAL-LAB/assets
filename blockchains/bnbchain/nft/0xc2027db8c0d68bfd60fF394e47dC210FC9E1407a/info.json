@@ -1,0 +1,13 @@
+{
+  "name" : "EIGHTBITFUN",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xc2027db8c0d68bfd60fF394e47dC210FC9E1407a",
+  "type" : "BEP1155",
+  "symbol" : "EIGHTBITFUN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc2027db8c0d68bfd60fF394e47dC210FC9E1407a",
+  "tags" : null,
+  "links" : [ ]
+}

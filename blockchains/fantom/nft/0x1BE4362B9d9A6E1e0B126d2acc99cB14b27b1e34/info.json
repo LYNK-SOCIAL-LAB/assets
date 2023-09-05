@@ -1,0 +1,19 @@
+{
+  "name" : "equalpunks",
+  "website" : "",
+  "description" : "=Dao is a Social Experiment DAO that merges DEFI with NFT's, All Punks are man made 1/1s<br><br>Basic DAO structure.<br><br>1.All =dao sales are converted to $EQUAL and added to the DAO veEQUAL NFT<br>2.=dao holders are verified by NFT ownership and added to a private discord channel by role, where voting strategies can be discussed.<br>3.Voting weight will be decided by # of =daos held.<br>4.Votes will be distributed to 3 Seperate pairs based on weight, overall % will be discussed by the =dao (33% each, 70/20/10 etc)<br>5.80% of Fees earned from voting will be used to add more veEQUAL, 20% will go to the Creator Treasury.<br><br>This Project aims to explore the possibilities of the ve(3,3) model through community building whilst supporting the growth of the Equalizer Protocol.<br><br><br>",
+  "explorer" : "https://ftmscan.com/token/0x1BE4362B9d9A6E1e0B126d2acc99cB14b27b1e34",
+  "type" : "FRC721",
+  "symbol" : "EQPS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1BE4362B9d9A6E1e0B126d2acc99cB14b27b1e34",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@equalpunksDAO"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/PM9B5vgrBD"
+  } ]
+}

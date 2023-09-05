@@ -1,0 +1,22 @@
+{
+  "name" : "Lazy Lions",
+  "website" : "http://lazylionsnft.com",
+  "description" : "Welcome to the Private Island, Kings and Queens!\n\nLazy Lions is an exclusive collection of 10,000 NFTs. We're pioneering the future of entertainment and digital ownership through co-creation and innovation. Each Lazy Lion represents courage, power, and decentralization—standing as a symbol of individual empowerment and shared success in the world of Web3.\n\nTogether, we're creating a new era in entertainment. Join us on this journey and let's ROAR our way past the boundaries of Web3. 🦁\n\nPartnerships: PUMA, Sacramento Kings, Coinbase, OpenSea, Magic Eden, Unstoppable Domains, Born Free Foundation, and more.\n\n[Official Links](https://linktr.ee/LazyLionsOfficial)",
+  "explorer" : "https://etherscan.io/token/0x8943C7bAC1914C9A7ABa750Bf2B6B09Fd21037E0",
+  "type" : "ERC721",
+  "symbol" : "LION",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8943C7bAC1914C9A7ABa750Bf2B6B09Fd21037E0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/LazyLionsNFT"
+  }, {
+    "name" : "instagram",
+    "url" : "lazylionsnft"
+  }, {
+    "name" : "medium",
+    "url" : "lazylionsnft"
+  } ]
+}

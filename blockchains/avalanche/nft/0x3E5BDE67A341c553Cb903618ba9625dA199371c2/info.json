@@ -1,0 +1,19 @@
+{
+  "name" : "Firebirds",
+  "website" : "https://firebirdsnft.com/",
+  "description" : "The Firebirds are a collection of 5,555 unique birds nested on the\nAvalanche blockchain. Firebirds provide smaller investors a lower entry\ninto the powerful passive income of Phoenix Community Capital via weekly\nrewards distributions and giveaways.",
+  "explorer" : "https://snowtrace.io/token/0x3E5BDE67A341c553Cb903618ba9625dA199371c2",
+  "type" : "AVA721",
+  "symbol" : "FBRD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3E5BDE67A341c553Cb903618ba9625dA199371c2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FirebirdsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/firebirdsnft"
+  } ]
+}

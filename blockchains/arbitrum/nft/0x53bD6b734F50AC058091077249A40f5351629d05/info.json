@@ -1,0 +1,13 @@
+{
+  "name" : "The Optopi Collection",
+  "website" : "https://optopi.buffer.finance/ARBITRUM",
+  "description" : "Optopi is a collection of 8,888 unique, collectible PFP-friendly NFTs on Arbitrum it offers key utility to traders on the Buffer Finance Platform.",
+  "explorer" : "https://arbiscan.io/token/0x53bD6b734F50AC058091077249A40f5351629d05",
+  "type" : "ARC721",
+  "symbol" : "OPT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x53bD6b734F50AC058091077249A40f5351629d05",
+  "tags" : null,
+  "links" : [ ]
+}

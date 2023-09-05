@@ -1,0 +1,19 @@
+{
+  "name" : "Sunflower Land Collectibles",
+  "website" : "http://sunflower-land.com",
+  "description" : "Sunflower Land is a farming simulator game on Polygon.\r\n\r\nPlayers must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. The best part: every resource is tokenised on the Blockchain!\r\n\r\nThere is no pre-sale of items. All items in this collection are earned through gameplay and listed by the players. \r\n\r\nThis is not an NFT art collection. The Sunflower Collectibles are utility SFTs to be used inside of Sunflower Land.\r\n\r\nYou can read about each item's supply & special ability here: https://docs.sunflower-land.com/crafting-guide/rare-and-limited-items\r\n\r\nOnce you purchase an item, you can send it to your farm and start using it to help build your empire!\r\n\r\nIn-game crops & backgrounds were designed by Daniel Diggle. Please support this amazing artist here: https://twitter.com/DanielDiggle",
+  "explorer" : "https://polygonscan.com/token/0x22d5f9B75c524Fec1D6619787e582644CD4D7422",
+  "type" : "PRC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x22d5f9B75c524Fec1D6619787e582644CD4D7422",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0xSunflowerLand"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/sunflowerland"
+  } ]
+}

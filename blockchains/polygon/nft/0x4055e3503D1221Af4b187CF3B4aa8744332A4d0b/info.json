@@ -1,0 +1,19 @@
+{
+  "name" : "TheRedVillageGenesis",
+  "website" : "https://www.theredvillage.com/",
+  "description" : "The Red Village is a brutal dark fantasy play-to-earn blockchain game on the Polygon network.\n\nOfficial link to Champions: [Champions](https://opensea.io/collection/theredvillagechampions) <br />\nOfficial link to Blood Portal: [Blood Portal](https://opensea.io/collection/theredvillagebloodportal) <br />\nOfficial link to Bones: [Bones](https://opensea.io/collection/theredvillagebones)",
+  "explorer" : "https://polygonscan.com/token/0x4055e3503D1221Af4b187CF3B4aa8744332A4d0b",
+  "type" : "PRC721",
+  "symbol" : "TRVG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4055e3503D1221Af4b187CF3B4aa8744332A4d0b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheRedVillage"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/theredvillage"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "MineablePunks",
+  "website" : "http://mpunks.org",
+  "description" : "a mineable NFT. randomly generated. difficulty increases as more get minted. stored 100% on-chain. not affiliated with larvalabs.",
+  "explorer" : "https://etherscan.io/token/0x595A8974C1473717c4B5D456350Cd594d9bdA687",
+  "type" : "ERC721",
+  "symbol" : "MPUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x595A8974C1473717c4B5D456350Cd594d9bdA687",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/mineable_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/NEuN98KYRT"
+  } ]
+}

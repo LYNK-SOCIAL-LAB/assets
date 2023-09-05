@@ -1,0 +1,19 @@
+{
+  "name" : "Monsta Party",
+  "website" : "https://monsta.party/",
+  "description" : "Monsta Party is a collection of 9999 Play-2-Earn NFTs backed by the \"Cake Monster\" DeFi protocol.\n",
+  "explorer" : "https://bscscan.com/token/0xebFBFD7C41B123500fb16B71C43B400c12B08bE0",
+  "type" : "BEP721",
+  "symbol" : "MPNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xebFBFD7C41B123500fb16B71C43B400c12B08bE0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/MonstaPartyNFTs"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/o2EswXITKg"
+  } ]
+}

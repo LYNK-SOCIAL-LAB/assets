@@ -1,0 +1,19 @@
+{
+  "name" : "Candy Kitty",
+  "website" : "",
+  "description" : "Candy Kitty is a community-initiated collectible project inspired by the American Curl and Desserts. XRaeya, the emerging multimedia artist creates 10,000 Kitties with different traits through generative art. Each Kitty represents a VIP gold pass to the Candy Kitty community and voting rights for future utilities. The collection will exclusively open for mint on Mintverse.",
+  "explorer" : "https://bscscan.com/token/0xD53B4D20a63dBE0b7880eA5fF698976B846bd714",
+  "type" : "BEP721",
+  "symbol" : "CandyKitty",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD53B4D20a63dBE0b7880eA5fF698976B846bd714",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/xia_ruihan"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Wmthx4j5"
+  } ]
+}

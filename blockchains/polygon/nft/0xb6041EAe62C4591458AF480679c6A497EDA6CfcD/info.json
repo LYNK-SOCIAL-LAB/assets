@@ -1,0 +1,22 @@
+{
+  "name" : "Cross the Ages - Arkhante Booster Premium Pack",
+  "website" : "http://www.crosstheages.com",
+  "description" : "The Arkhante Collection is the 1st NFT collection of Cross The Ages: TCG.\nThe Premium Collection gathers all the premium packs that can be opened in-game once the Early Access is live. Early Access started on October 12.\n\nThese packs grant multiple benefits to their owner such as early access to the game; 20 to 30 NFT cards; valuable mythical cards; access to the CTA Token Presale; and a secret NFT.\n\nAll details: https://www.crosstheages.com/arkhante-collection/",
+  "explorer" : "https://polygonscan.com/token/0xb6041EAe62C4591458AF480679c6A497EDA6CfcD",
+  "type" : "PRC1155",
+  "symbol" : "",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb6041EAe62C4591458AF480679c6A497EDA6CfcD",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/CrossTheAges"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/CrossTheAges"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@crosstheages"
+  } ]
+}

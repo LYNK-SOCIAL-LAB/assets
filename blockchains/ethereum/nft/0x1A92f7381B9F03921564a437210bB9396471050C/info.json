@@ -1,0 +1,22 @@
+{
+  "name" : "Cool Cats",
+  "website" : "http://coolcatsnft.com",
+  "description" : "Cool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain. Cool Cat holders can participate in exclusive events such as NFT claims, raffles, community giveaways, and more. Remember, all cats are cool, but some are cooler than others.\r\n\r\n- [Cool Cats Collabs](https://opensea.io/collection/cool-cats-collabs)\r\n- [Cool Cats Events](https://opensea.io/collection/cool-cats-events)\r\n- [Cool Cats Achievements](https://opensea.io/collection/cool-cats-achievements)\r\n- [Cool Cats Originals](https://opensea.io/collection/cool-cats-originals)",
+  "explorer" : "https://etherscan.io/token/0x1A92f7381B9F03921564a437210bB9396471050C",
+  "type" : "ERC721",
+  "symbol" : "COOL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1A92f7381B9F03921564a437210bB9396471050C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/coolcats"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/X6A4AXrKaR"
+  }, {
+    "name" : "medium",
+    "url" : "coolcatsnft"
+  } ]
+}

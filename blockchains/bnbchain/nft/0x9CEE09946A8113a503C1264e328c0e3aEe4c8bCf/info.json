@@ -1,0 +1,19 @@
+{
+  "name" : "Space ID",
+  "website" : "https://space.id/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x9CEE09946A8113a503C1264e328c0e3aEe4c8bCf",
+  "type" : "BEP721",
+  "symbol" : "SID",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9CEE09946A8113a503C1264e328c0e3aEe4c8bCf",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/SpaceIDProtocol"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/2qrrf79K2A"
+  } ]
+}

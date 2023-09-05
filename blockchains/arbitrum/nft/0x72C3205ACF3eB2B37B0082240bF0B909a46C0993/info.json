@@ -1,0 +1,19 @@
+{
+  "name" : "Primapes",
+  "website" : "https://primapes.gg",
+  "description" : "Primapes are a PFP collection of 1,007 NFTs on Arbitrum that also serve as a membership to the Arbitrum Alpha Hub channels in the Primapes Discord.\r\n\r\nPrimapes utilize the Commoners' CC0 art license while taking inspiration from CyberKongz traits. Our goals are to onboard new users to Arbitrum and build an active community that is focused on providing alpha within, but not limited to, the Arbitrum ecosystem.",
+  "explorer" : "https://arbiscan.io/token/0x72C3205ACF3eB2B37B0082240bF0B909a46C0993",
+  "type" : "ARC721",
+  "symbol" : "PRIMAPES",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x72C3205ACF3eB2B37B0082240bF0B909a46C0993",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PrimapesDAO"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/sV6HRUUgTP"
+  } ]
+}

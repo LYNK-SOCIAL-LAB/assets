@@ -1,0 +1,22 @@
+{
+  "name" : "$adidas Originals: Into the Metaverse",
+  "website" : "https://www.adidas.com/metaverse",
+  "description" : "##Into the Metaverse becomes [ALTS by adidas](https://opensea.io/collection/alts-by-adidas). To evolve to this new chapter, [burn your ITM Phase 1 or Phase 2 NFT now](https://collect.adidas.com).\n\nPhase 1 NFT physical product claims have closed. There is no further utility planned for Phase 1 and Phase 2 NFTs. [Burn to ALTS by adidas now](https://collect.adidas.com) for future utility.\n\n ---\n\nBored Ape Yacht Club, PUNKS Comic, and gmoney welcome adidas Originals into the Metaverse.",
+  "explorer" : "https://etherscan.io/token/0x28472a58A490c5e09A238847F66A68a47cC76f0f",
+  "type" : "ERC1155",
+  "symbol" : "ADI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x28472a58A490c5e09A238847F66A68a47cC76f0f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/indigo_herz"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/adidas"
+  }, {
+    "name" : "instagram",
+    "url" : "adidasoriginals"
+  } ]
+}

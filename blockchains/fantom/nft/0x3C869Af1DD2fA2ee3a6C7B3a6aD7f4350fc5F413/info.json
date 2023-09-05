@@ -1,0 +1,19 @@
+{
+  "name" : "ERNESTO",
+  "website" : "https://ernestos.world/",
+  "description" : "ERNESTO THE DOG JUST 5X'D ON FANTOM. NOW HE NEEDS A FAMILY. WITH A LITTLE BIT OF LOVE AND MAGIC ANYTHING CAN HAPPEN...",
+  "explorer" : "https://ftmscan.com/token/0x3C869Af1DD2fA2ee3a6C7B3a6aD7f4350fc5F413",
+  "type" : "FRC721",
+  "symbol" : "NESTO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3C869Af1DD2fA2ee3a6C7B3a6aD7f4350fc5F413",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Ernesto_FTM"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Aabd3h4x9B"
+  } ]
+}

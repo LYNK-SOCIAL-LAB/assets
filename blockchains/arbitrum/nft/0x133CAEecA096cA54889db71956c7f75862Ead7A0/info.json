@@ -1,0 +1,22 @@
+{
+  "name" : "Fiat24 Account",
+  "website" : "https://www.fiat24.com",
+  "description" : "**NFT ≠ JPG!** This NFT is your Swiss IBAN!👇  see more,  👉  [learn more](https://fiat24.com/)\r\n\r\n🏛    Open your 🇨🇭Swiss Cash Account for Crypto Trading\r\n\r\n💳    Claim your Visa Debit Card for Crypto Spending\r\n\r\n🎁    [Get your FREE NFT now](https://fiat24.com/) and enjoy **10 EUR** bonus.",
+  "explorer" : "https://arbiscan.io/token/0x133CAEecA096cA54889db71956c7f75862Ead7A0",
+  "type" : "ARC721",
+  "symbol" : "Fiat24",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x133CAEecA096cA54889db71956c7f75862Ead7A0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Fiat24Account"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/fr2caQkfMw"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/fiat24"
+  } ]
+}

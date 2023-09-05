@@ -1,0 +1,16 @@
+{
+  "name" : "The Honey Jar 101",
+  "website" : "https://mirror.xyz/janitooor.eth/",
+  "description" : "The Honey Jar 101 - your NFT gateway to DeFi\n\nThe Honey Jar is an unofficial community NFT project, situated at the heart of the Berachain ecosystem, which hosts a number of games. \n\nhttps://mirror.xyz/10/0xb8c6145f958f141db0d506a4c1f6c0546ade78ab",
+  "explorer" : "https://optimistic.etherscan.io/token/0xb8C6145f958F141dB0D506a4c1F6C0546aDe78ab",
+  "type" : "OP721",
+  "symbol" : "THEHONEYJAR101",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb8C6145f958F141dB0D506a4c1F6C0546aDe78ab",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0xhoneyjar"
+  } ]
+}

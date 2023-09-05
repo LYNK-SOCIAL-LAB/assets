@@ -1,0 +1,13 @@
+{
+  "name" : "OP Orcas",
+  "website" : "https://qx.app/collection/oporcas",
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0xBf2794ADAF7A48A2a24EB344a7bA221A52fe2171",
+  "type" : "OP721",
+  "symbol" : "ORCA",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xBf2794ADAF7A48A2a24EB344a7bA221A52fe2171",
+  "tags" : null,
+  "links" : [ ]
+}

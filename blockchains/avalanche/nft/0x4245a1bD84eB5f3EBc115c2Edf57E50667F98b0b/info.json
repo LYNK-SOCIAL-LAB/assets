@@ -1,0 +1,19 @@
+{
+  "name" : "Hopper",
+  "website" : "https://hoppersgame.io/",
+  "description" : "Hoppers NFTs are 10,000 randomly generated unique NFTs with on-chain\nAttributes that will be used in Hoppers Game. The Hoppers themselves\nwere created by yellowbrah (@dirty_slogan) with over 120 hand-drawn\nassets with a variety of skins, backgrounds, and features, Hoppers are\nas beautiful as they are useful! There will be 5 tiers of rarity ranging\nfrom Common to Legendary. Artistically, all 10,000 NFTs will be randomly\ngenerated and unique.",
+  "explorer" : "https://snowtrace.io/token/0x4245a1bD84eB5f3EBc115c2Edf57E50667F98b0b",
+  "type" : "AVA721",
+  "symbol" : "HOP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4245a1bD84eB5f3EBc115c2Edf57E50667F98b0b",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/HoppersGame"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/hoppersgame"
+  } ]
+}

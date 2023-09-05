@@ -1,0 +1,22 @@
+{
+  "name" : "Musk USM LAND",
+  "website" : "radiocaca.com",
+  "description" : "The people's Metaverse.",
+  "explorer" : "https://bscscan.com/token/0xb5665e1038c4E17C58aB55b5C591faB52CE83fC4",
+  "type" : "BEP721",
+  "symbol" : "MML",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb5665e1038c4E17C58aB55b5C591faB52CE83fC4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/USMverse"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/qzM796FrDd"
+  }, {
+    "name" : "telegram",
+    "url" : "http://t.me/RadioCaca"
+  } ]
+}

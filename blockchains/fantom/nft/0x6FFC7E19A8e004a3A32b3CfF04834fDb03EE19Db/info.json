@@ -1,0 +1,19 @@
+{
+  "name" : "bitZombies",
+  "website" : "https://thezombiesociety.com",
+  "description" : "Zombies spent so much time checking their zPhones that eventually they became themselves part of the metaverse.",
+  "explorer" : "https://ftmscan.com/token/0x6FFC7E19A8e004a3A32b3CfF04834fDb03EE19Db",
+  "type" : "FRC721",
+  "symbol" : "bitZombie",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6FFC7E19A8e004a3A32b3CfF04834fDb03EE19Db",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@ZombieSocNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/yyEP4VwySk"
+  } ]
+}

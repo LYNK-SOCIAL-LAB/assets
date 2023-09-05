@@ -1,0 +1,22 @@
+{
+  "name" : "Decentral Games ICE Poker",
+  "website" : "http://www.decentral.games",
+  "description" : "Step into the ICE Poker Arcade and play in poker tournaments to win big prizes like MacBooks, iPhones, and more. Join thousands of players worldwide on the first Metaverse poker platform.\r\n\r\nICE Poker dress code: you need to equip a wearable to play. Owning an All Access wearable unlocks all game modes and platforms for the full ICE Poker experience.\r\n\r\nTo learn more about ICE Poker, visit: https://decentral.games/",
+  "explorer" : "https://polygonscan.com/token/0xda41C9E3808237B4aB8f6ABD6936A828F4225263",
+  "type" : "PRC721",
+  "symbol" : "DCL-ICESPRTN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xda41C9E3808237B4aB8f6ABD6936A828F4225263",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DecentralGames"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/decentralgames"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/decentralgames"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "BROZO",
+  "website" : "https://brozo.xyz",
+  "description" : "BROZO is a movement, creating a Web3-Native Luxury Fashion Brand. Join the movement today.",
+  "explorer" : "https://polygonscan.com/token/0x220fa5cCc9404802ED6DB0935EB4feeFC27C937e",
+  "type" : "PRC721",
+  "symbol" : "brozo",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x220fa5cCc9404802ED6DB0935EB4feeFC27C937e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/BrozoNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/brozo"
+  } ]
+}

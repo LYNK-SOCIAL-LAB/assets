@@ -1,0 +1,13 @@
+{
+  "name" : "MelodyGenesisMicrophone",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x4B5C4b2bE2fe1656F8eFEdd27393c61A7357b6E7",
+  "type" : "BEP721",
+  "symbol" : "MGM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4B5C4b2bE2fe1656F8eFEdd27393c61A7357b6E7",
+  "tags" : null,
+  "links" : [ ]
+}

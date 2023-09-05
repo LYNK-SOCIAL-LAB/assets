@@ -1,0 +1,19 @@
+{
+  "name" : "Government Toucans",
+  "website" : "https://shellprotocol.io/",
+  "description" : "Government Toucans are an exclusive set of Arbitrum NFTs released by Shell Protocol. They were available to mint for one day only on April 1, 2022. Holding a Toucan grants users access to the #toucan-lounge on the Shell Protocol Discord, with other secret benefits to come. See the project at: www.shellprotocol.io",
+  "explorer" : "https://arbiscan.io/token/0x642FfAb2752Df3BCE97083709F36080fb1482c80",
+  "type" : "ARC721",
+  "symbol" : "TOUCAN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x642FfAb2752Df3BCE97083709F36080fb1482c80",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ShellProtocol"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/S5EU5zmqxP"
+  } ]
+}

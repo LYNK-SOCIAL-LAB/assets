@@ -1,0 +1,19 @@
+{
+  "name" : "MONKEEZ",
+  "website" : "https://www.monkeez.io/",
+  "description" : "Monkeez is a 4k collection of randomly generated NFTs on the Avalanche\nblockchain. Find out more at monkeez.io",
+  "explorer" : "https://snowtrace.io/token/0xb42d0f524564cafE2a47CA3331221903Eda83b3C",
+  "type" : "AVA721",
+  "symbol" : "MONKEEZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb42d0f524564cafE2a47CA3331221903Eda83b3C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MonkeezNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/monkeez"
+  } ]
+}

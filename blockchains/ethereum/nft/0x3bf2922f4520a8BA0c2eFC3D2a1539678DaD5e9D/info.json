@@ -1,0 +1,25 @@
+{
+  "name" : "0N1 Force",
+  "website" : "https://0N1force.com",
+  "description" : "The 0N1 Force are 7,777 generative side-profile characters with over 100 hand-drawn features fighting for their existence. Strength, spirit, and style are what you’ll need to survive in The Ethereal Enclave. \n\nIn addition to the high-resolution artwork, each 0N1 NFT grants access to benefits found on the 0N1force website and Discord--the first of which is participation in a collaborative RPG that takes players into the 0N1verse. \n\nON1 FORCE may now claim their FRAMES! \n\nCLAIM: [NANOHUB](https://nanohub.0n1force.com)  \nCOLLECTION: [0N1 FRAMES](https://opensea.io/collection/0n1-frame)  \nWEBSITE: [0N1 FORCE](https://0N1Force.com)  \n\n**IMPORTANT:** 0N1 FRAMES are owned by their 0N1 FORCE NFTs. By transfer or selling your original 0N1 Force NFT you also give ownership of the 0N1 FRAMES to the wallet owner.",
+  "explorer" : "https://etherscan.io/token/0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
+  "type" : "ERC721",
+  "symbol" : "0N1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/0n1Force"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/0n1-force"
+  }, {
+    "name" : "instagram",
+    "url" : "0n1force"
+  }, {
+    "name" : "medium",
+    "url" : "0n1force"
+  } ]
+}

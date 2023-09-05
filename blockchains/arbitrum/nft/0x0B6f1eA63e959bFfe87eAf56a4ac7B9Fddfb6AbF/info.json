@@ -1,0 +1,13 @@
+{
+  "name" : "Aboard NFTs",
+  "website" : "https://aboard.exchange/",
+  "description" : "",
+  "explorer" : "https://arbiscan.io/token/0x0B6f1eA63e959bFfe87eAf56a4ac7B9Fddfb6AbF",
+  "type" : "ARC721",
+  "symbol" : "Aboard Exchange",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0B6f1eA63e959bFfe87eAf56a4ac7B9Fddfb6AbF",
+  "tags" : null,
+  "links" : [ ]
+}

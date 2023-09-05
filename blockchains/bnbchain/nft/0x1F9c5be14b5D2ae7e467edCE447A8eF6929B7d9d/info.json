@@ -1,0 +1,16 @@
+{
+  "name" : ".bab Pass",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x1F9c5be14b5D2ae7e467edCE447A8eF6929B7d9d",
+  "type" : "BEP721",
+  "symbol" : "BID",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1F9c5be14b5D2ae7e467edCE447A8eF6929B7d9d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@JAZ_DID"
+  } ]
+}

@@ -1,0 +1,28 @@
+{
+  "name" : "Pancake Bunnies",
+  "website" : "https://t.co/AaV9NLv9gB",
+  "description" : "Pancake Bunnies are PancakeSwap's official, home-raised NFT.\n",
+  "explorer" : "https://bscscan.com/token/0xDf7952B35f24aCF7fC0487D01c8d5690a60DBa07",
+  "type" : "BEP721",
+  "symbol" : "PB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xDf7952B35f24aCF7fC0487D01c8d5690a60DBa07",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/pancakeswap"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/pancakeswap"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/pancakeswap"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/pancakeswap_official"
+  }, {
+    "name" : "medium",
+    "url" : "https://pancakeswap.medium.com/"
+  } ]
+}

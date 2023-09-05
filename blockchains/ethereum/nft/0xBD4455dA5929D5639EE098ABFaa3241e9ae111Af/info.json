@@ -1,0 +1,22 @@
+{
+  "name" : "NFT Worlds",
+  "website" : "https://docs.nftworlds.com/",
+  "description" : "NFT Worlds has rebranded to TOPIA: https://opensea.io/collection/topia-worlds",
+  "explorer" : "https://etherscan.io/token/0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
+  "type" : "ERC721",
+  "symbol" : "NFT Worlds",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xBD4455dA5929D5639EE098ABFaa3241e9ae111Af",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/nftworldsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/TOPIAgg"
+  }, {
+    "name" : "instagram",
+    "url" : "nftworldsNFT"
+  } ]
+}

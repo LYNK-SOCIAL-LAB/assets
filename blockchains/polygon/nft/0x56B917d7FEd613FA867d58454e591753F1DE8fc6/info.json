@@ -1,0 +1,13 @@
+{
+  "name" : "PudgyTank Equip Card",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0x56B917d7FEd613FA867d58454e591753F1DE8fc6",
+  "type" : "PRC1155",
+  "symbol" : "pudgy-tanks.xyz/",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x56B917d7FEd613FA867d58454e591753F1DE8fc6",
+  "tags" : null,
+  "links" : [ ]
+}

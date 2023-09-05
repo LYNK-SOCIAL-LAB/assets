@@ -1,0 +1,19 @@
+{
+  "name" : "veNFT",
+  "website" : "https://app.velodrome.finance/",
+  "description" : "The central trading and liquidity marketplace on Optimism",
+  "explorer" : "https://optimistic.etherscan.io/token/0x9c7305eb78a432ced5C4D14Cac27E8Ed569A2e26",
+  "type" : "OP721",
+  "symbol" : "veNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9c7305eb78a432ced5C4D14Cac27E8Ed569A2e26",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/VelodromeFi"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/velodrome"
+  } ]
+}

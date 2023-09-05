@@ -1,0 +1,13 @@
+{
+  "name" : "Early Optimists",
+  "website" : "https://qx.app/collection/optimists",
+  "description" : "",
+  "explorer" : "https://optimistic.etherscan.io/token/0x0110Bb5739a6F82eafc748418e572Fc67d854a0F",
+  "type" : "OP721",
+  "symbol" : "OPTIMISTS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0110Bb5739a6F82eafc748418e572Fc67d854a0F",
+  "tags" : null,
+  "links" : [ ]
+}

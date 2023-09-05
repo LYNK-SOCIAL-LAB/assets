@@ -1,0 +1,13 @@
+{
+  "name" : "Dune Airdump",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0x9Ca0D0256ecd93Bb6220981C2C6b4AeF8c59D37a",
+  "type" : "OP721",
+  "symbol" : "DUMP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9Ca0D0256ecd93Bb6220981C2C6b4AeF8c59D37a",
+  "tags" : null,
+  "links" : [ ]
+}

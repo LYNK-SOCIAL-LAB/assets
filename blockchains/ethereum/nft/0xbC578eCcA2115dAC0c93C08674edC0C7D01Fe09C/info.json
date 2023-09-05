@@ -1,0 +1,19 @@
+{
+  "name" : "InvisibleSociety",
+  "website" : "https://invisiblesociety.xyz/",
+  "description" : " 5,000 Invisible Societer’s, First 555 Free,\n Not affiliated with any project. **",
+  "explorer" : "https://etherscan.io/token/0xbC578eCcA2115dAC0c93C08674edC0C7D01Fe09C",
+  "type" : "ERC721",
+  "symbol" : "IS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbC578eCcA2115dAC0c93C08674edC0C7D01Fe09C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/InvsbleSociety"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/5FtDbnvURx"
+  } ]
+}

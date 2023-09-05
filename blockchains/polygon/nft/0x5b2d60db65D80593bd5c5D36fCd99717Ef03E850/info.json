@@ -1,0 +1,25 @@
+{
+  "name" : "Decentral Games ICE Poker",
+  "website" : "https://decentral.games/",
+  "description" : "Play Free Poker ♠️ | Earn $ICE 💎 | Build Your Guild in the Metaverse 💰 $DG",
+  "explorer" : "https://polygonscan.com/token/0x5b2d60db65D80593bd5c5D36fCd99717Ef03E850",
+  "type" : "PRC721",
+  "symbol" : "DCL-ICEPT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5b2d60db65D80593bd5c5D36fCd99717Ef03E850",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/decentralgames"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/decentralgames"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/decentralgames"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/decentralgames"
+  } ]
+}

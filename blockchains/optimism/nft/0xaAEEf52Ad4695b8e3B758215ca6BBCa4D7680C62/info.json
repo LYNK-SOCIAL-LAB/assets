@@ -1,0 +1,16 @@
+{
+  "name" : "tiny dinos",
+  "website" : "https://tinydinos.fun",
+  "description" : "own a piece of digital history with a rare early omnichain nft powered by layerzero labs. enjoy cross-chain versatility and cc0 ownership. join the #rawr revolution on twitter and showcase your unique tiny dino to the world",
+  "explorer" : "https://optimistic.etherscan.io/token/0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62",
+  "type" : "OP721",
+  "symbol" : "dino",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/tinydinosnft"
+  } ]
+}

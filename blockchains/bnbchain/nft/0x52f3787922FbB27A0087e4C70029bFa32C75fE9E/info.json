@@ -1,0 +1,19 @@
+{
+  "name" : "PGNFT CLUB LEGENDARY DRAGON",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x52f3787922FbB27A0087e4C70029bFa32C75fE9E",
+  "type" : "BEP721",
+  "symbol" : "PCLD",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x52f3787922FbB27A0087e4C70029bFa32C75fE9E",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PGNFTCLUB"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FistNFT"
+  } ]
+}

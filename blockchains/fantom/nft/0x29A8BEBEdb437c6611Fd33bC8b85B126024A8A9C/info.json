@@ -1,0 +1,16 @@
+{
+  "name" : "Gooolmon",
+  "website" : "https://riotgoools.com/",
+  "description" : "A collection of 151 Gooolmon reincarnated from Ghostlys to be Riot Goool helpers.",
+  "explorer" : "https://ftmscan.com/token/0x29A8BEBEdb437c6611Fd33bC8b85B126024A8A9C",
+  "type" : "FRC721",
+  "symbol" : "GLMON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x29A8BEBEdb437c6611Fd33bC8b85B126024A8A9C",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@riotgoools"
+  } ]
+}

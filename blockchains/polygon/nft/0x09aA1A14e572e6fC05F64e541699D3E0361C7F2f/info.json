@@ -1,0 +1,25 @@
+{
+  "name" : "The Mars - Martians",
+  "website" : "http://www.marslabs.co",
+  "description" : "The Martians: Metaverse is a collection of only 5,000 programmatically generated Martian NFTs. The Martian holders can participate in exclusive events such as raffles, community events, and a ticket to early access into The Mars: Metaverse. \n\nThe Mars’ metaverse game platform is soon to be released with scarcely distributed lands in the Mars colony where buildings and houses can be built on, and be leased to earn MRST or tradable in NFT forms. In this colony, you can enjoy sporting events, decorate houses, buy and create clothes, and whatever you can imagine the world is to be. You can even play games created by friends or you can be the creator on your own. Future awaits you on the Mars. Checkout our Whitepaper for more! [https://whitepaper.marscompany.co/v/english/](https://whitepaper.marscompany.co/v/english/)",
+  "explorer" : "https://polygonscan.com/token/0x09aA1A14e572e6fC05F64e541699D3E0361C7F2f",
+  "type" : "PRC721",
+  "symbol" : "M1",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x09aA1A14e572e6fC05F64e541699D3E0361C7F2f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Mars_Labs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/marslabs"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/The_Mars_info"
+  }, {
+    "name" : "medium",
+    "url" : "https://themarslabs.medium.com/"
+  } ]
+}

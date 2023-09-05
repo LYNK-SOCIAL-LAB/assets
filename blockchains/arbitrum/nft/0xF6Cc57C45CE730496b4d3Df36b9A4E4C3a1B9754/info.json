@@ -1,0 +1,16 @@
+{
+  "name" : "Smol Brains Pets",
+  "website" : "http://smolverse.lol",
+  "description" : "The Smol Brains Pets are cute companions to accompany your Smol Brain in Smolverse.",
+  "explorer" : "https://arbiscan.io/token/0xF6Cc57C45CE730496b4d3Df36b9A4E4C3a1B9754",
+  "type" : "ARC721",
+  "symbol" : "BRAINPETS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF6Cc57C45CE730496b4d3Df36b9A4E4C3a1B9754",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/smolbrains"
+  } ]
+}

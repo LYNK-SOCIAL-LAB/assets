@@ -1,0 +1,19 @@
+{
+  "name" : "Emblem Vault V4",
+  "website" : "https://emblem.pro",
+  "description" : "Discover NFT projects from [XCP](https://is.gd/xcpvaults), [Ordinals](https://is.gd/ordinalsbtc), [ETH](https://is.gd/ethereumv), [XDP](https://is.gd/xdpvlt). [NMC](https://is.gd/nmcvlt), [LTC](https://is.gd/allltc), [XMP](https://is.gd/xmpvlt), [STX](https://is.gd/stxvlt), & Many More! \r\n\r\nVerified Collections\r\nCounterparty:[Pepe’s](https://is.gd/rarepepe), [SoG](https://is.gd/SpellsOfGenesis), [Sarutobi](https://is.gd/sarutobi), [Fake Rares](https://is.gd/fakerare), [AoC](https://is.gd/AOChains), [Bitcorns](https://is.gd/Bitcorn), [Memorychain](https://is.gd/memorychain)\r\n\r\nOrdinals: [Twelvefold](https://is.gd/twelvefold), [BTC Punks](https://is.gd/bitcoinpunk), [MegaPunks](https://is.gd/megapunk)\r\n\r\nNamecoin: [Eggs](https://is.gd/twtreg), [Blockheads](https://is.gd/blockheadss), [Punycodes](https://is.gd/punycds),\r\n\r\nBNS: [Bitcoin Name Service](https://is.gd/bnslist)\r\n\r\nLitecoin: [LTC Punks](https://is.gd/ltcpunk)",
+  "explorer" : "https://etherscan.io/token/0x82C7a8f707110f5FBb16184A5933E9F78a34c6ab",
+  "type" : "ERC721",
+  "symbol" : "Emblem.pro",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x82C7a8f707110f5FBb16184A5933E9F78a34c6ab",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/EmblemVault"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/Coval_Chat"
+  } ]
+}

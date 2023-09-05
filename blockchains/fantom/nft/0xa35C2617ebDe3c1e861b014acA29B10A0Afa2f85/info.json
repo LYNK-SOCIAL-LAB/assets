@@ -1,0 +1,13 @@
+{
+  "name" : "BadGuysNeverDie",
+  "website" : "https://www.keepitlunatic.com",
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0xa35C2617ebDe3c1e861b014acA29B10A0Afa2f85",
+  "type" : "FRC721",
+  "symbol" : "BGND",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa35C2617ebDe3c1e861b014acA29B10A0Afa2f85",
+  "tags" : null,
+  "links" : [ ]
+}

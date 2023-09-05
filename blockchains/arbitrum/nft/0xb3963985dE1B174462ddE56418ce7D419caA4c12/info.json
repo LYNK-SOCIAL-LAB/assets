@@ -1,0 +1,19 @@
+{
+  "name" : "Aboard Exchange Space Puzzle Campagin",
+  "website" : "https://aboard.exchange/",
+  "description" : "Aboard is the leading order book decentralized derivatives exchange on Arbitrum. You can trade token perpetuals, synthetic assets perpetuals, and index perpetuals with up to 25x leverages and 0 gas fees.",
+  "explorer" : "https://arbiscan.io/token/0xb3963985dE1B174462ddE56418ce7D419caA4c12",
+  "type" : "ARC721",
+  "symbol" : "Aboard Space Puzzle",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb3963985dE1B174462ddE56418ce7D419caA4c12",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/AboardExchange"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/invite/hSrsUj5sUV"
+  } ]
+}

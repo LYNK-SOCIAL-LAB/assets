@@ -1,0 +1,19 @@
+{
+  "name" : "Cryptoadz",
+  "website" : "https://cryptoadz.io",
+  "description" : "CrypToadz are a collection 6969 small amphibious creatures trying to escape the tyrannical rule of the Evil King Gremplin. Created by Gremplin, with a small bit of help from his friends.\r\n\r\nThis project is in the public domain. Feel free to use the toadz in any way you want.",
+  "explorer" : "https://etherscan.io/token/0x1CB1A5e65610AEFF2551A50f76a87a7d3fB649C6",
+  "type" : "ERC721",
+  "symbol" : "TOADZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1CB1A5e65610AEFF2551A50f76a87a7d3fB649C6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/cryptoadzNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/8QtAYPgjAw"
+  } ]
+}

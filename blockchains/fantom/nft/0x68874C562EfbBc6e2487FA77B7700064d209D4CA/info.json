@@ -1,0 +1,19 @@
+{
+  "name" : "Cosmic Horrors",
+  "website" : "https://cosmichorrors.wtf",
+  "description" : "Original hand drawn 8-bit pixel art horrors summoned from a dimension not so far away. Created by Noob in 2021. 666 total horrors summoned (minted), including 100 completely unique legendary horrors and 566 generated Changelings with various trait rarities.",
+  "explorer" : "https://ftmscan.com/token/0x68874C562EfbBc6e2487FA77B7700064d209D4CA",
+  "type" : "FRC721",
+  "symbol" : "CH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x68874C562EfbBc6e2487FA77B7700064d209D4CA",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantamSpooky"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Xar8MacVdY"
+  } ]
+}

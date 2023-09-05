@@ -1,0 +1,19 @@
+{
+  "name" : "Punks on Arbitrum - Nova Edition",
+  "website" : "http://nova.punksonarb.com/",
+  "description" : "- [Punks On Arbitrum](https://opensea.io/collection/punks-on-arb) have brought you Nova Edition Punks!\n\nPunks on Arbitrum - Nova Edition live 100% on-chain with no external dependencies. This means your Punk’s image and metadata cannot be deleted, restricted or changed.\n",
+  "explorer" : "https://arbiscan.io/token/0x652D66Fe218A7C33808b7d6A7db6a54E2F9f4a51",
+  "type" : "ARC721",
+  "symbol" : "APUNK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x652D66Fe218A7C33808b7d6A7db6a54E2F9f4a51",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/PunksOnArbitrum"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/6SuFj9RynJ"
+  } ]
+}

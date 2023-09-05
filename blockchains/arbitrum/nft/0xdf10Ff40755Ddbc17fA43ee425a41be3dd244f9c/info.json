@@ -1,0 +1,16 @@
+{
+  "name" : "Revealed Spartans",
+  "website" : "https://spartadex.io/",
+  "description" : "The legendary stories of **Sparta** are not solely attributed to the city itself, but mainly to its people - the indomitable heroes whose incredible deeds have been immortalized. \n\nThe **Spartans NFT Collection** pays tribute to these heroes who are still celebrated for their courage, bravery, tenacity and strength. It's also them who form the very foundation of **SpartaDEX** ecosystem. Featuring the heroes of Sparta with three different rarity levels and boasting thousands of unique features, the **Spartans NFT Collection** is a one-of-a-kind series that not only distinguishes its owners but also grants access to SpartaDEX functionalities that are otherwise unattainable. Among these functionalities are multiplayer mode and special quests (the first of which is scheduled to premiere in August 2023). \n\nFor more information about **SpartaDEX**, the first decentralized exchange, offering gamified yield, visit [SpartaDEX](https://spartadex.io/) and our social media platforms.",
+  "explorer" : "https://arbiscan.io/token/0xdf10Ff40755Ddbc17fA43ee425a41be3dd244f9c",
+  "type" : "ARC721",
+  "symbol" : "RSPRTNS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xdf10Ff40755Ddbc17fA43ee425a41be3dd244f9c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Spartadex_io"
+  } ]
+}

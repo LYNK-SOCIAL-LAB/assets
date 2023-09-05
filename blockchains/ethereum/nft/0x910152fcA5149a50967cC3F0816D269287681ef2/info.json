@@ -1,0 +1,13 @@
+{
+  "name" : "pumpkins",
+  "website" : null,
+  "description" : "",
+  "explorer" : "https://etherscan.io/token/0x910152fcA5149a50967cC3F0816D269287681ef2",
+  "type" : "ERC1155",
+  "symbol" : "P",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x910152fcA5149a50967cC3F0816D269287681ef2",
+  "tags" : null,
+  "links" : [ ]
+}

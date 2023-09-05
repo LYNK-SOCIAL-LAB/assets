@@ -1,0 +1,19 @@
+{
+  "name" : "NodeBears",
+  "website" : "https://nodebears.com",
+  "description" : "6969 unique NFT bears. Each Bear gives you a chance to win in a weekly giveaway for $STRONG, $PXT, $THOR nodes and many more",
+  "explorer" : "https://snowtrace.io/token/0xD5c6064e09Ff127E24900ADfb8559c4ee0634729",
+  "type" : "AVA721",
+  "symbol" : "NB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD5c6064e09Ff127E24900ADfb8559c4ee0634729",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/NodeBearsNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/nodebearsnft"
+  } ]
+}

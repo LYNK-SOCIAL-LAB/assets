@@ -1,0 +1,13 @@
+{
+  "name" : "Tigris Governance NFT",
+  "website" : "http://tigris.trade",
+  "description" : "Tigris Trade is a decentralized leverage exchange featuring instant settlement, zero spread and no slippage.Tigris Trade is governed by Tigris Governance NFT holders. NFT holders have voting rights and earn a share of protocol revenue.",
+  "explorer" : "https://arbiscan.io/token/0x303c470c0e0342a1CCDd70b0a17a14b599FF1474",
+  "type" : "ARC721",
+  "symbol" : "Tigris Gov NFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x303c470c0e0342a1CCDd70b0a17a14b599FF1474",
+  "tags" : null,
+  "links" : [ ]
+}

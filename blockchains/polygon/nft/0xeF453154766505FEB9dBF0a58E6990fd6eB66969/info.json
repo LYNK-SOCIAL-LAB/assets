@@ -1,0 +1,19 @@
+{
+  "name" : "Mr. Crypto by Racksmafia",
+  "website" : "https://www.mrcryptonft.com/",
+  "description" : "Colección NFT oficial de Racksmafia",
+  "explorer" : "https://polygonscan.com/token/0xeF453154766505FEB9dBF0a58E6990fd6eB66969",
+  "type" : "PRC721",
+  "symbol" : "MRC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xeF453154766505FEB9dBF0a58E6990fd6eB66969",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/mrcryptobyracks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/PxyHszGSCV"
+  } ]
+}

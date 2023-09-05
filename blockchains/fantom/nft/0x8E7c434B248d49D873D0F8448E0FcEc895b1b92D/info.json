@@ -1,0 +1,19 @@
+{
+  "name" : "DegenerabBits",
+  "website" : "https://degenerabbits.com",
+  "description" : "A featured collection of 2000 absolute degenerabBits. Collect your DegenerabBits today!",
+  "explorer" : "https://ftmscan.com/token/0x8E7c434B248d49D873D0F8448E0FcEc895b1b92D",
+  "type" : "FRC721",
+  "symbol" : "DegenerabBits",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8E7c434B248d49D873D0F8448E0FcEc895b1b92D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FTMdead"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/4dED5wdX"
+  } ]
+}

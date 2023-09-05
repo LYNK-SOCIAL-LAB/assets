@@ -1,0 +1,13 @@
+{
+  "name" : "Nitro Cartel Passport",
+  "website" : null,
+  "description" : "The proof of membership to the Cartel, and an inscribed marker of early-citizens contribution to its formation.",
+  "explorer" : "https://arbiscan.io/token/0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86",
+  "type" : "ARC721",
+  "symbol" : "NITRO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86",
+  "tags" : null,
+  "links" : [ ]
+}

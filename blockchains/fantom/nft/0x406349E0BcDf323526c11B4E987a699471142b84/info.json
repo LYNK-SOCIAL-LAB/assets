@@ -1,0 +1,19 @@
+{
+  "name" : "8-bit Nostalgia",
+  "website" : "https://www.8-bitnostalgia.com/",
+  "description" : "Home of the Nostalgia Metaverse, 8-Bit Nostalgia's NFTs are proof of land ownership in the Metaverse.",
+  "explorer" : "https://ftmscan.com/token/0x406349E0BcDf323526c11B4E987a699471142b84",
+  "type" : "FRC721",
+  "symbol" : "8BIT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x406349E0BcDf323526c11B4E987a699471142b84",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@8bit_metaverse"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/B7STde6zCM"
+  } ]
+}

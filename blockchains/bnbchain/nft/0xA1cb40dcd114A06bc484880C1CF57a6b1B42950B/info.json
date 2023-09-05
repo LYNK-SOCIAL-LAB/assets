@@ -1,0 +1,22 @@
+{
+  "name" : "Mines of Dalarnia Items",
+  "website" : "https://www.minesofdalarnia.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xA1cb40dcd114A06bc484880C1CF57a6b1B42950B",
+  "type" : "BEP721",
+  "symbol" : "MoD-Item",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xA1cb40dcd114A06bc484880C1CF57a6b1B42950B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/MinesOfDalarnia"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/Qcw54XzRuC"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/MinesOfDalarnia"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "FantomPunks",
+  "website" : "https://fantompunksquad.io",
+  "description" : "FantomPunks are a collection of 100 unique NFTs. Each digital collectible is hand crafted, living on the Opera blockchain. Holders will receive an exclusive “GoldFantomPunk” aka “GFP” airdropped to their wallet after verification. This unique NFT grants an enlistment into the FantomPunk Squad (DAO).",
+  "explorer" : "https://ftmscan.com/token/0xf8883aefE2a627EA5cC313ef88760d5A507C4C1c",
+  "type" : "FRC721",
+  "symbol" : "fPUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf8883aefE2a627EA5cC313ef88760d5A507C4C1c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/FantomPunks"
+  } ]
+}

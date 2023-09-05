@@ -1,0 +1,13 @@
+{
+  "name" : "CryptoTesters",
+  "website" : null,
+  "description" : "\"Cryptotesters is a tight-knit community of Web3 power users and builders exploring crypto together and having fun.\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0x18a1bC18cEfdc952121F319039502FDD5f48B6fF",
+  "type" : "OP721",
+  "symbol" : "CT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x18a1bC18cEfdc952121F319039502FDD5f48B6fF",
+  "tags" : null,
+  "links" : [ ]
+}

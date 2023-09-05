@@ -1,0 +1,13 @@
+{
+  "name" : "veNFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0xFAf8FD17D9840595845582fCB047DF13f006787d",
+  "type" : "OP721",
+  "symbol" : "veNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xFAf8FD17D9840595845582fCB047DF13f006787d",
+  "tags" : null,
+  "links" : [ ]
+}

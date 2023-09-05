@@ -1,0 +1,13 @@
+{
+  "name" : "TrueFi NFT OP",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://optimistic.etherscan.io/token/0x4Bb75F6b2325d393518a452F0102dD7b6c135429",
+  "type" : "OP721",
+  "symbol" : "TRU-OP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4Bb75F6b2325d393518a452F0102dD7b6c135429",
+  "tags" : null,
+  "links" : [ ]
+}

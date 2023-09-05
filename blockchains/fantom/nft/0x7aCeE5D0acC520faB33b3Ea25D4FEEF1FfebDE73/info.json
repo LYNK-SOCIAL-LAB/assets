@@ -1,0 +1,19 @@
+{
+  "name" : "Cyber Neko",
+  "website" : "https://pod.so/",
+  "description" : "Cyber Neko is a 6,666 uniquely, programmatically generated, cute and collectible Cyber Neko with proof of ownership stored on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0x7aCeE5D0acC520faB33b3Ea25D4FEEF1FfebDE73",
+  "type" : "FRC721",
+  "symbol" : "NEKO",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x7aCeE5D0acC520faB33b3Ea25D4FEEF1FfebDE73",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/pod_town"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/QDWZCSR6E2"
+  } ]
+}

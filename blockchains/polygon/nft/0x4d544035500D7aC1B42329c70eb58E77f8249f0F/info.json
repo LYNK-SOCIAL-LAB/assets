@@ -1,0 +1,22 @@
+{
+  "name" : "League of Kingdoms (Polygon)",
+  "website" : "https://www.leagueofkingdoms.com",
+  "description" : "League of Kingdoms is an MMO Strategy game on the blockchain. On the genesis continent, all lands are NFTs and owned by users. You can own, play, and earn rewards by developing your own kingdoms. It will be a decentralized and self-sovereign economy shaped by users. Your strategy begins here!",
+  "explorer" : "https://polygonscan.com/token/0x4d544035500D7aC1B42329c70eb58E77f8249f0F",
+  "type" : "PRC721",
+  "symbol" : "LOKI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4d544035500D7aC1B42329c70eb58E77f8249f0F",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/66xQT9dm5E"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/LoK_global"
+  }, {
+    "name" : "medium",
+    "url" : "lok-official"
+  } ]
+}

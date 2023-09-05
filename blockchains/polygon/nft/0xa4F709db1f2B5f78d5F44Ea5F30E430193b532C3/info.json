@@ -1,0 +1,16 @@
+{
+  "name" : "NEWKINOERC1155",
+  "website" : "http://2974.currybrand.com",
+  "description" : "The Genesis Curry Flow collection is comprised of 2974 unique NFTs minted in celebration of the 3-point scoring world record recently broken by Stephen Curry of the Golden State Warriors. The NFTs highlight distinct aspects of Stephen’s game and journey to becoming the greatest 3- point shooter of all time – and the holder will have their own piece of history. Each unique NFT comes with a locker that enables the holder to enter our partner gaming platforms, Decentraland, Sandbox, and Gala Games, and Rumble Kong League offering endless possibilities to play and explore. \r\n\r\nCurry Brand and the Genesis Curry Flow NFT create opportunity, access and equality for youth sports in neighborhoods around the world.",
+  "explorer" : "https://polygonscan.com/token/0xa4F709db1f2B5f78d5F44Ea5F30E430193b532C3",
+  "type" : "PRC1155",
+  "symbol" : "NEWKINO1155",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa4F709db1f2B5f78d5F44Ea5F30E430193b532C3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/LunaMarketInc"
+  } ]
+}

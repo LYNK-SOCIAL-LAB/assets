@@ -1,0 +1,19 @@
+{
+  "name" : "Wolf cdca0d",
+  "website" : "https://policeandthief.game/",
+  "description" : null,
+  "explorer" : "https://snowtrace.io/token/0x0c2485d08C7611cEAfdbB370DAd4fa86B5935fF4",
+  "type" : "AVA721",
+  "symbol" : "WOLF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0c2485d08C7611cEAfdbB370DAd4fa86B5935fF4",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/policethiefnft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/policeandthiefgame"
+  } ]
+}

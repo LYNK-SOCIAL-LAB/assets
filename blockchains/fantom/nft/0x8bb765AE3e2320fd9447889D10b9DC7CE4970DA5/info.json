@@ -1,0 +1,22 @@
+{
+  "name" : "TinyDaemons",
+  "website" : "https://bitdaemons.space/",
+  "description" : "TinyDaemons are a collection of 10K digital sentinels, serving to spread Daemonic corruption across the Omnichain space.",
+  "explorer" : "https://ftmscan.com/token/0x8bb765AE3e2320fd9447889D10b9DC7CE4970DA5",
+  "type" : "FRC721",
+  "symbol" : "TINYDMN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8bb765AE3e2320fd9447889D10b9DC7CE4970DA5",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@tinydaemons"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/h2wEqVgpBD"
+  }, {
+    "name" : "medium",
+    "url" : "https://bitdaemons.medium.com/"
+  } ]
+}

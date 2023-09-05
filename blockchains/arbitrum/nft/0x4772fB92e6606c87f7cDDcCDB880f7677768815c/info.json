@@ -1,0 +1,13 @@
+{
+  "name" : "ArbiPunks",
+  "website" : null,
+  "description" : "\"10000 unique collectible characters with proof of ownership stored on the Arbitrum. Funding the first low-fee NFT Marketplace.\"",
+  "explorer" : "https://arbiscan.io/token/0x4772fB92e6606c87f7cDDcCDB880f7677768815c",
+  "type" : "ARC721",
+  "symbol" : "APUNKS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x4772fB92e6606c87f7cDDcCDB880f7677768815c",
+  "tags" : null,
+  "links" : [ ]
+}

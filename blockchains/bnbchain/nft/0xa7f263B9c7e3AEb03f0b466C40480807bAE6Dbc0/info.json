@@ -1,0 +1,22 @@
+{
+  "name" : "MicrophoneGenesisNFT",
+  "website" : "https://www.ammelody.com/",
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xa7f263B9c7e3AEb03f0b466C40480807bAE6Dbc0",
+  "type" : "BEP721",
+  "symbol" : "MGNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa7f263B9c7e3AEb03f0b466C40480807bAE6Dbc0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Melody_SGS"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/melodyapp"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/Melodyappchat"
+  } ]
+}

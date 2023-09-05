@@ -1,0 +1,22 @@
+{
+  "name" : "Fudimism",
+  "website" : "https://qx.app/collection/jkr",
+  "description" : "I'm a little boy, flow on a wild world.",
+  "explorer" : "https://optimistic.etherscan.io/token/0x6ffCE281766590D59199a91dadB994B6a035409c",
+  "type" : "OP721",
+  "symbol" : "FUDTHAI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6ffCE281766590D59199a91dadB994B6a035409c",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/diewland_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/y84sbKcNwc"
+  }, {
+    "name" : "instagram",
+    "url" : "diewland_nft"
+  } ]
+}

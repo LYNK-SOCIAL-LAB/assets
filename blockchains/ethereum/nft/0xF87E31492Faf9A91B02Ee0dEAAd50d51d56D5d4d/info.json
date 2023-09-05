@@ -1,0 +1,22 @@
+{
+  "name" : "Decentraland LAND",
+  "website" : "https://decentraland.org/",
+  "description" : "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Join a growing community of virtual world inhabitants who are building the world's largest alternate reality economy on the blockchain. In this store, you can buy and sell land assets in MANA, DCL's native currency.",
+  "explorer" : "https://etherscan.io/token/0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+  "type" : "ERC721",
+  "symbol" : "LAND",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/decentraland"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/svZP5W7tmq"
+  }, {
+    "name" : "instagram",
+    "url" : "decentraland_foundation/"
+  } ]
+}

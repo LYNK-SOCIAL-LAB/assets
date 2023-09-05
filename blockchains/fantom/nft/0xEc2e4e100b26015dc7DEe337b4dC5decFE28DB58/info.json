@@ -1,0 +1,19 @@
+{
+  "name" : "MiniG",
+  "website" : "https://miniversefinance.gitbook.io/docs/",
+  "description" : "555 Digital Guinea Pigs exploring the MiniVerse looking for frens or foes. Guineas are Genesis MiniVerse Finance NFT's and earn MvDOLLAR(algorithmic stable coin pegged of 1:1 USDC) by staking. Through utilizing MvDOLLAR in our NFT GameFi, holders will be able to earn rewards/prizes, breed the next generation, and much more!",
+  "explorer" : "https://ftmscan.com/token/0xEc2e4e100b26015dc7DEe337b4dC5decFE28DB58",
+  "type" : "FRC721",
+  "symbol" : "MG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xEc2e4e100b26015dc7DEe337b4dC5decFE28DB58",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@miniverse_fin"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/5Cvyg49qQP"
+  } ]
+}

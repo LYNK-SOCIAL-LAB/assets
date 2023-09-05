@@ -1,0 +1,13 @@
+{
+  "name" : "FantomFrogFamily",
+  "website" : "https://www.fantomfrogfamily.xyz",
+  "description" : null,
+  "explorer" : "https://ftmscan.com/token/0xa70aa1f9da387b815Facd5B823F284F15EC73884",
+  "type" : "FRC721",
+  "symbol" : "FFF",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa70aa1f9da387b815Facd5B823F284F15EC73884",
+  "tags" : null,
+  "links" : [ ]
+}

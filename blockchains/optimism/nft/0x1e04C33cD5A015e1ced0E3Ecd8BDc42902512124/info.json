@@ -1,0 +1,13 @@
+{
+  "name" : "Optimism Subscriber NFTs",
+  "website" : null,
+  "description" : "NFTs for fans of the Optimism Collective and readers of our newsletter. Mint yours at optimism.mirror.xyz",
+  "explorer" : "https://optimistic.etherscan.io/token/0x1e04C33cD5A015e1ced0E3Ecd8BDc42902512124",
+  "type" : "OP1155",
+  "symbol" : "OPNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x1e04C33cD5A015e1ced0E3Ecd8BDc42902512124",
+  "tags" : null,
+  "links" : [ ]
+}

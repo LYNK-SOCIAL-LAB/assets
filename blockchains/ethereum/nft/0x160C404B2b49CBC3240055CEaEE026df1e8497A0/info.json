@@ -1,0 +1,19 @@
+{
+  "name" : "projectPXN",
+  "website" : "http://phantom.sh",
+  "description" : "The underbelly of Web3.\r\nA shadow vague, formless, but eternal.",
+  "explorer" : "https://etherscan.io/token/0x160C404B2b49CBC3240055CEaEE026df1e8497A0",
+  "type" : "ERC721",
+  "symbol" : "GHOST",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x160C404B2b49CBC3240055CEaEE026df1e8497A0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/projectPXN"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/projectpxn"
+  } ]
+}

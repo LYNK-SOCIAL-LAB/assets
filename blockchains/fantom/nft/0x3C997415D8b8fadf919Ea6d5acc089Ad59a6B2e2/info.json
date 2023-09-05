@@ -1,0 +1,19 @@
+{
+  "name" : "FantomFrogs",
+  "website" : "https://ftmfrogs.com/",
+  "description" : "The Fantom Frogs are 6666 dark frogs sent from the depths of the Frog Nation. Their sole purpose is to reward their holders with income, spoil them with weekly treats and gain them access to the best frog club known in the frog nation.",
+  "explorer" : "https://ftmscan.com/token/0x3C997415D8b8fadf919Ea6d5acc089Ad59a6B2e2",
+  "type" : "FRC721",
+  "symbol" : "FTMFROGS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x3C997415D8b8fadf919Ea6d5acc089Ad59a6B2e2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@FantomFrogs"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/frogpondclub"
+  } ]
+}

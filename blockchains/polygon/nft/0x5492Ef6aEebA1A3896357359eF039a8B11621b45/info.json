@@ -1,0 +1,28 @@
+{
+  "name" : "Chumbi",
+  "website" : "chumbivalley.com",
+  "description" : "Chumbi Valley is an enchanting role-playing blockchain game being built\non BSC & Polygon. Chumbi are adorable NFT creatures that inhabit a\nlush and mysterious forest valley. All in-game items and creatures are\nblockchain based tokens and NFTs. Chumbi Valley’s visuals and gameplay\nare completely original and inspired by classics like Pokemon, Zelda,\nStardew Valley, & the Studio Ghibli films",
+  "explorer" : "https://polygonscan.com/token/0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+  "type" : "PRC721",
+  "symbol" : "CHUMBI",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ChumbiValley"
+  }, {
+    "name" : "discord",
+    "url" : "discord.gg/chumbi"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/chumbivalley01"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/chumbivalley"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@chumbivalley"
+  } ]
+}

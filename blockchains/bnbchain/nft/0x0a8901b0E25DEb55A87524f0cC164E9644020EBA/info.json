@@ -1,0 +1,25 @@
+{
+  "name" : "Pancake Squad",
+  "website" : "https://pancakeswap.finance/",
+  "description" : "Every Pancake Squad bunny is different. They’re all randomly generated from over 200 different features, with over eight BILLION possible combinations, so that no bunny is ever exactly alike. On top of that, there are a very small number of ultra-rare special unique bunnies as well...!\n",
+  "explorer" : "https://bscscan.com/token/0x0a8901b0E25DEb55A87524f0cC164E9644020EBA",
+  "type" : "BEP721",
+  "symbol" : "PS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0a8901b0E25DEb55A87524f0cC164E9644020EBA",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/pancakeswap"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/pancakeswap"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/pancakeswap"
+  }, {
+    "name" : "instagram",
+    "url" : "https://instagram.com/pancakeswap_official"
+  } ]
+}

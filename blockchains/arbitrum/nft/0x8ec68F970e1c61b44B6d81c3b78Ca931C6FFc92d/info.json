@@ -1,0 +1,13 @@
+{
+  "name" : "Reactor",
+  "website" : null,
+  "description" : "Realm is a World-Building and Exploration GameFi experience",
+  "explorer" : "https://arbiscan.io/token/0x8ec68F970e1c61b44B6d81c3b78Ca931C6FFc92d",
+  "type" : "ARC721",
+  "symbol" : "REACTOR",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8ec68F970e1c61b44B6d81c3b78Ca931C6FFc92d",
+  "tags" : null,
+  "links" : [ ]
+}

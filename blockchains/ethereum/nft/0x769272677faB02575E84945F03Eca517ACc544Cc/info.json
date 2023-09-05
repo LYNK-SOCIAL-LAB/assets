@@ -1,0 +1,19 @@
+{
+  "name" : "Captainz",
+  "website" : "http://memeland.com/captainz",
+  "description" : "9,999 PIRATE CAPTAINZ SEARCHING FOR THE LEGENDARY MEMELAND.\n\n9,999 Captainz, with their pirate crewz, explore the Broken Seas in search of the legendary treasure known as “Memeland”. Join them in their quests for glory, fortune, love, and of course… memes.",
+  "explorer" : "https://etherscan.io/token/0x769272677faB02575E84945F03Eca517ACc544Cc",
+  "type" : "ERC721",
+  "symbol" : "Captainz",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x769272677faB02575E84945F03Eca517ACc544Cc",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Memeland"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/memeland"
+  } ]
+}

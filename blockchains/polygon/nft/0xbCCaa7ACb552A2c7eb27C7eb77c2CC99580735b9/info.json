@@ -1,0 +1,25 @@
+{
+  "name" : "Artvatars V2",
+  "website" : "http://artvatars.com/",
+  "description" : "Created with the collaboration of over 60 of the world's best CryptoArtists, Artvatars represent a rare work of art. Artvatars are composed from the artwork of each artist, which is spliced into various components. The AI algorithm then randomly assigns the parts to generate the Artvatar and create a final unique NFT. Artvatars are here to bring the next generation of exclusive Digital Art Collectibles to you.\n\nARTVATARS ONE SERIES: https://opensea.io/collection/artvatars-one\n\nDiscord: https://discord.gg/artvatars\n\nTwitter: https://twitter.com/artvatars",
+  "explorer" : "https://polygonscan.com/token/0xbCCaa7ACb552A2c7eb27C7eb77c2CC99580735b9",
+  "type" : "PRC721",
+  "symbol" : "ARTV",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xbCCaa7ACb552A2c7eb27C7eb77c2CC99580735b9",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/artvatars"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/artvatars"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/artvatars"
+  }, {
+    "name" : "medium",
+    "url" : "artvatars"
+  } ]
+}

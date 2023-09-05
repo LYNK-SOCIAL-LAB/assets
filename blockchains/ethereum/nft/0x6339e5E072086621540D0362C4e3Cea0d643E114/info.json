@@ -1,0 +1,16 @@
+{
+  "name" : "Opepen Edition",
+  "website" : "http://opepen.art",
+  "description" : "This is not a pfp project.",
+  "explorer" : "https://etherscan.io/token/0x6339e5E072086621540D0362C4e3Cea0d643E114",
+  "type" : "ERC721",
+  "symbol" : "OPEPEN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6339e5E072086621540D0362C4e3Cea0d643E114",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/jackbutcher"
+  } ]
+}

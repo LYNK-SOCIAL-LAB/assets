@@ -1,0 +1,16 @@
+{
+  "name" : "Battlefly Special NFTs",
+  "website" : "http://dashboard.battlefly.game",
+  "description" : "BattleFly Special NFTs:\n\nThe BattleFly Founders NFTs offer unique benefits in the BattleFly Ecosystem. Learn the benefits of holding one here:\nhttps://docs.battlefly.game/battlefly-treasury/founder-nfts\n\nTo view BattleFly’s main collection, head to:\nhttps://opensea.io/collection/battlefly \n\nTo view additional details before purchasing and enjoy lower creator fees, head to:\nhttps://trove.treasure.lol/cartridge/battlefly ",
+  "explorer" : "https://arbiscan.io/token/0xc43104775BD9f6076808B5F8dF6CbdBeac96d7dE",
+  "type" : "ARC721",
+  "symbol" : "BattleflySNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc43104775BD9f6076808B5F8dF6CbdBeac96d7dE",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/G2eDvVyM"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Portalheads",
+  "website" : "https://portalheads.io/",
+  "description" : "Portalheads are a 10,000-strong group of nomadic misfits.",
+  "explorer" : "https://ftmscan.com/token/0xb54FF1EBc9950fce19Ee9E055A382B1219f862f0",
+  "type" : "FRC721",
+  "symbol" : "PH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xb54FF1EBc9950fce19Ee9E055A382B1219f862f0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/portalheads"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Epv6AsYRff"
+  } ]
+}

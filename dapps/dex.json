@@ -1,0 +1,95 @@
+{
+    "deletes":[],
+    "actives": [
+        {
+            "name": "1inch",
+            "intro": "The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest, and protected operations in the DeFi space.",
+            "logo": "https://assets.lynk.social/dapps/icon/1inch.png",
+            "url": "https://1inch.exchange",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
+            "tags": "DEX,HOT",
+            "sorts": "0"
+        },
+        {
+            "name": "Uniswap",
+            "intro": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
+            "logo": "https://assets.lynk.social/dapps/icon/uniswap.png",
+            "url": "https://uniswap.org",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche",
+            "tags": "DEX,HOT",
+            "sorts": "1"
+        },
+        {
+            "name": "PancakeSwap",
+            "intro": "PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return.",
+            "logo": "https://assets.lynk.social/dapps/icon/pancakeswap.png",
+            "url": "https://pancakeswap.finance",
+            "networks": "ethereum,bnbchain,polygon",
+            "tags": "DEX,HOT",
+            "sorts": "2"
+        },
+        {
+            "name": "GMX",
+            "intro": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+            "logo": "https://assets.lynk.social/dapps/icon/gmx.png",
+            "url": "https://gmx.io",
+            "networks": "arbitrum,avalanche",
+            "tags": "DEX,HOT",
+            "sorts": "3"
+        },
+        {
+            "name": "Sushi",
+            "intro": "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
+            "logo": "https://assets.lynk.social/dapps/icon/sushi.png",
+            "url": "https://www.sushi.com",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
+            "tags": "DEX,HOT",
+            "sorts": "4"
+        },
+        {
+            "name": "DODO",
+            "intro": "DODO is a DeFi protocoldecentralized finance (DeFi) protocol and on-chain liquidity provider whose unique proactive market maker (PMM) algorithm aims to offer better liquidity and price stability than automated market makers (AMM).",
+            "logo": "https://assets.lynk.social/dapps/icon/dodo.png",
+            "url": "https://dodoex.io",
+            "networks": "ethereum,bnbchain,polygon,arbitrum",
+            "tags": "DEX,HOT",
+            "sorts": "5"
+        },
+        {
+            "name": "Synthetix",
+            "intro": "Synthetix is building a decentralized liquidity provisioning protocol that any protocol can tap into for various purposes. Its deep liquidity and low fees serve as a backend for many exciting protocols on both Optimism and Ethereum.",
+            "logo": "https://assets.lynk.social/dapps/icon/synthetix.png",
+            "url": "https://synthetix.io",
+            "networks": "ethereum,optimism",
+            "tags": "DEX,HOT",
+            "sorts": "6"
+        },     
+        {
+            "name": "Balancer",
+            "intro": "Balancer is an automated market maker (AMM) that was developed on the Ethereum blockchain and launched in March 2020.",
+            "logo": "https://assets.lynk.social/dapps/icon/balancer.png",
+            "url": "https://balancer.finance",
+            "networks": "ethereum",
+            "tags": "DEX,HOT",
+            "sorts": "6"
+        },     
+        {
+            "name": "QuickSwap",
+            "intro": "QuickSwap is a fork of the originator of Automated Market Makers in the now rapidly expanding DeFi sector of the Cryptocurrency industry, Uniswap.",
+            "logo": "https://assets.lynk.social/dapps/icon/quickswap.png",
+            "url": "https://quickswap.exchange",
+            "networks": "polygon",
+            "tags": "DEX,HOT",
+            "sorts": "7"
+        },     
+        {
+            "name": "Velodrome",
+            "intro": "Velodrome is an AMM designed as the central trading and liquidity marketplace on Optimism Network.",
+            "logo": "https://assets.lynk.social/dapps/icon/velodrome.png",
+            "url": "https://velodrome.finance",
+            "networks": "optimism",
+            "tags": "DEX,HOT",
+            "sorts": "9"
+        }
+    ]
+}

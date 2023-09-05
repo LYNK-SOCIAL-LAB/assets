@@ -1,0 +1,22 @@
+{
+  "name" : "Blueberry Club",
+  "website" : "https://blueberry.club/",
+  "description" : "10,000 Blueberries NFT Collection on Arbitrum, building community-driven gmx.io products and having fun together.",
+  "explorer" : "https://arbiscan.io/token/0x17f4BAa9D35Ee54fFbCb2608e20786473c7aa49f",
+  "type" : "ARC721",
+  "symbol" : "GBC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x17f4BAa9D35Ee54fFbCb2608e20786473c7aa49f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/GBlueberryClub"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/invite/7ZMmeU3z9j"
+  }, {
+    "name" : "instagram",
+    "url" : "blueberryclub.eth"
+  } ]
+}

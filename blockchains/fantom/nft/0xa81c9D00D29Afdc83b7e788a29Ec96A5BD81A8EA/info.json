@@ -1,0 +1,19 @@
+{
+  "name" : "Acid Cats",
+  "website" : "https://potluckprotocol.com",
+  "description" : "The AcidCats Phase Two by Teens On Acid are the Acidverse's official mascots ready to join you on a journey of mind expansion and enlightenment through 80s and 90s nostalgia with a uniquely japanese flavour.",
+  "explorer" : "https://ftmscan.com/token/0xa81c9D00D29Afdc83b7e788a29Ec96A5BD81A8EA",
+  "type" : "FRC721",
+  "symbol" : "ACDC",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa81c9D00D29Afdc83b7e788a29Ec96A5BD81A8EA",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@teensonacid"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/McNkuJMhNK"
+  } ]
+}

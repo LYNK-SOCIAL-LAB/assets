@@ -1,0 +1,19 @@
+{
+  "name" : "Pumpkittens",
+  "website" : "https://pumpkitten.com/",
+  "description" : "Pumpkittens is the first NFT project to introduce a revenue sharing model to its collectors. Collectors or the 100 OG Pumpkittens will receive 50% of all the sales from future NFT drops starting with BitKittens.",
+  "explorer" : "https://ftmscan.com/token/0xF185cf59c710a0E83362fb7B8813b633Ba073600",
+  "type" : "FRC721",
+  "symbol" : "PK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF185cf59c710a0E83362fb7B8813b633Ba073600",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Pumpkittens"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/Gj7JqN2mXZ"
+  } ]
+}

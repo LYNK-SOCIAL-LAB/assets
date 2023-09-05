@@ -1,0 +1,19 @@
+{
+  "name" : "Sins Finance Nodes",
+  "website" : "https://sins.finance/",
+  "description" : "Treasury backed wealth creation protocol.",
+  "explorer" : "https://snowtrace.io/token/0xFd2bF0435c8273e7555EcAC9d008322B51bb52d3",
+  "type" : "AVA721",
+  "symbol" : "SNode",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xFd2bF0435c8273e7555EcAC9d008322B51bb52d3",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Sins_Finance"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/SinsFinancePortal"
+  } ]
+}

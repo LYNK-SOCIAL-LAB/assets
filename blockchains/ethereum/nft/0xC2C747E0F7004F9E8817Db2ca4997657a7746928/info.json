@@ -1,0 +1,19 @@
+{
+  "name" : "Hashmasks",
+  "website" : "https://www.thehashmasks.com/",
+  "description" : "Hashmasks are ancient traits and memories of the first travelers to Earth. Their journey here was long and hard. The Hashmasks forgot their names by the time they arrived. They left clues for us to unravel so that we could discover their meaning.​\r\n\r\nAre you a curious lover of fine art? Join our community of passionate detectives. Come add to the Hashmasks story and discover the character behind your own mask!",
+  "explorer" : "https://etherscan.io/token/0xC2C747E0F7004F9E8817Db2ca4997657a7746928",
+  "type" : "ERC721",
+  "symbol" : "HM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xC2C747E0F7004F9E8817Db2ca4997657a7746928",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheHashmasks"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/DydMP87yQ4"
+  } ]
+}

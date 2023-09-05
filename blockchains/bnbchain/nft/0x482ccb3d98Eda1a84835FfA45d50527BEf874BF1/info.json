@@ -1,0 +1,13 @@
+{
+  "name" : "Pirate tale treasure",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x482ccb3d98Eda1a84835FfA45d50527BEf874BF1",
+  "type" : "BEP1155",
+  "symbol" : "PTT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x482ccb3d98Eda1a84835FfA45d50527BEf874BF1",
+  "tags" : null,
+  "links" : [ ]
+}

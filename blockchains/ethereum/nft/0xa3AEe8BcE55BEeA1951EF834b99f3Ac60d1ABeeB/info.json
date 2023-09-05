@@ -1,0 +1,19 @@
+{
+  "name" : "VeeFriends",
+  "website" : "https://veefriends.com/",
+  "description" : "A Gary Vaynerchuk NFT project around meaningful intellectual property and an extraordinary community.",
+  "explorer" : "https://etherscan.io/token/0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB",
+  "type" : "ERC721",
+  "symbol" : "VFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/veefriends"
+  }, {
+    "name" : "instagram",
+    "url" : "veefriends"
+  } ]
+}

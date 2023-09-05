@@ -1,0 +1,16 @@
+{
+  "name" : "Roostr",
+  "website" : "https://chikn.farm/",
+  "description" : "AVAX NFTs that lay $EGG. Lay, Farm, Trade, Breed, Battle, Launch.\nTri-Token bgaarkitecture for NFTs on Avalanche",
+  "explorer" : "https://snowtrace.io/token/0xCf91B99548b1C17dD1095c0680E20de380635e20",
+  "type" : "AVA721",
+  "symbol" : "Roostr",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xCf91B99548b1C17dD1095c0680E20de380635e20",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/chikn_nft"
+  } ]
+}

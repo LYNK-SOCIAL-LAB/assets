@@ -1,0 +1,22 @@
+{
+  "name" : "Radio Caca",
+  "website" : "https://www.radiocaca.com/",
+  "description" : "Radio Caca is a decentralized organization (DAO) operated by\ninternet-native individuals all over the globe who share a single vision\nof building a brave new virtual world. Radio Caca (RACA) is the\nexclusive manager of Maye Musk Mystery Box (MPB) NFT. RACA is the native\ntoken for blockchain P2E game Metamon and for the Universal Metaverse\n(a.k.a. USM). The Universal Metaverse : A 3D Planet world where users\ncan own lands, build stores and art galleries, create and play games.\nWith a Google-Earth-like UX, users will be able to dynamically zoom in\nand out and travel around the 3D virtual planet, a first-ever feature in\nthe game industry globally.",
+  "explorer" : "https://bscscan.com/token/0x5dc3FeD851e07715965E5727592CE33d14b7828D",
+  "type" : "BEP1155",
+  "symbol" : "MDB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5dc3FeD851e07715965E5727592CE33d14b7828D",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RadioCacaNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/34qREVgv3h"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/RadioCacagroup2"
+  } ]
+}

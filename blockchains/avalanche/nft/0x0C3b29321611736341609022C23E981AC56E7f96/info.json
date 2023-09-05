@@ -1,0 +1,22 @@
+{
+  "name" : "NovaXPlanet",
+  "website" : "https://novaxgame.com",
+  "description" : "NovaX Planets is a unique collection of 8,888 Planets existing on the NovaX Universe!  NovaX is a space-themed MMO game build on Avalanche. Planet owners have the power to construct or level up buildings on their planets by playing the game",
+  "explorer" : "https://snowtrace.io/token/0x0C3b29321611736341609022C23E981AC56E7f96",
+  "type" : "AVA721",
+  "symbol" : "XPLN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x0C3b29321611736341609022C23E981AC56E7f96",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/https://twitter.com/novax_game"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/2XKSphs5x9"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/novaxchat"
+  } ]
+}

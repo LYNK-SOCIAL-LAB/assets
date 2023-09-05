@@ -1,0 +1,28 @@
+{
+  "name" : "DeRace Jockey Club",
+  "website" : "http://derace.com",
+  "description" : "DeRace Opie Collection avatars are one-of-a-kind NFT assets that open\nthe door to secret DeRace Jockey Club!  Exclusive DeRace Jockey Club\nmembers are invited to private NFT drops, get VIP invites to dedicated\nin-game events and be the first to know all the latest news",
+  "explorer" : "https://polygonscan.com/token/0x5F6ceAAD29038435A764B59D716717500135a609",
+  "type" : "PRC721",
+  "symbol" : "DRCOP",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5F6ceAAD29038435A764B59D716717500135a609",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/deracenft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/67M9ckF3q3"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/DeRaceNFT"
+  }, {
+    "name" : "instagram",
+    "url" : "deracenft"
+  }, {
+    "name" : "medium",
+    "url" : "deracenft"
+  } ]
+}

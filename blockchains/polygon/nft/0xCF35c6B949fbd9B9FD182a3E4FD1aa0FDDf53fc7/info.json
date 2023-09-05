@@ -1,0 +1,13 @@
+{
+  "name" : "Gold Azuki",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://polygonscan.com/token/0xCF35c6B949fbd9B9FD182a3E4FD1aa0FDDf53fc7",
+  "type" : "PRC1155",
+  "symbol" : "azuki",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xCF35c6B949fbd9B9FD182a3E4FD1aa0FDDf53fc7",
+  "tags" : null,
+  "links" : [ ]
+}

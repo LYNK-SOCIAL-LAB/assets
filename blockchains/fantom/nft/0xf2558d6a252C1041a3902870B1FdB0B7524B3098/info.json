@@ -1,0 +1,19 @@
+{
+  "name" : "Early Ludwig",
+  "website" : "https://www.beethovenx.io/",
+  "description" : "This is the “First collection of the life and times of Ludwig the Undead”. A series of 500 NFTs featuring 100 unique hand made artworks by Vee, the Beethoven X designer. This collection was minted to the 500 early liquidity providers and closest supporters of the Beethoven X project. The artworks were inspired by music, culture and current events happening on this fast moving planet. Enjoy the show.",
+  "explorer" : "https://ftmscan.com/token/0xf2558d6a252C1041a3902870B1FdB0B7524B3098",
+  "type" : "FRC721",
+  "symbol" : "EARLYLUDWIG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf2558d6a252C1041a3902870B1FdB0B7524B3098",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/beethoven_x"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/hd9R2aYv"
+  } ]
+}

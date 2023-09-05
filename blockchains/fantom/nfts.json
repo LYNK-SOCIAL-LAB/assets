@@ -1,0 +1,1005 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x573235B8e2708C39DD2Fa9Ec2d880121f4F83cA9",
+          "name": "MMC",
+          "symbol": "MummyClub NFT",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x573235B8e2708C39DD2Fa9Ec2d880121f4F83cA9/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x2aB5C606a5AA2352f8072B9e2E8A213033e2c4c9",
+          "name": "Magicats",
+          "symbol": "MGC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x2aB5C606a5AA2352f8072B9e2E8A213033e2c4c9/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x61aF4D29f672E27a097291F72fc571304BC93521",
+          "name": "Artion",
+          "symbol": "ART",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x61aF4D29f672E27a097291F72fc571304BC93521/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xac7a698A85102f7b1dc7345E7f17EBCa74e5a9E7",
+          "name": "ART",
+          "symbol": "Artion",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xac7a698A85102f7b1dc7345E7f17EBCa74e5a9E7/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x5DBc2A8B01B7E37dFD7850237a3330c9939d6457",
+          "name": "Ancestral Umans",
+          "symbol": "AUMAN",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x5DBc2A8B01B7E37dFD7850237a3330c9939d6457/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8313f3551C4D3984FfbaDFb42f780D0c8763Ce94",
+          "name": "veEQUAL",
+          "symbol": "veEQUAL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8313f3551C4D3984FfbaDFb42f780D0c8763Ce94/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x406349E0BcDf323526c11B4E987a699471142b84",
+          "name": "8-bit Nostalgia",
+          "symbol": "8BIT",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x406349E0BcDf323526c11B4E987a699471142b84/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8C2fCd5D857Ee9aa19D1a27Ae81ab1129385e3AC",
+          "name": "BitUmans",
+          "symbol": "BUMAN",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8C2fCd5D857Ee9aa19D1a27Ae81ab1129385e3AC/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x31911223bB3fF5b773Af3e677FC0ac5760215e4E",
+          "name": "Paintswap Beardies",
+          "symbol": "BEARDIES",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x31911223bB3fF5b773Af3e677FC0ac5760215e4E/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x7aCeE5D0acC520faB33b3Ea25D4FEEF1FfebDE73",
+          "name": "Cyber Neko",
+          "symbol": "NEKO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x7aCeE5D0acC520faB33b3Ea25D4FEEF1FfebDE73/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3d7E7157459A352ada13ed8dA1Ba54a08A883965",
+          "name": "Astro Kid",
+          "symbol": "ASTRO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3d7E7157459A352ada13ed8dA1Ba54a08A883965/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8E7c434B248d49D873D0F8448E0FcEc895b1b92D",
+          "name": "DegenerabBits",
+          "symbol": "DegenerabBits",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8E7c434B248d49D873D0F8448E0FcEc895b1b92D/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xf45439A5f85a41Fc2D626e80fA44FB5A2DD4fF6B",
+          "name": "Barrel",
+          "symbol": "BARL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xf45439A5f85a41Fc2D626e80fA44FB5A2DD4fF6B/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xD04F2119B174c14210E74E0EBB4A63a1b36AD409",
+          "name": "Wolf Game",
+          "symbol": "WGAME",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xD04F2119B174c14210E74E0EBB4A63a1b36AD409/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xf2558d6a252C1041a3902870B1FdB0B7524B3098",
+          "name": "Early Ludwig",
+          "symbol": "EARLYLUDWIG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xf2558d6a252C1041a3902870B1FdB0B7524B3098/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xe92752C25111DB288665766aD8aDB624CCf91045",
+          "name": "BITSHADOWZ",
+          "symbol": "BSZ",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xe92752C25111DB288665766aD8aDB624CCf91045/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x673Ce61e0Ec7fAD6c6Fe689193a0AdEF38567965",
+          "name": "Magical Goools",
+          "symbol": "mGOOOL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x673Ce61e0Ec7fAD6c6Fe689193a0AdEF38567965/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x972Dd206A7C2D4Ae46Db1Db700bC79dE1bc59960",
+          "name": "Ancestral Umans Leaders",
+          "symbol": "AUMANL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x972Dd206A7C2D4Ae46Db1Db700bC79dE1bc59960/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x24017C94108CefcD88Ee4150EF31713b3E4B06E6",
+          "name": "Mars Wasteland",
+          "symbol": "MarsWasteland",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x24017C94108CefcD88Ee4150EF31713b3E4B06E6/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x47C414909F0c8c663DA2bf8b96592c1C6B8C4215",
+          "name": "Netizens",
+          "symbol": "NTZN",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x47C414909F0c8c663DA2bf8b96592c1C6B8C4215/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x4F504aB2E7b196A4165Ab3dB71E75cB2B37070e0",
+          "name": "Riot Goools",
+          "symbol": "GOOOL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x4F504aB2E7b196A4165Ab3dB71E75cB2B37070e0/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8aC28989c385D83e1a70071e78E78e46897C536E",
+          "name": "Fantom Citadel",
+          "symbol": "CITADEL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8aC28989c385D83e1a70071e78E78e46897C536E/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xC3c545FbE817c8F56762482cd04Fc89cF314Df7D",
+          "name": "TankWarsZone NFT",
+          "symbol": "TANK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xC3c545FbE817c8F56762482cd04Fc89cF314Df7D/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x46DF5672a9bA6dd5A87C5f1224263F06392861F9",
+          "name": "TheCursedCircus",
+          "symbol": "TCC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x46DF5672a9bA6dd5A87C5f1224263F06392861F9/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xFCC623D35fdBC20F41583176b8cd9C20E988eEA6",
+          "name": "MoonMastersNFT",
+          "symbol": "MOONMASTERS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xFCC623D35fdBC20F41583176b8cd9C20E988eEA6/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xa81c9D00D29Afdc83b7e788a29Ec96A5BD81A8EA",
+          "name": "Acid Cats",
+          "symbol": "ACDC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xa81c9D00D29Afdc83b7e788a29Ec96A5BD81A8EA/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xb54FF1EBc9950fce19Ee9E055A382B1219f862f0",
+          "name": "Portalheads",
+          "symbol": "PH",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xb54FF1EBc9950fce19Ee9E055A382B1219f862f0/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x17b28274f8C1d64B683aD097988fa5707b228f80",
+          "name": "PepeTarot Cards",
+          "symbol": "PTC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x17b28274f8C1d64B683aD097988fa5707b228f80/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x1BE4362B9d9A6E1e0B126d2acc99cB14b27b1e34",
+          "name": "equalpunks",
+          "symbol": "EQPS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x1BE4362B9d9A6E1e0B126d2acc99cB14b27b1e34/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x25ff0d27395A7AAD578569f83E30C82a07b4ee7d",
+          "name": "Skullys... Join the cult.",
+          "symbol": "SKULLY",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x25ff0d27395A7AAD578569f83E30C82a07b4ee7d/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x46327Fd53E6e1e7c2b341589bbb8b94F7f65902c",
+          "name": "fantompunks",
+          "symbol": "fantompunks",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x46327Fd53E6e1e7c2b341589bbb8b94F7f65902c/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x92D822978872f12A5D381BD7089461E7ad3634Bc",
+          "name": "Fantom Waifus",
+          "symbol": "WAIFU",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x92D822978872f12A5D381BD7089461E7ad3634Bc/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xC2750650CAE36385E791bB0f32E9CE568A0c66bd",
+          "name": "MiniChillas",
+          "symbol": "MC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xC2750650CAE36385E791bB0f32E9CE568A0c66bd/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xFbDB4E2e7271F37714c4000814CE2487DA57f925",
+          "name": "PaintSwap Colorful Coal",
+          "symbol": "COAL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xFbDB4E2e7271F37714c4000814CE2487DA57f925/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3d8B6254ACd2c7AEc285b251c78A793B80A18772",
+          "name": "CONKPunks",
+          "symbol": "CPUNKS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3d8B6254ACd2c7AEc285b251c78A793B80A18772/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xfee8077c909d956E9036c2d2999723931CeFE548",
+          "name": "Fantom Lords",
+          "symbol": "FTL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xfee8077c909d956E9036c2d2999723931CeFE548/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x7f9893ef9726D23e249518EaA1424677b7FED6a9",
+          "name": "BabyChimpGang",
+          "symbol": "BCG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x7f9893ef9726D23e249518EaA1424677b7FED6a9/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x68874C562EfbBc6e2487FA77B7700064d209D4CA",
+          "name": "Cosmic Horrors",
+          "symbol": "CH",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x68874C562EfbBc6e2487FA77B7700064d209D4CA/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x97fBA89cBf08D1BfEEdF9bd561Ff464a0A9b8038",
+          "name": "PepeTarot Cards: Edition 1",
+          "symbol": "PTC1",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x97fBA89cBf08D1BfEEdF9bd561Ff464a0A9b8038/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xB8d562046f107d12F128E7d8DE0C491d62531c9F",
+          "name": "FantomUnderworld",
+          "symbol": "FTMUW",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xB8d562046f107d12F128E7d8DE0C491d62531c9F/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xa70aa1f9da387b815Facd5B823F284F15EC73884",
+          "name": "FantomFrogFamily",
+          "symbol": "FFF",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xa70aa1f9da387b815Facd5B823F284F15EC73884/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xc1E87be1055509081EA73A0FD5D3d70f6573Dc99",
+          "name": "MiniLand",
+          "symbol": "MLand",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xc1E87be1055509081EA73A0FD5D3d70f6573Dc99/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x5d6f546f2357E84720371A0510f64DBC3FbACe33",
+          "name": "The Easy Club",
+          "symbol": "EASY",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x5d6f546f2357E84720371A0510f64DBC3FbACe33/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xE260BED39020f969BD66b4E2ffcc3c5A34B46A41",
+          "name": "HamsterHeroes",
+          "symbol": "HAMSTER",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xE260BED39020f969BD66b4E2ffcc3c5A34B46A41/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x0C600D41b9C7656e60C0bf76D79B1532b4770D0C",
+          "name": "Fantums",
+          "symbol": "FUM",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x0C600D41b9C7656e60C0bf76D79B1532b4770D0C/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xd5eb80F437C318b3BF8b3AF985224966A3054F76",
+          "name": "Binary Punks",
+          "symbol": "PUNKS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xd5eb80F437C318b3BF8b3AF985224966A3054F76/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x46923d2bF75a42F4F88E79BCa51a8f7d533D9B7D",
+          "name": "Potluck Platinum Pass",
+          "symbol": "PLPP",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x46923d2bF75a42F4F88E79BCa51a8f7d533D9B7D/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3D1034E6732Bfd40E2102146a3cd7d0B2d717EcA",
+          "name": "SaturdayMorningPaintHuffingSessions",
+          "symbol": "SMPHS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3D1034E6732Bfd40E2102146a3cd7d0B2d717EcA/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x64B38cc012D21dBB58e21f0D2885e7509cDd4e99",
+          "name": "FantomPocong",
+          "symbol": "POCONG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x64B38cc012D21dBB58e21f0D2885e7509cDd4e99/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC1155",
+          "address": "0xd19Eb6f25De99a993A73a3931c94Cf3B299BEE03",
+          "name": "PaintSwapERC1155V2",
+          "symbol": null,
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xd19Eb6f25De99a993A73a3931c94Cf3B299BEE03/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC1155",
+          "address": "0x51EF67062De01Dca4A12E3e58dfCEcff20f87551",
+          "name": "JEFE ZOMBIE NFT",
+          "symbol": null,
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x51EF67062De01Dca4A12E3e58dfCEcff20f87551/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xDAC2031173c07BD622759051Df373b708A1acbcE",
+          "name": "Creatures Of The Cave",
+          "symbol": "COTC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xDAC2031173c07BD622759051Df373b708A1acbcE/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x4F46C9D58c9736fe0f0DB5494Cf285E995c17397",
+          "name": "Fantomon Trainers Gen1 on FTM",
+          "symbol": "FTG1",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x4F46C9D58c9736fe0f0DB5494Cf285E995c17397/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xd761dB316b5b9C9C51F7f80127497Bc618e2B422",
+          "name": "Pink Flamingo Social Club",
+          "symbol": "PFSC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xd761dB316b5b9C9C51F7f80127497Bc618e2B422/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x5Ff7758Ab5202061538dd38E4D3f02bb9f55d26d",
+          "name": "ChillPillFTM",
+          "symbol": "CHILLPILLFTM",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x5Ff7758Ab5202061538dd38E4D3f02bb9f55d26d/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62",
+          "name": "tiny dinos",
+          "symbol": "dino",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3C869Af1DD2fA2ee3a6C7B3a6aD7f4350fc5F413",
+          "name": "ERNESTO",
+          "symbol": "NESTO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3C869Af1DD2fA2ee3a6C7B3a6aD7f4350fc5F413/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xa35C2617ebDe3c1e861b014acA29B10A0Afa2f85",
+          "name": "BadGuysNeverDie",
+          "symbol": "BGND",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xa35C2617ebDe3c1e861b014acA29B10A0Afa2f85/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x99571dA737e351396Df2D389CeAAB13486A387bA",
+          "name": "ZombieSociety",
+          "symbol": "Zombie",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x99571dA737e351396Df2D389CeAAB13486A387bA/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x9044948e1a934340766c16f094cC32205d60d1b2",
+          "name": "StrangeBrew",
+          "symbol": "SBREW",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x9044948e1a934340766c16f094cC32205d60d1b2/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xc70AAe0bD664255236143CC1B92A7bD9B2ef019E",
+          "name": "Bruce the Goose",
+          "symbol": "BTG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xc70AAe0bD664255236143CC1B92A7bD9B2ef019E/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC1155",
+          "address": "0x1B69822d4a96C489982412699F5d5313476b88eB",
+          "name": "Neon Shadow Punks",
+          "symbol": null,
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x1B69822d4a96C489982412699F5d5313476b88eB/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xf9e393CbD7e8F34FB87127195f1F74E699D3d595",
+          "name": "BBChickens",
+          "symbol": "BBC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xf9e393CbD7e8F34FB87127195f1F74E699D3d595/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x0c60C064fd949E6CEAA0ef9F7E4511fe70eb4189",
+          "name": "NekroDemonz",
+          "symbol": "NKDZ",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x0c60C064fd949E6CEAA0ef9F7E4511fe70eb4189/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x4a0FBe0Af74Cf38bcd5C68f1D6bf2Cc0899cc0FF",
+          "name": "BitKittens",
+          "symbol": "BK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x4a0FBe0Af74Cf38bcd5C68f1D6bf2Cc0899cc0FF/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x51081a152db09d3FfF75807329A3A8b538eCf73b",
+          "name": "TOACLUB",
+          "symbol": "TOACLB",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x51081a152db09d3FfF75807329A3A8b538eCf73b/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x48EF0F225a5D67e64cdAc9599eEa052A89C309ab",
+          "name": "HexInferno",
+          "symbol": "HIFN",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x48EF0F225a5D67e64cdAc9599eEa052A89C309ab/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xF185cf59c710a0E83362fb7B8813b633Ba073600",
+          "name": "Pumpkittens",
+          "symbol": "PK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xF185cf59c710a0E83362fb7B8813b633Ba073600/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x60208C88d6E61305726697b4e3A7c7A5C615D011",
+          "name": "SCREAMO",
+          "symbol": "SCREAMO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x60208C88d6E61305726697b4e3A7c7A5C615D011/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x93C7B19df2DeA70C7FA3f355F079d6ed077998A7",
+          "name": "Foxes Of The Opera",
+          "symbol": "FOTO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x93C7B19df2DeA70C7FA3f355F079d6ed077998A7/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xd81d78F9D6Eb3Efab060aa213f686f02d1705553",
+          "name": "Chunk NFT",
+          "symbol": "CHUNK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xd81d78F9D6Eb3Efab060aa213f686f02d1705553/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xF6c34B502EC139728edA41e372750F581E224436",
+          "name": "Lost Fantom Warriors",
+          "symbol": "LFW",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xF6c34B502EC139728edA41e372750F581E224436/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x22DEa64A0e9ecbB13d2B0dD2d95a91A06DACb23B",
+          "name": "DaemonPunks",
+          "symbol": "DMNPUNK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x22DEa64A0e9ecbB13d2B0dD2d95a91A06DACb23B/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xEc2e4e100b26015dc7DEe337b4dC5decFE28DB58",
+          "name": "MiniG",
+          "symbol": "MG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xEc2e4e100b26015dc7DEe337b4dC5decFE28DB58/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8F77400a76B38e9A359b60c4cc3C295d80C60A6f",
+          "name": "Fantom Boy by Visionary Boy",
+          "symbol": "FTMBVB",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8F77400a76B38e9A359b60c4cc3C295d80C60A6f/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x8bb765AE3e2320fd9447889D10b9DC7CE4970DA5",
+          "name": "TinyDaemons",
+          "symbol": "TINYDMN",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x8bb765AE3e2320fd9447889D10b9DC7CE4970DA5/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x5439232D0F01F53BdEAbE3a8f19588efdfBf9c64",
+          "name": "Potluck Pigs",
+          "symbol": "PLPG",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x5439232D0F01F53BdEAbE3a8f19588efdfBf9c64/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xc5fa69F0D478923AF8c798Cd770f2EeD4e40Eb99",
+          "name": "FantomRock",
+          "symbol": "ROCK",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xc5fa69F0D478923AF8c798Cd770f2EeD4e40Eb99/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x2D2f7462197d4cfEB6491e254a16D3fb2d2030EE",
+          "name": "Monster Manifested",
+          "symbol": "MMS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x2D2f7462197d4cfEB6491e254a16D3fb2d2030EE/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x6FFC7E19A8e004a3A32b3CfF04834fDb03EE19Db",
+          "name": "bitZombies",
+          "symbol": "bitZombie",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x6FFC7E19A8e004a3A32b3CfF04834fDb03EE19Db/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x993A51CEb77dF29bF95153bF7055A8B2352365ad",
+          "name": "MoonMasterDaoCard",
+          "symbol": "MMDC",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x993A51CEb77dF29bF95153bF7055A8B2352365ad/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x203f6EC8b1Bb1D4A97943C93eF0B6B76BA6b583B",
+          "name": "Nautilus",
+          "symbol": "NAUTILUS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x203f6EC8b1Bb1D4A97943C93eF0B6B76BA6b583B/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x4f89c90E64AE57eaf805Ff2Abf868fE2aD6c55f3",
+          "name": "Honour Nodes",
+          "symbol": "HONOUR",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x4f89c90E64AE57eaf805Ff2Abf868fE2aD6c55f3/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x85237cdeaAFcF1e70B7Ab955AaE8cCAE0d135Da7",
+          "name": "astrokidse",
+          "symbol": "AKSE",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x85237cdeaAFcF1e70B7Ab955AaE8cCAE0d135Da7/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC1155",
+          "address": "0x807D1475ED5aa995C47258A72F9fc8D687eDe609",
+          "name": "honeypot DAO",
+          "symbol": null,
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x807D1475ED5aa995C47258A72F9fc8D687eDe609/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xce7Ad29CF8D5E93aA7dd1e98089fD07Fe09c102C",
+          "name": "FantoPepes",
+          "symbol": "FANTOPEPE",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xce7Ad29CF8D5E93aA7dd1e98089fD07Fe09c102C/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x94d9E02D115646DFC407ABDE75Fa45256D66E043",
+          "name": "XEN Torrent",
+          "symbol": "fmXENT",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x94d9E02D115646DFC407ABDE75Fa45256D66E043/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xf8883aefE2a627EA5cC313ef88760d5A507C4C1c",
+          "name": "FantomPunks",
+          "symbol": "fPUNKS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xf8883aefE2a627EA5cC313ef88760d5A507C4C1c/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3396d660653612Ba06Ea9259316aad2E962F964c",
+          "name": "Cosmic Frens",
+          "symbol": "CSFR",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3396d660653612Ba06Ea9259316aad2E962F964c/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xE2B8a9f4d1417acd4a696fa9580A393ef703a619",
+          "name": "MAGIK NFT",
+          "symbol": "MNFT",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xE2B8a9f4d1417acd4a696fa9580A393ef703a619/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x98ABB0Aa746a1e35FE54b522a12164ea1E034e96",
+          "name": "Power Goools",
+          "symbol": "pGOOOL",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x98ABB0Aa746a1e35FE54b522a12164ea1E034e96/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x5BA5168A88b4F1C41fE71F59DdfA2305E0dbDa8c",
+          "name": "PopPussiesPoppedOff",
+          "symbol": "PPPO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x5BA5168A88b4F1C41fE71F59DdfA2305E0dbDa8c/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x2741a61Fa5FF46288FFccfd0C33891251A2657e2",
+          "name": "FHFC | Boo Lifetime Mint Pass",
+          "symbol": "BOO",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x2741a61Fa5FF46288FFccfd0C33891251A2657e2/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x3C997415D8b8fadf919Ea6d5acc089Ad59a6B2e2",
+          "name": "FantomFrogs",
+          "symbol": "FTMFROGS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x3C997415D8b8fadf919Ea6d5acc089Ad59a6B2e2/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x96AE96b5f9068DCb6A532018Ee60fFcdD4F33085",
+          "name": "Obsession",
+          "symbol": "OBSS",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x96AE96b5f9068DCb6A532018Ee60fFcdD4F33085/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x29A8BEBEdb437c6611Fd33bC8b85B126024A8A9C",
+          "name": "Gooolmon",
+          "symbol": "GLMON",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x29A8BEBEdb437c6611Fd33bC8b85B126024A8A9C/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x6799c6414ADB340b2B7264f3a55077e17f71870a",
+          "name": "SpacePepeFTM",
+          "symbol": "SPFTM",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x6799c6414ADB340b2B7264f3a55077e17f71870a/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xfd4DcEF9139eE9532288eD2a94f02523F6442286",
+          "name": "TheNightmareDemons",
+          "symbol": "TNDemon",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xfd4DcEF9139eE9532288eD2a94f02523F6442286/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0x7e6Eef5388261973B0A1Aa14E1ca5Bbb11CC9A90",
+          "name": "tinyfrogs",
+          "symbol": "tiny",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x7e6Eef5388261973B0A1Aa14E1ca5Bbb11CC9A90/logo.png",
+          "sorts": 10000
+        },
+        {
+          "chainId": "250",
+          "type": "FRC721",
+          "address": "0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b",
+          "name": "veNFT",
+          "symbol": "veNFT",
+          "decimals": "1",
+          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b/logo.png",
+          "sorts": 10000
+        }
+    ]
+}

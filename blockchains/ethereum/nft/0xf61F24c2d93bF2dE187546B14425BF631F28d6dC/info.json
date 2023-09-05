@@ -1,0 +1,25 @@
+{
+  "name" : "World Of Women Galaxy",
+  "website" : "https://worldofwomen.art/wow-galaxy",
+  "description" : "Welcome to the second collection of World of Women!\r\nCreated and Illustrated by Yam Karkai (@ykarkai)\r\n\r\nBecause we are working to make the world a better place, for present and future generations, we are extending our mission to a new dimension.\r\nBut where do these WoW Galaxy come from?\r\nThey are simply WoWs from our first collection, who traveled through a portal to join the Galaxy. They not only experienced unexpected transformations, but also increased in numbers!\r\n\r\nThere are 22,222 of them now, as powerful and diverse as ever and they call themselves WoW Galaxy! Let’s all unite and continue our mission to make the equitable future we all dreamt of back on Earth.",
+  "explorer" : "https://etherscan.io/token/0xf61F24c2d93bF2dE187546B14425BF631F28d6dC",
+  "type" : "ERC721",
+  "symbol" : "WOWG",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xf61F24c2d93bF2dE187546B14425BF631F28d6dC",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/worldofwomennft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/worldofwomen"
+  }, {
+    "name" : "instagram",
+    "url" : "worldofwomen"
+  }, {
+    "name" : "medium",
+    "url" : "WorldofWomen"
+  } ]
+}

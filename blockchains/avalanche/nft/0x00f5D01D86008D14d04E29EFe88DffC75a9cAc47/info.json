@@ -1,0 +1,19 @@
+{
+  "name" : "FarmLand",
+  "website" : "https://chikn.farm/",
+  "description" : "Chikn lays $EGG. Everybody knows it - it's basic biology",
+  "explorer" : "https://snowtrace.io/token/0x00f5D01D86008D14d04E29EFe88DffC75a9cAc47",
+  "type" : "AVA721",
+  "symbol" : "FarmLand",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x00f5D01D86008D14d04E29EFe88DffC75a9cAc47",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/chikn_nft"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.com/invite/9znHkBYjra"
+  } ]
+}

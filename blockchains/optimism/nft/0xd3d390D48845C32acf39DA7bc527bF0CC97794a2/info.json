@@ -1,0 +1,16 @@
+{
+  "name" : "Horse Kingdom",
+  "website" : "https://horsekingdom.life/",
+  "description" : "10k $OPtimistic Horseman from their kingdom and a series of their stories that will soon go to the chain",
+  "explorer" : "https://optimistic.etherscan.io/token/0xd3d390D48845C32acf39DA7bc527bF0CC97794a2",
+  "type" : "OP721",
+  "symbol" : "HK",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd3d390D48845C32acf39DA7bc527bF0CC97794a2",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/Op_HorseKingdom"
+  } ]
+}

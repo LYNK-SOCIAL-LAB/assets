@@ -1,0 +1,16 @@
+{
+  "name" : "Raccoon Network NFT Token",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xd88955294c4044a65Da5d0C767DA6E0D664379e6",
+  "type" : "BEP721",
+  "symbol" : "RACNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xd88955294c4044a65Da5d0C767DA6E0D664379e6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/RACNETWORK"
+  } ]
+}

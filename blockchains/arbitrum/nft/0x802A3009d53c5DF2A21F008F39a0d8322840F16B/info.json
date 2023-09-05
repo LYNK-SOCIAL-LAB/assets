@@ -1,0 +1,19 @@
+{
+  "name" : "ReadON Catto",
+  "website" : "https://readon.me",
+  "description" : "The Catto NFT for ReadON",
+  "explorer" : "https://arbiscan.io/token/0x802A3009d53c5DF2A21F008F39a0d8322840F16B",
+  "type" : "ARC721",
+  "symbol" : "Catto",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x802A3009d53c5DF2A21F008F39a0d8322840F16B",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ReadOnMe3"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/readon"
+  } ]
+}

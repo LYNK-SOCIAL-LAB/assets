@@ -1,0 +1,22 @@
+{
+  "name" : "Crypto Unicorns V2",
+  "website" : "https://cryptounicorns.fun/",
+  "description" : "Crypto Unicorns is a Digital Pet Collecting and Farming Game built on the blockchain.  \n\nIn Crypto Unicorns, gameplay centers around awesomely unique Unicorn NFTs which players combine with Land NFTs to utilize in a fun farming simulation, as well as other gameplay including Jousting, Racing, and Team RPG.\n\nOfficial collections:\n\nCU Land Market: https://opensea.io/collection/crypto-unicorns-land-market\n\nCU Shadowcorns Market: https://opensea.io/collection/crypto-unicorns-shadowcorns-market\n\nCU Items Marketplace: https://opensea.io/collection/crypto-unicorns-items-marketplace\n\nNote:\n\nLocked assets are non-purchasable. If you run into an error, check Properties > Game Lock > Unlocked for purchasable assets. Users who list locked assets will be excluded from any and all rewards drops. Please join our Discord to learn more: discord.gg/cryptounicorns",
+  "explorer" : "https://polygonscan.com/token/0xdC0479CC5BbA033B3e7De9F178607150B3AbCe1f",
+  "type" : "PRC721",
+  "symbol" : "UNICORNS",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xdC0479CC5BbA033B3e7De9F178607150B3AbCe1f",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/crypto_unicorns"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/cryptounicorns"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@lagunagames"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "VALIFI NFT",
+  "website" : "https://valifi.app/",
+  "description" : "This ValiFi NFT collection represents Legendary YieldKeys that will\nallow users to increase their wallet space to create an additional 12\nYieldBoxes, reduce the monthly fee and allow access to the Lottery game\nrevenue share when it's released.",
+  "explorer" : "https://snowtrace.io/token/0x071dEFCaea5E76C035d8AF2c56b9FA90e7394c4e",
+  "type" : "AVA721",
+  "symbol" : "VALINFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x071dEFCaea5E76C035d8AF2c56b9FA90e7394c4e",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/ValifiApp"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/valifi"
+  } ]
+}

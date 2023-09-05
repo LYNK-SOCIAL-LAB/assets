@@ -1,0 +1,19 @@
+{
+  "name" : "HexInferno",
+  "website" : "https://thebunkerstudios.com/",
+  "description" : "Join the most degenerate characters climbing the mount of Purgatory. Travel trough the 7 terraces collecting different sins. Rumors from Hell say that you will be able to mix them to summon creatures never seen before",
+  "explorer" : "https://ftmscan.com/token/0x48EF0F225a5D67e64cdAc9599eEa052A89C309ab",
+  "type" : "FRC721",
+  "symbol" : "HIFN",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x48EF0F225a5D67e64cdAc9599eEa052A89C309ab",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@hexademaximal"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/MnAtVrzzcy"
+  } ]
+}

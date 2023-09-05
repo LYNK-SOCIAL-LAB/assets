@@ -1,0 +1,13 @@
+{
+  "name" : "LegendHeroNFT",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0x054eDDF9Af1Bff80286B2c27c64bAa0C8E94ce08",
+  "type" : "BEP721",
+  "symbol" : "LegendHeroNFT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x054eDDF9Af1Bff80286B2c27c64bAa0C8E94ce08",
+  "tags" : null,
+  "links" : [ ]
+}

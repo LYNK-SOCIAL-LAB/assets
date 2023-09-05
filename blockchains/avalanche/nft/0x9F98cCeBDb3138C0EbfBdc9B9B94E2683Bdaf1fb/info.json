@@ -1,0 +1,19 @@
+{
+  "name" : "RaptOriginZ",
+  "website" : "https://novilunium.io/",
+  "description" : "NFTs that are backed and redeemable for precious metals",
+  "explorer" : "https://snowtrace.io/token/0x9F98cCeBDb3138C0EbfBdc9B9B94E2683Bdaf1fb",
+  "type" : "AVA721",
+  "symbol" : "RAPTORIGINZ",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x9F98cCeBDb3138C0EbfBdc9B9B94E2683Bdaf1fb",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/raptoriginz"
+  }, {
+    "name" : "discord",
+    "url" : "http://discord.gg/a68edRZbxm"
+  } ]
+}

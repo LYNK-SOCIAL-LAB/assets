@@ -1,0 +1,25 @@
+{
+  "name" : "Dragon Knight",
+  "website" : "https://dragonknight.io/",
+  "description" : "In a mysterious world hidden among the clouds, Dragon Canyon was once\nvery prosperous.Until the horde's iron hoof swept through here, the\ndragon race was destroyed......  You will be the world's adventurers,\nthrough the cultivation of dragons, synthetic upgrades, bonding\ncombinations, with millions of unique combat lineups, to protect the\ndragon homeland！In addition to dragon taming adventure gameplay, there\nare also intense and exciting competitive gameplay, the pursuit of\ncollaborative farming gameplay, tokens. bringing a rich gaming\nexperience!And of course, the flying dragons will bring you a generous\nreward of tokens and loot! The brave long win, waiting for you to fight!",
+  "explorer" : "https://bscscan.com/token/0xE8779f3E5d10918D7FD8E717837C69d730A33Fc0",
+  "type" : "BEP721",
+  "symbol" : "DRAGON",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE8779f3E5d10918D7FD8E717837C69d730A33Fc0",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/DragonKnight_io"
+  }, {
+    "name" : "discord",
+    "url" : "HTbx26fJZ9"
+  }, {
+    "name" : "telegram",
+    "url" : "DragonKnight_metaverse"
+  }, {
+    "name" : "medium",
+    "url" : "@DragonKnight_io"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "Bored Town",
+  "website" : "https://boredtown.app/nfts",
+  "description" : "\"Bored Town is a collection of 5555 Bored Town Monsters living on the Optimism blockchain. Created by sorryvrerror a Thai NFT artist. Bored Town holders have the chance to create derivative work whatever they put their mind to both for personal and commercial purposes under CC BY-SA terms. Holders please join https://guild.xyz/boredtown to get your role on Bored Town Discord and be eligible for giveaway raffles.\"",
+  "explorer" : "https://optimistic.etherscan.io/token/0x8E56343adAFA62DaC9C9A8ac8c742851B0fb8b03",
+  "type" : "OP721",
+  "symbol" : "BORED",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x8E56343adAFA62DaC9C9A8ac8c742851B0fb8b03",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/BoredTownNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/boredtown"
+  } ]
+}

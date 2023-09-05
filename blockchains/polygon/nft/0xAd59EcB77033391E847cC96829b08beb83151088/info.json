@@ -1,0 +1,22 @@
+{
+  "name" : "FancyBirds",
+  "website" : "https://fancybirds.io/",
+  "description" : "Fancy Birds Genesis collection for the first play and earn game by FancyDAO!\r\n\r\nJoin now! Breed, Race, Compete and Earn!",
+  "explorer" : "https://polygonscan.com/token/0xAd59EcB77033391E847cC96829b08beb83151088",
+  "type" : "PRC721",
+  "symbol" : "FB",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xAd59EcB77033391E847cC96829b08beb83151088",
+  "tags" : null,
+  "links" : [ {
+    "name" : "discord",
+    "url" : "https://discord.gg/fancybirds"
+  }, {
+    "name" : "telegram",
+    "url" : "https://t.me/FancyBirdsAnnouncements"
+  }, {
+    "name" : "medium",
+    "url" : "https://medium.com/@fancybirds"
+  } ]
+}

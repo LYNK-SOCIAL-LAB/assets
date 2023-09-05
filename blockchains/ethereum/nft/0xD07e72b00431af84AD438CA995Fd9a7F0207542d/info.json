@@ -1,0 +1,19 @@
+{
+  "name" : "Hashes",
+  "website" : "https://www.thehashes.xyz/",
+  "description" : "Hashes are NFT's most basic building block - an origin point of access for users and a source of entropy & versatile distribution.\n\nHashes are governed by the HashesDAO (comprised of only the first 1000 tokens - Token IDs 0-999). There is an unbounded supply to Hashes, so anyone is welcome to join and participate in the vibrant ecosystem.\n\nAdditional clarifications will be made (color borders, labeling, etc.), but for now: \n\nDeactivated Hashes IDs (require 1 ETH deposit to participate in DAO governance): 421, 424, 447, 475, 582, 692, 735, 757, 764, 795, 806, 829, 919, 957, 998",
+  "explorer" : "https://etherscan.io/token/0xD07e72b00431af84AD438CA995Fd9a7F0207542d",
+  "type" : "ERC721",
+  "symbol" : "HASH",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xD07e72b00431af84AD438CA995Fd9a7F0207542d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/HashesDAO"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/qRxyQgyM"
+  } ]
+}

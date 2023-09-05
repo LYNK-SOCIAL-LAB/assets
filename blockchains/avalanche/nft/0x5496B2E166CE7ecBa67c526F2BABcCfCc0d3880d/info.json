@@ -1,0 +1,19 @@
+{
+  "name" : "Vending Machines Tycoon",
+  "website" : "https://vmtycoon.io/",
+  "description" : "VM Tycoons are Upgradeable Tri-Token NFTs that earn Businesses and Dolla",
+  "explorer" : "https://snowtrace.io/token/0x5496B2E166CE7ecBa67c526F2BABcCfCc0d3880d",
+  "type" : "AVA721",
+  "symbol" : "VMT",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x5496B2E166CE7ecBa67c526F2BABcCfCc0d3880d",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/VMTycoons"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/VMNFT"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "name" : "Fantom Lords",
+  "website" : "https://fantomlords.com/",
+  "description" : "Fantom Lords are an epic collection of 3333 randomly generated lordly NFTs on the Fantom blockchain.",
+  "explorer" : "https://ftmscan.com/token/0xfee8077c909d956E9036c2d2999723931CeFE548",
+  "type" : "FRC721",
+  "symbol" : "FTL",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xfee8077c909d956E9036c2d2999723931CeFE548",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/@ENRINFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://t.co/yn3obeavQ1?amp=1"
+  }, {
+    "name" : "telegram",
+    "url" : "@EnriNFT"
+  } ]
+}

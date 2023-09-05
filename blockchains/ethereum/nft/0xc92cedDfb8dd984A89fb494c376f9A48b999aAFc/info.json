@@ -1,0 +1,19 @@
+{
+  "name" : "Creature World",
+  "website" : "http://creature.world",
+  "description" : "Creature World's self-titled collection of 10,000 unique digital artworks. Created with love by [Danny Cole](https://dannycole.co/). [www.creature.world](https://creature.world/) \r\n\r\nAssociated digital collections and gifts to Creature holders include [Crowd](https://opensea.io/collection/creaturecrowd), [Traveling Creature Memories](https://opensea.io/collection/traveling-creature), [Creature Playground](https://opensea.io/collection/the-creature-playground), [Danny’s Drawings](https://opensea.io/collection/dannysdrawings), [Creature Psychic](https://opensea.io/collection/creature-psychic), and [Journey Artifacts](https://opensea.io/collection/creature-journey-artifacts).",
+  "explorer" : "https://etherscan.io/token/0xc92cedDfb8dd984A89fb494c376f9A48b999aAFc",
+  "type" : "ERC721",
+  "symbol" : "CREATURE",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xc92cedDfb8dd984A89fb494c376f9A48b999aAFc",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/creatureworld"
+  }, {
+    "name" : "instagram",
+    "url" : "creature.world"
+  } ]
+}

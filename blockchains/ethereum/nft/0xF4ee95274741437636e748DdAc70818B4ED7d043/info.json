@@ -1,0 +1,25 @@
+{
+  "name" : "The Doge Pound",
+  "website" : "https://thedogepoundnft.com/",
+  "description" : "The Doge Pound NFT, also called \"OG Doge\" within the community, is the first NFT collection of The Doge Pound brand. We are a community of dog lovers committed to helping dogs across the globe, currently building the largest dog rescue shelter in East Africa.  \r\n\r\nEach Doge Pound NFT bought helps a dog in real life! 🐕 \r\n\r\nOfficial Collections:\r\n\r\n[Doge Pound Puppies](https://opensea.io/collection/doge-pound-puppies-real)\r\n[The Howl of Fame!](https://opensea.io/collection/thedogepoundinfluencers)\r\n[ Doge Pound Christmas 🎅 ](https://opensea.io/collection/doge-pound-christmas)",
+  "explorer" : "https://etherscan.io/token/0xF4ee95274741437636e748DdAc70818B4ED7d043",
+  "type" : "ERC721",
+  "symbol" : "DOGGY",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xF4ee95274741437636e748DdAc70818B4ED7d043",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/TheDogePoundNFT"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/dogepound"
+  }, {
+    "name" : "instagram",
+    "url" : "thedogepoundnfts"
+  }, {
+    "name" : "medium",
+    "url" : "thedogepoundnft"
+  } ]
+}

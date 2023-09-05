@@ -1,0 +1,19 @@
+{
+  "name" : "SpacePepeFTM",
+  "website" : "https://spacepepes.com/",
+  "description" : "100 SpacePepe's from an unknown F-type main sequence star have received an arrival beacon through Lieutenant Pepe that extraterrestrial contact with Earth has been established. They want to use the energy of the earthlings living there and establish a permanent settlement. Though they look terrifying, these SpacePepes are smart creatures that love the fine arts like the Opera.",
+  "explorer" : "https://ftmscan.com/token/0x6799c6414ADB340b2B7264f3a55077e17f71870a",
+  "type" : "FRC721",
+  "symbol" : "SPFTM",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0x6799c6414ADB340b2B7264f3a55077e17f71870a",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/spacepepes"
+  }, {
+    "name" : "discord",
+    "url" : "https://discord.gg/6QcmkWPV"
+  } ]
+}
