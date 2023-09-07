@@ -53,26 +53,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x990eB28e378659b93A29D46fF41F08DC6316DD98",
-            "name": "The Beacon",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x990eB28e378659b93A29D46fF41F08DC6316DD98/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x3ECc587Ef402B5e00a9767d6F9670b463DE2e177",
-            "name": "MetaLine-MysteryBox",
-            "symbol": "MLMB",
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x3ECc587Ef402B5e00a9767d6F9670b463DE2e177/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x4de95c1E202102E22E801590C51D7B979f167FBB",
             "name": "Realm",
@@ -153,16 +133,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xEBba467eCB6b21239178033189CeAE27CA12EaDf",
-            "name": "Silver Coin",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xEBba467eCB6b21239178033189CeAE27CA12EaDf/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x642FfAb2752Df3BCE97083709F36080fb1482c80",
             "name": "Government Toucans",
@@ -199,16 +169,6 @@
             "symbol": "Starlight Edition",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x598242E9b7148144243E8d8FB267aDa178CE9F5a/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xF3d00A2559d84De7aC093443bcaAdA5f4eE4165C",
-            "name": "Essence of Starlight",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xF3d00A2559d84De7aC093443bcaAdA5f4eE4165C/logo.png",
             "sorts": 10000
         },
         {
@@ -293,16 +253,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x619F1f68a9a3cF939327801012E12f95B0312bB9",
-            "name": "Bro Kwon's Booty",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x619F1f68a9a3cF939327801012E12f95B0312bB9/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0xdf10Ff40755Ddbc17fA43ee425a41be3dd244f9c",
             "name": "Revealed Spartans",
@@ -336,7 +286,7 @@
             "type": "ARC721",
             "address": "0xB8C465243b405A5908dc2A664535025b5BA5BaC0",
             "name": "Wastelands",
-            "symbol": "",
+            "symbol": "WSTLND",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xB8C465243b405A5908dc2A664535025b5BA5BaC0/logo.png",
             "sorts": 10000
@@ -573,16 +523,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x381227255eF6c5d85966b78d13e4B4a4c8719b5E",
-            "name": "Tales of Elleria Relics",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x381227255eF6c5d85966b78d13e4B4a4c8719b5E/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0xd99c8d126504EdA668b4d0Cfa1173b54A43E6A72",
             "name": "LionDEX Genesis",
@@ -713,16 +653,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xc5295C6a183F29b7c962dF076819D44E0076860E",
-            "name": "Smol Treasures",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xc5295C6a183F29b7c962dF076819D44E0076860E/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x9EF89A01Dac10f71FaFebc38ABf001925b0fBE3e",
             "name": "12314i32348",
@@ -783,16 +713,6 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xf0a35bA261ECE4FC12870e5B7b9E7790202EF9B5",
-            "name": "Bridgeworld Keys",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xf0a35bA261ECE4FC12870e5B7b9E7790202EF9B5/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x47B4ee9B46E606CDd9E5390A18219b44F1D4eb57",
             "name": "ODOS.xyz NFT Campaign",
@@ -809,16 +729,6 @@
             "symbol": "DUDE",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x1ac7A2fC7f66fA4edf2713A88CD4Bad24220c86C/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xBfeBa04384CeCfAf0240b49163ed418f82E43d3A",
-            "name": "Balancer Crystal",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xBfeBa04384CeCfAf0240b49163ed418f82E43d3A/logo.png",
             "sorts": 10000
         },
         {
@@ -883,32 +793,12 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xF4f935F4272e6FD9C779cF0036589A63b48d77A7",
-            "name": "Blueberry Lab Items",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xF4f935F4272e6FD9C779cF0036589A63b48d77A7/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x00e3Dcb7fd5946DdE80D627b0723AF78249D7d49",
             "name": "FederalFrens",
             "symbol": "FF",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x00e3Dcb7fd5946DdE80D627b0723AF78249D7d49/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x20251F0ee19917bDe625Ba9eBf79aD3b7769f673",
-            "name": "Realm - Cities",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x20251F0ee19917bDe625Ba9eBf79aD3b7769f673/logo.png",
             "sorts": 10000
         },
         {
@@ -933,32 +823,12 @@
         },
         {
             "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0xCE3051ff2ED963406b55ef505751eF88B8f0D791",
-            "name": "Realm - Collectibles",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xCE3051ff2ED963406b55ef505751eF88B8f0D791/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
             "type": "ARC721",
             "address": "0x747910B74D2651A06563C3182838EAE4120F4277",
             "name": "Adventurers of the Void",
             "symbol": "AoV",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x747910B74D2651A06563C3182838EAE4120F4277/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x2f05e799C61b600c65238a9DF060cABA63Db8E78",
-            "name": "Galxe Stargator Soldier Collection Arbitrum",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x2f05e799C61b600c65238a9DF060cABA63Db8E78/logo.png",
             "sorts": 10000
         },
         {
@@ -989,16 +859,6 @@
             "symbol": "AAYC",
             "decimals": "1",
             "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0xeEaE107098eD1EbeDd9aaE41215e6a278f915f61/logo.png",
-            "sorts": 10000
-        },
-        {
-            "chainId": "42161",
-            "type": "ARC1155",
-            "address": "0x5e0ba87362f239bDBF40E621Fa11DBD50d190389",
-            "name": "Toadtoolz",
-            "symbol": null,
-            "decimals": "1",
-            "logoURI": "https://assets.lynk.social/blockchains/arbitrum/nft/0x5e0ba87362f239bDBF40E621Fa11DBD50d190389/logo.png",
             "sorts": 10000
         }
     ]

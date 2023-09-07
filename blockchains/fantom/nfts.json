@@ -493,26 +493,6 @@
         },
         {
           "chainId": "250",
-          "type": "FRC1155",
-          "address": "0xd19Eb6f25De99a993A73a3931c94Cf3B299BEE03",
-          "name": "PaintSwapERC1155V2",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xd19Eb6f25De99a993A73a3931c94Cf3B299BEE03/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "250",
-          "type": "FRC1155",
-          "address": "0x51EF67062De01Dca4A12E3e58dfCEcff20f87551",
-          "name": "JEFE ZOMBIE NFT",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x51EF67062De01Dca4A12E3e58dfCEcff20f87551/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "250",
           "type": "FRC721",
           "address": "0xDAC2031173c07BD622759051Df373b708A1acbcE",
           "name": "Creatures Of The Cave",
@@ -609,16 +589,6 @@
           "symbol": "BTG",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0xc70AAe0bD664255236143CC1B92A7bD9B2ef019E/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "250",
-          "type": "FRC1155",
-          "address": "0x1B69822d4a96C489982412699F5d5313476b88eB",
-          "name": "Neon Shadow Punks",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x1B69822d4a96C489982412699F5d5313476b88eB/logo.png",
           "sorts": 10000
         },
         {
@@ -839,16 +809,6 @@
           "symbol": "AKSE",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x85237cdeaAFcF1e70B7Ab955AaE8cCAE0d135Da7/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "250",
-          "type": "FRC1155",
-          "address": "0x807D1475ED5aa995C47258A72F9fc8D687eDe609",
-          "name": "honeypot DAO",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/fantom/nft/0x807D1475ED5aa995C47258A72F9fc8D687eDe609/logo.png",
           "sorts": 10000
         },
         {

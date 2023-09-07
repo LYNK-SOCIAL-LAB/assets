@@ -23,32 +23,12 @@
         },
         {
           "chainId": "56",
-          "type": "BEP1155",
-          "address": "0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e",
-          "name": "Tiny Hero",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xD80EdcF7C73B43852dA39497a6B5E9cbA1Edf39e/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
           "type": "BEP721",
           "address": "0xF24Bf668Aa087990f1d40aBAbF841456E771913c",
           "name": "Metamon",
           "symbol": "MNM",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xF24Bf668Aa087990f1d40aBAbF841456E771913c/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0x482ccb3d98Eda1a84835FfA45d50527BEf874BF1",
-          "name": "Pirate tale treasure",
-          "symbol": "PTT",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x482ccb3d98Eda1a84835FfA45d50527BEf874BF1/logo.png",
           "sorts": 10000
         },
         {
@@ -109,36 +89,6 @@
           "symbol": "LB",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x56690c8b56eee078481a5824c3d90e4214907Db6/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0xc2027db8c0d68bfd60fF394e47dC210FC9E1407a",
-          "name": "EIGHTBITFUN",
-          "symbol": "EIGHTBITFUN",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xc2027db8c0d68bfd60fF394e47dC210FC9E1407a/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0xEd840De2c93BA3BfaF3d9aa79BfcDC869B77De09",
-          "name": "Liquidifty",
-          "symbol": "LQT",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xEd840De2c93BA3BfaF3d9aa79BfcDC869B77De09/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0xD40C03B8680D4b6a4d78FC3C6F6A28C854e94A79",
-          "name": "Radio Caca",
-          "symbol": "Egg",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xD40C03B8680D4b6a4d78FC3C6F6A28C854e94A79/logo.png",
           "sorts": 10000
         },
         {
@@ -289,26 +239,6 @@
           "symbol": "MSNFT",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x7B941EaCf12A13BC1A809959f96655473410D2c3/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0x1bC274C3b3b24ceF54d01AEEB9fFc73Ac0b68936",
-          "name": "Link3 Mini Shard",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x1bC274C3b3b24ceF54d01AEEB9fFc73Ac0b68936/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0x51353799F8550c9010a8b0CbFE6C02cA96E026E2",
-          "name": "Radio Caca",
-          "symbol": "Potion",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x51353799F8550c9010a8b0CbFE6C02cA96E026E2/logo.png",
           "sorts": 10000
         },
         {
@@ -509,16 +439,6 @@
           "symbol": "NFB",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x9f0225d5C92B9cee4024F6406c4f13e546Fd91A8/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0x5dc3FeD851e07715965E5727592CE33d14b7828D",
-          "name": "Radio Caca",
-          "symbol": "MDB",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x5dc3FeD851e07715965E5727592CE33d14b7828D/logo.png",
           "sorts": 10000
         },
         {
@@ -743,16 +663,6 @@
         },
         {
           "chainId": "56",
-          "type": "BEP1155",
-          "address": "0xFF0575A68552DFCEAe916A99fA9C93367C905fd5",
-          "name": "Memenopoly Cards",
-          "symbol": "MnopCard",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0xFF0575A68552DFCEAe916A99fA9C93367C905fd5/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
           "type": "BEP721",
           "address": "0x05894b0c44F8BB067885f97e53aCBDBe6D9987C1",
           "name": "Apollox",
@@ -949,16 +859,6 @@
           "symbol": "AltcoinCollector",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x996877bfc830ee52B786675d211fdfFd2493A0ea/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "56",
-          "type": "BEP1155",
-          "address": "0x2DFEb752222ccceCB9BC0a934b02C3A86f633900",
-          "name": "Lifeform Item 1155",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/bnbchain/nft/0x2DFEb752222ccceCB9BC0a934b02C3A86f633900/logo.png",
           "sorts": 10000
         },
         {

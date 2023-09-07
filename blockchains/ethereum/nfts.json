@@ -113,16 +113,6 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x495f947276749Ce646f68AC8c248420045cb7b5e",
-          "name": "OpenSea Shared Storefront",
-          "symbol": "OPENSTORE",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x495f947276749Ce646f68AC8c248420045cb7b5e/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B",
           "name": "CloneX",
@@ -303,16 +293,6 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x76BE3b62873462d2142405439777e971754E8E77",
-          "name": "parallel",
-          "symbol": "LL",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x76BE3b62873462d2142405439777e971754E8E77/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0xf07468eAd8cf26c752C676E43C814FEe9c8CF402",
           "name": "CryptoPhunksV2",
@@ -393,32 +373,12 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x7881C3a8D4a8D8a5d6B648164dE823142d8AAf5d",
-          "name": "ColorLines",
-          "symbol": "CL",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x7881C3a8D4a8D8a5d6B648164dE823142d8AAf5d/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0x79FCDEF22feeD20eDDacbB2587640e45491b757f",
           "name": "mfer",
           "symbol": "MFER",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x79FCDEF22feeD20eDDacbB2587640e45491b757f/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x910152fcA5149a50967cC3F0816D269287681ef2",
-          "name": "pumpkins",
-          "symbol": "P",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x910152fcA5149a50967cC3F0816D269287681ef2/logo.png",
           "sorts": 10000
         },
         {
@@ -483,16 +443,6 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x22c36BfdCef207F9c0CC941936eff94D4246d14A",
-          "name": "Bored Ape Chemistry Club",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x22c36BfdCef207F9c0CC941936eff94D4246d14A/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0x160C404B2b49CBC3240055CEaEE026df1e8497A0",
           "name": "projectPXN",
@@ -509,16 +459,6 @@
           "symbol": "CHECKS",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x34eEBEE6942d8Def3c125458D1a86e0A897fd6f9/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1",
-          "name": "RTFKT - MNLTH",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1/logo.png",
           "sorts": 10000
         },
         {
@@ -559,16 +499,6 @@
           "symbol": "INVSBLE",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x59468516a8259058baD1cA5F8f4BFF190d30E066/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0xc36cF0cFcb5d905B8B513860dB0CFE63F6Cf9F5c",
-          "name": "Town Star",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0xc36cF0cFcb5d905B8B513860dB0CFE63F6Cf9F5c/logo.png",
           "sorts": 10000
         },
         {
@@ -623,42 +553,12 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x341A1c534248966c4b6AFaD165B98DAED4B964ef",
-          "name": "Murakami.Flowers Seed",
-          "symbol": "SEED",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x341A1c534248966c4b6AFaD165B98DAED4B964ef/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x28472a58A490c5e09A238847F66A68a47cC76f0f",
-          "name": "$adidas Originals: Into the Metaverse",
-          "symbol": "ADI",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x28472a58A490c5e09A238847F66A68a47cC76f0f/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
           "name": "Decentraland LAND",
           "symbol": "LAND",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x4bA0Be4D8D83B5cA9935d0e0284f707E8F2dD6d1",
-          "name": "Metaligence",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x4bA0Be4D8D83B5cA9935d0e0284f707E8F2dD6d1/logo.png",
           "sorts": 10000
         },
         {
@@ -723,16 +623,6 @@
         },
         {
           "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313",
-          "name": "My Curio Cards",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
           "type": "ERC721",
           "address": "0xE75512aA3bec8f00434bBD6Ad8b0A3FbFF100AD6",
           "name": "MG Land",
@@ -779,16 +669,6 @@
           "symbol": "EST",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x959e104E1a4dB6317fA58F8295F586e1A978c297/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x348FC118bcC65a92dC033A951aF153d14D945312",
-          "name": "RTFKT - CloneX Mintvial",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x348FC118bcC65a92dC033A951aF153d14D945312/logo.png",
           "sorts": 10000
         },
         {
@@ -989,16 +869,6 @@
           "symbol": "DOGGY",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0xF4ee95274741437636e748DdAc70818B4ED7d043/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "1",
-          "type": "ERC1155",
-          "address": "0x4A33F4F14989f5841A0807166BC43A7A7Ec17c0C",
-          "name": "0xy Utility Token",
-          "symbol": "",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/ethereum/nft/0x4A33F4F14989f5841A0807166BC43A7A7Ec17c0C/logo.png",
           "sorts": 10000
         }
     ]

@@ -973,16 +973,6 @@
         },
         {
           "chainId": "43114",
-          "type": "AVA1155",
-          "address": "0xaE2a65B2Df27a42369486AF4C53D9D6031cA94C3",
-          "name": "Untitled Collection - 323bb8",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/avalanche/nft/0xaE2a65B2Df27a42369486AF4C53D9D6031cA94C3/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "43114",
           "type": "AVA721",
           "address": "0x2a84808279ff8316fBd559B781a1397622257376",
           "name": "BabySkullz",

@@ -16,7 +16,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/uniswap.png",
             "url": "https://uniswap.org",
             "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "1"
         },
         {
@@ -43,7 +43,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/sushi.png",
             "url": "https://www.sushi.com",
             "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "4"
         },
         {
@@ -52,7 +52,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/dodo.png",
             "url": "https://dodoex.io",
             "networks": "ethereum,bnbchain,polygon,arbitrum",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "5"
         },
         {
@@ -61,7 +61,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/synthetix.png",
             "url": "https://synthetix.io",
             "networks": "ethereum,optimism",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "6"
         },     
         {
@@ -70,7 +70,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/balancer.png",
             "url": "https://balancer.finance",
             "networks": "ethereum",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "6"
         },     
         {
@@ -79,7 +79,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/quickswap.png",
             "url": "https://quickswap.exchange",
             "networks": "polygon",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "7"
         },     
         {
@@ -88,7 +88,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/velodrome.png",
             "url": "https://velodrome.finance",
             "networks": "optimism",
-            "tags": "DEX,HOT",
+            "tags": "DEX",
             "sorts": "9"
         }
     ]

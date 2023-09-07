@@ -16,17 +16,8 @@
             "logo": "https://assets.lynk.social/dapps/icon/blur.png",
             "url": "https://blur.io",
             "networks": "ethereum",
-            "tags": "NFT,HOT",
+            "tags": "NFT",
             "sorts": "1"
-        },
-        {
-            "name": "Cryptopunks",
-            "intro": "CryptoPunks is a non-fungible token (NFT) collection on the Ethereum blockchain.",
-            "logo": "https://assets.lynk.social/dapps/icon/cryptoPunks.png",
-            "url": "https://cryptopunks.app",
-            "networks": "ethereum",
-            "tags": "NFT,HOT",
-            "sorts": "2"
         }
     ]
 }

@@ -103,16 +103,6 @@
         },
         {
           "chainId": "10",
-          "type": "OP1155",
-          "address": "0x2f05e799C61b600c65238a9DF060cABA63Db8E78",
-          "name": "Galxe Stargator NFTs",
-          "symbol": null,
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0x2f05e799C61b600c65238a9DF060cABA63Db8E78/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "10",
           "type": "OP721",
           "address": "0xBf2794ADAF7A48A2a24EB344a7bA221A52fe2171",
           "name": "OP Orcas",
@@ -239,16 +229,6 @@
           "symbol": "FURRY",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0x6bA97CF6023cc1cC56cCc9CB871612b3D7CD09CA/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "10",
-          "type": "OP1155",
-          "address": "0xe22FD22B3fc0EcD5217D2461d15159A7dfC38790",
-          "name": "Base Subscription",
-          "symbol": "BASE",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0xe22FD22B3fc0EcD5217D2461d15159A7dfC38790/logo.png",
           "sorts": 10000
         },
         {
@@ -479,16 +459,6 @@
           "symbol": "OPPABEARPIXEL",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0x76c9fb6ae4151e00bbdbf9B771CF84DE42a31636/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "10",
-          "type": "OP1155",
-          "address": "0xDbfEaAe58B6dA8901a8a40ba0712bEB2EE18368E",
-          "name": "Hustlers",
-          "symbol": "HUSTLERS",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0xDbfEaAe58B6dA8901a8a40ba0712bEB2EE18368E/logo.png",
           "sorts": 10000
         },
         {
@@ -819,16 +789,6 @@
           "symbol": "dino",
           "decimals": "1",
           "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0xaAEEf52Ad4695b8e3B758215ca6BBCa4D7680C62/logo.png",
-          "sorts": 10000
-        },
-        {
-          "chainId": "10",
-          "type": "OP1155",
-          "address": "0x1e04C33cD5A015e1ced0E3Ecd8BDc42902512124",
-          "name": "Optimism Subscriber NFTs",
-          "symbol": "OPNFT",
-          "decimals": "1",
-          "logoURI": "https://assets.lynk.social/blockchains/optimism/nft/0x1e04C33cD5A015e1ced0E3Ecd8BDc42902512124/logo.png",
           "sorts": 10000
         },
         {

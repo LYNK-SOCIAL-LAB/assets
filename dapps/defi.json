@@ -7,7 +7,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/compound.png",
             "url": "https://compound.finance",
             "networks": "ethereum,arbitrum,polygon",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "0"
         },
         {
@@ -25,7 +25,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/aave.png",
             "url": "https://aave.com",
             "networks": "ethereum,optimism,polygon,arbitrum,avalanche,fantom",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "2"
         },
         {
@@ -34,7 +34,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/makerdao.png",
             "url": "https://makerdao.com",
             "networks": "ethereum",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "3"
         },
         {
@@ -43,7 +43,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/cream.png",
             "url": "https://cream.finance",
             "networks": "ethereum",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "4"
         },
         {
@@ -52,7 +52,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/lido.png",
             "url": "https://lido.fi",
             "networks": "ethereum",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "5"
         },
         {
@@ -61,7 +61,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/dydxexchange.png",
             "url": "https://trade.dydx.exchange",
             "networks": "ethereum",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "6"
         },
         {
@@ -70,7 +70,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/sushi.png",
             "url": "https://www.sushi.com",
             "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "7"
         },
         {
@@ -79,7 +79,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/convex.png",
             "url": "https://www.convexfinance.com",
             "networks": "ethereum,arbitrum,polygon",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "8"
         },
         {
@@ -88,7 +88,7 @@
             "logo": "https://assets.lynk.social/dapps/icon/frax.png",
             "url": "https://frax.finance",
             "networks": "ethereum,bnbchain,polygon,arbitrum,avalanche,fantom",
-            "tags": "DEFI,HOT",
+            "tags": "DEFI",
             "sorts": "9"
         }
     ]
